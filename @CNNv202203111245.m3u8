@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=1513283
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2428272
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3572008
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
