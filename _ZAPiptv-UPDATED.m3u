@@ -209,8 +209,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="😊 ANIME TV" tvg-name="😊 ANIME TV" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 😊 ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="😊 BABYFIRST" tvg-name="😊 BABYFIRST" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 😊 BABYFIRST
-https://stream-us-east-1.getpublica.com/cl/befa1c1f-71ad-4c53-ae20-3fe43496be72/854x480_2792012_0_f.m3u8
+#EXTINF:-1 tvg-id="BABYFIRST" tvg-name="😊 BABYFIRST" tvg-logo="https://i.imgur.com/GnHvrdA.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:6C14:FA2E:EC:0:0:0:0", 😊 BABYFIRST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
 #EXTINF:-1 tvg-id="😊 HAPPY KIDS" tvg-name="😊 HAPPY KIDS" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 😊 HAPPY KIDS
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="😊 PBS KIDS" tvg-name="😊 PBS KIDS" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 😊 PBS KIDS
