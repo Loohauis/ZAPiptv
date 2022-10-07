@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="🇵🇹 RTP 1 ᴴᴰ" tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 RTP 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:BA97:23C5:EC:0:0:0:0", 🇵🇹 RTP 1 ᴴᴰ
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 tvg-id="🇵🇹 RTP 2" tvg-name="🇵🇹 RTP 2" tvg-logo="https://i.imgur.com/EWbaWA6.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
@@ -85,10 +85,14 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="🇪🇸 TVE 24H ᴴᴰ" tvg-name="🇪🇸 TVE 24H ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇪🇸 TVE 24H ᴴᴰ
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="🇪🇸 TVE LA1 ᴴᴰ" tvg-name="🇪🇸 TVE LA1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇪🇸 TVE LA1 ᴴᴰ
+#EXTINF:-1 tvg-id="🇪🇸 TVE LA1 ᴴᴰ" tvg-name="🇪🇸 TVE LA1 ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:4FC:DE4:EC:0:0:0:0", 🇪🇸 TVE LA1 ᴴᴰ *vpn*
 https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
-#EXTINF:-1 tvg-id="🇪🇸 TVE LA2 ᴴᴰ" tvg-name="🇪🇸 TVE LA2 ᴴᴰ VPN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:B1E1:B5DA:EC:0:0:0:0", 🇪🇸 TVE LA2 ᴴᴰ VPN*
+#EXTINF:-1 tvg-id="🇪🇸 TVE LA2 ᴴᴰ" tvg-name="🇪🇸 TVE LA2 ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:B1E1:B5DA:EC:0:0:0:0", 🇪🇸 TVE LA2 ᴴᴰ *vpn*
 https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="🇪🇸 CLAN ᴴᴰ *vpn*" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:E7A2:EBB3:EC:0:0:0:0", 🇪🇸 CLAN ᴴᴰ *vpn*
+https://rtvelivestream.akamaized.net/segments/clan/clan_main.m3u8
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="🇪🇸 TELEDEPORTE ᴴᴰ *vpn*" tvg-logo="" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:29E:E538:EC:0:0:0:0", 🇪🇸 TELEDEPORTE ᴴᴰ *vpn*
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="🇪🇸 TV GALICIA ᴴᴰ" tvg-name="🇪🇸 TV GALICIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇪🇸 TV GALICIA ᴴᴰ
 https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="🇪🇸  CANAL SUR ANDALUCÍA ᴴᴰ" tvg-name="🇪🇸  CANAL SUR ANDALUCÍA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇪🇸  CANAL SUR ANDALUCÍA ᴴᴰ
