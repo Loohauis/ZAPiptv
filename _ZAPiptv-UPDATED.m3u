@@ -4,7 +4,7 @@
 
 # 📺 TV channels
 
-#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1 ᴴᴰ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
@@ -14,7 +14,7 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",🇵🇹 RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
@@ -34,7 +34,7 @@ https://video-auth1.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8|u
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth1.iol.pt/live_edge/live_tvi_internacional_abr/edge_servers/live_tvi_internacional-480p/chunks.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal (vpn)
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal *vpn*
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bit.ly/3zZRsl3
@@ -44,7 +44,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-name="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/TVI_fic%C3%A7%C3%A3o.png/200px-TVI_fic%C3%A7%C3%A3o.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 TVI FICÇÃO ᴴᴰ
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 tvg-id="🇵🇹 CNN PORTUGAL*" tvg-name="🇵🇹 CNN PORTUGAL *vpn*" tvg-logo="https://i.imgur.com/CsRcqTx.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL *vpn*
-https://bit.ly/3zZRsl3
+#https://bit.ly/3zZRsl3
 #EXTINF:-1 tvg-id="🇵🇹 CMTV ᴴᴰ" tvg-name="🇵🇹 CMTV ᴴᴰ" tvg-logo="https://i.imgur.com/TP4vzp3.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:BF9B:7005:EC:0:0:0:0", 🇵🇹 CMTV ᴴᴰ
 https://bit.ly/3SUP5Xk
 #EXTINF:-1 tvg-id="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-name="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 SIC NOTICIAS ᴴᴰ
