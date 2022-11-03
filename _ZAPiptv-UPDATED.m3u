@@ -1,28 +1,44 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="🇵🇹 RTP 1 ᴴᴰ" tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:BA97:23C5:EC:0:0:0:0", 🇵🇹 RTP 1 ᴴᴰ
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-#EXTINF:-1 tvg-id="🇵🇹 RTP 2" tvg-name="🇵🇹 RTP 2" tvg-logo="https://i.imgur.com/EWbaWA6.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
+
+# M3UPT.com - IPTV playlist in M3U format optimized for Kodi with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
+
+# 📺 TV channels
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2 | HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
-#https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 tvg-id="🇵🇹 RTP 3" tvg-name="🇵🇹 RTP 3" tvg-logo="https://i.imgur.com/AE5d2lq.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 RTP 3
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
-#EXTINF:-1 tvg-id="🇵🇹 SIC ᴴᴰ" tvg-name="🇵🇹 SIC ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logo_SIC_2018.png/200px-Logo_SIC_2018.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 SIC ᴴᴰ
+#EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="🇵🇹 TVI" tvg-name="🇵🇹 TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/LogoTVI2017.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 TVI
-https://video-auth1.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
+
+#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth1.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVIInt.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth1.iol.pt/live_edge/live_tvi_internacional_abr/edge_servers/live_tvi_internacional-480p/chunks.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
+
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal (vpn)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bit.ly/3zZRsl3
+
 #EXTINF:-1 tvg-id="🇵🇹 TVI REALITY" tvg-name="🇵🇹 TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/49/Tvi_reality.png/200px-Tvi_reality.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 TVI REALITY
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36
 #EXTINF:-1 tvg-id="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-name="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/TVI_fic%C3%A7%C3%A3o.png/200px-TVI_fic%C3%A7%C3%A3o.png" tvg-shift="0" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠", 🇵🇹 TVI FICÇÃO ᴴᴰ
