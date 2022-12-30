@@ -17,7 +17,7 @@ http://cineapp.org:8000/Fernando/Fernando/3411
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-name="🇵🇹 TVI AFRICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL *VPN*" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL *VPN*
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="🇵🇹 CMTV ᴴᴰ" tvg-logo="https://i.imgur.com/TP4vzp3.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:BF9B:7005:EC:0:0:0:0", 🇵🇹 CMTV ᴴᴰ
 https://bit.ly/3SUP5Xk
@@ -143,8 +143,8 @@ https://sc.id-tv.kz/TV1000.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #EXTINF:-1 tvg-name="🇬🇧 SKY NEWS" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2016/09/Sky-News-Logo.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:B0EE:9728:EC:0:0:0:0", 🇬🇧 SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 tvg-name="🇬🇧 BBC ONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/BBC_One_Olympics_sting_2016_%28Sports%29.gif" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:F7AE:B863:EC:0:0:0:0", 🇬🇧 BBC ONE
-http://185.106.44.57:4513/m3u8/BBCONEHDFIBRA.m3u8
+#EXTINF:-1 tvg-name="🇬🇧 BBC ONE *vpn*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/BBC_One_Olympics_sting_2016_%28Sports%29.gif" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:F7AE:B863:EC:0:0:0:0", 🇬🇧 BBC ONE *vpn*
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="🇬🇧 BBC TWO" tvg-logo="https://amirsaidani.co.uk/wp-content/uploads/2019/06/BBC_TWO_LOGO_ANIMATION.gif" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:B63:26D7:EC:0:0:0:0", 🇬🇧 BBC TWO
 http://185.106.44.57:4513/m3u8/BBCTWOHDFIBRA.m3u8
 #EXTINF:-1 tvg-name="🇬🇧 BBC CBBC" tvg-logo="https://media2.giphy.com/media/cAvHCSMgkfapCkDQgc/giphy.gif" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:1587:D17E:EC:0:0:0:0", 🇬🇧 BBC CBBC
