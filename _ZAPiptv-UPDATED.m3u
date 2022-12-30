@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:97:65:53:CE40000:0:0:0", 🇵🇹 RTP 1 ᴴᴰ
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-name="🇵🇹 RTP 2 ᴴᴰ" tvg-logo="https://i.imgur.com/EWbaWA6.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:9CFA:FE18:EC:0:0:0:0", 🇵🇹 RTP 2 ᴴᴰ
-https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-agent=user-agent=Opera
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="🇵🇹 RTP 3" tvg-logo="https://i.imgur.com/AE5d2lq.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:B593:123F:EC:0:0:0:0", 🇵🇹 RTP 3
 https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="🇵🇹 SIC ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logo_SIC_2018.png/200px-Logo_SIC_2018.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:FE07:3CD7:EC:0:0:0:0", 🇵🇹 SIC ᴴᴰ
@@ -18,7 +18,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-name="🇵🇹 TVI AFRICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL *VPN*" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL *VPN*
-http://dns.acaidopara.net:8080/Wesley2514/3253xyzFWesley/75837
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="🇵🇹 CMTV ᴴᴰ" tvg-logo="https://i.imgur.com/TP4vzp3.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:BF9B:7005:EC:0:0:0:0", 🇵🇹 CMTV ᴴᴰ
 https://bit.ly/3SUP5Xk
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png" group-title="✠ ✠ ⲌAP⫯pƬv ✠ ✠" dvb-reference="4097:0:1:9CB3:B4C:EC:0:0:0:0", 🇵🇹 SIC NOTICIAS ᴴᴰ
