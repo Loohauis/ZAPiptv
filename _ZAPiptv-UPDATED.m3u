@@ -41,13 +41,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-a
 http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1419
 #EXTINF:-1 tvg-name="🇵🇹 FAMA TV" tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png" group-title="ZAPiptv" dvb-reference="4097:0:1:571A:95CC:EC:0:0:0:0", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇵🇹 TV MOZAMBIQUE" group-title="ZAPiptv" dvb-reference="4097:0:1:719B:4BC3:EC:0:0:0:0", 🇵🇹 TV MOZAMBIQUE
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="🇵🇹 TV MOZAMBIQUE INTER" group-title="ZAPiptv" dvb-reference="4097:0:1:3C97:6F44:EC:0:0:0:0", 🇵🇹 TV MOZAMBIQUE INTER
-http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="🇵🇹 TV MOZAMBIQUE" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png" group-title="ZAPiptv" dvb-reference="4097:0:1:719B:4BC3:EC:0:0:0:0", 🇵🇹 TV MOZAMBIQUE
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="🇵🇹 TV MOZAMBIQUE INTERNACIONAL" tvg-logo="http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8" group-title="ZAPiptv" dvb-reference="4097:0:1:3C97:6F44:EC:0:0:0:0", 🇵🇹 TV MOZAMBIQUE INTERNACIONAL
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇵🇹 RAKUTEN FAMÍLIA" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B9A7:509D:EC:0:0:0:0", 🇵🇹 RAKUTEN FAMÍLIA
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="🇵🇹 KURIAKOS KIDS ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:C73B:36F4:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 KURIAKOS KIDS ᴴᴰ
+#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="🇵🇹 KURIAKOS KIDS ᴴᴰ" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13833/thumb_KURIAKOS_KIDS_.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C73B:36F4:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 KURIAKOS KIDS ᴴᴰ
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="🇵🇹 KURIAKOS CINE ᴴᴰ" tvg-logo="https://i.imgur.com/4znhBc1.png" group-title="ZAPiptv" dvb-reference="4097:0:1:34DB:18DC:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 KURIAKOS CINE ᴴᴰ
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
@@ -63,7 +63,7 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=68987&extension=
 http://120972280412307600.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307600.ts
 #EXTINF:-1 tvg-id="SPORT.TV1.pt" tvg-name="🇵🇹 SPORT TV 1 ᴴᴰ [vpn]" group-title="ZAPiptv" dvb-reference="4097:0:1:709F:5BE2:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 SPORT TV 1 ᴴᴰ [vpn]
 https://bit.ly/3MdTFO6
-#EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.pt" tvg-name="🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:918:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.pt" tvg-name="🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]" tvg-logo="https://w7.pngwing.com/pngs/354/277/png-transparent-boondoggle-eleven-sports-network-chinese-basketball-association-sports-league-two-eleven-came-miscellaneous-television-text.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:918:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224093
 #EXTINF:-1 tvg-name="🇵🇹 EURONEWS" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CD72:2C2F:EC:0:0:0:0", 🇵🇹 EURONEWS
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -97,7 +97,7 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 TV5 MONDE INFO ᴴᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DB87:7F14:EC:0:0:0:0", 🇫🇷 TV5 MONDE INFO ᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 M6" group-title="ZAPiptv" dvb-reference="4097:0:1:3E9B:9392:EC:0:0:0:0", 🇫🇷 M6
+#EXTINF:-1 tvg-name="🇫🇷 M6 ᶠᴴᴰ" tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3E9B:9392:EC:0:0:0:0", 🇫🇷 M6 ᶠᴴᴰ
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 GULLI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:50C0:A49B:EC:0:0:0:0", 🇫🇷 GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
