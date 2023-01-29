@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠" group-title="ZAPiptv" dvb-reference="4097:0:1:E1E:67B6:EC:0:0:0:0", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
+#EXTINF:-1 tvg-name="✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠" tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E1E:67B6:EC:0:0:0:0", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
 #EXTINF:-1 tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:97:65:53:CE40000:0:0:0", 🇵🇹 RTP 1 ᴴᴰ
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent=user-agent=Opera
@@ -9,8 +9,8 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="🇵🇹 SIC ᴴᴰ" tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="ZAPiptv" dvb-reference="4097:0:1:FE07:3CD7:EC:0:0:0:0", 🇵🇹 SIC ᴴᴰ
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-name="🇵🇹 SIC CARAS ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Caras.png" group-title="ZAPiptv" dvb-reference="4097:0:1:369F:8EBD:EC:0:0:0:0", 🇵🇹 SIC CARAS ᶠᴴᴰ
-https://bit.ly/3HWBRXC
+#EXTINF:-1 tvg-name="🇵🇹 SIC CARAS ᶠᴴᴰ [vpn]" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Caras.png" group-title="ZAPiptv" dvb-reference="4097:0:1:369F:8EBD:EC:0:0:0:0", 🇵🇹 SIC CARAS ᶠᴴᴰ [vpn]
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/5910
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="🇵🇹 TVI ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F217:83AF:EC:0:0:0:0", 🇵🇹 TVI ᴴᴰ
 https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="🇵🇹 TVI REALITY" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:2512:5001:EC:0:0:0:0", 🇵🇹 TVI REALITY
@@ -19,24 +19,26 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-name="🇵🇹 TVI AFRICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-name="🇵🇹 TVI INTERNACIONAL ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:40A4:A676:EC:0:0:0:0", 🇵🇹 TVI INTERNACIONAL ᴴᴰ
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL
 https://video-auth7.iol.pt/edge_servers/cnn-720p/chunks.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="🇵🇹 CMTV ᴴᴰ" tvg-logo="https://i.imgur.com/TP4vzp3.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BF9B:7005:EC:0:0:0:0", 🇵🇹 CMTV ᴴᴰ
-https://bit.ly/3SUP5Xk
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="🇵🇹 CMTV ᴴᴰ [vpn]" tvg-logo="https://i.imgur.com/TP4vzp3.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BF9B:7005:EC:0:0:0:0", 🇵🇹 CMTV ᴴᴰ [vpn]
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25017.ts
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9CB3:B4C:EC:0:0:0:0", 🇵🇹 SIC NOTICIAS ᴴᴰ
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="🇵🇹 RTP AÇORES" tvg-logo="rtpaores504p" group-title="ZAPiptv" dvb-reference="4097:0:1:BA4:A428:EC:0:0:0:0", 🇵🇹 RTP AÇORES
-http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="🇵🇹 RTP ÁFRICA" group-title="ZAPiptv" dvb-reference="4097:0:1:E7B7:7B89:EC:0:0:0:0", 🇵🇹 RTP ÁFRICA
-http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-name="🇵🇹 RTP INTERNACIONAL" tvg-logo="rtpinternacional504p" group-title="ZAPiptv" dvb-reference="4097:0:1:664C:C28D:EC:0:0:0:0", 🇵🇹 RTP INTERNACIONAL
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="🇵🇹 RTP AÇORES ᴴᴰ" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BA4:A428:EC:0:0:0:0", 🇵🇹 RTP AÇORES ᴴᴰ
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="🇵🇹 RTP ÁFRICA" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title="ZAPiptv" dvb-reference="4097:0:1:E7B7:7B89:EC:0:0:0:0", 🇵🇹 RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-name="🇵🇹 RTP INTERNACIONAL" tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:664C:C28D:EC:0:0:0:0", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="🇵🇹 RTP MADEIRA" tvg-logo="rtpmadeira504p" group-title="ZAPiptv" dvb-reference="4097:0:1:7D3B:950C:EC:0:0:0:0", 🇵🇹 RTP MADEIRA
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="🇵🇹 RTP MEMÓRIA" group-title="ZAPiptv" dvb-reference="4097:0:1:A76D:256C:EC:0:0:0:0", 🇵🇹 RTP MEMÓRIA
-http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="🇵🇹 PORTO CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:794:D649:EC:0:0:0:0", 🇵🇹 PORTO CANAL
-https://bit.ly/3vx5WWm
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="🇵🇹 RTP MADEIRA" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:7D3B:950C:EC:0:0:0:0", 🇵🇹 RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="🇵🇹 RTP MEMÓRIA" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:A76D:256C:EC:0:0:0:0", 🇵🇹 RTP MEMÓRIA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="🇵🇹 PORTO CANAL [vpn]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:794:D649:EC:0:0:0:0", 🇵🇹 PORTO CANAL [vpn]
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1419
 #EXTINF:-1 tvg-name="🇵🇹 FAMA TV" tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png" group-title="ZAPiptv" dvb-reference="4097:0:1:571A:95CC:EC:0:0:0:0", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 #EXTINF:-1 tvg-name="🇵🇹 TV MOZAMBIQUE" group-title="ZAPiptv" dvb-reference="4097:0:1:719B:4BC3:EC:0:0:0:0", 🇵🇹 TV MOZAMBIQUE
@@ -57,32 +59,22 @@ http://prelive.club:80/play/live.php?mac=00:1A:79:49:9C:19&stream=3329&extension
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTV1.pt" tvg-name="🇵🇹 BTV ᴴᴰ [vpn]" group-title="ZAPiptv" dvb-reference="4097:0:1:CFA3:B1A3:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 BTV ᴴᴰ [vpn]
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=68987&extension=ts
-#EXTINF:-1 tvg-id="Canal.11..HD.pt" tvg-name="🇵🇹 CANAL 11 INTER ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:2485:1A4A:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 CANAL 11 INTER ᴴᴰ
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 tvg-id="Canal.11..HD.pt" tvg-name="🇵🇹 CANAL 11 ᶠᴴᴰ*" group-title="ZAPiptv" dvb-reference="4097:0:1:BAC1:6ABA:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 CANAL 11 ᶠᴴᴰ*
-https://bit.ly/3TaktRU
-#EXTINF:-1 tvg-id="SPORT.TV+.pt" tvg-name="🇵🇹 SPORT TV + ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:B1EC:30F2:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 SPORT TV + ᴴᴰ
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
-#EXTINF:-1 tvg-id="SPORT.TV1.pt" tvg-name="🇵🇹 SPORT TV 1 ᴴᴰ *vpn*" group-title="ZAPiptv" dvb-reference="4097:0:1:709F:5BE2:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 SPORT TV 1 ᴴᴰ *vpn*
+#EXTINF:-1 tvg-id="Canal.11..HD.pt" tvg-name="🇵🇹 CANAL 11 ᶠᴴᴰ [vpn]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BAC1:6ABA:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 CANAL 11 ᶠᴴᴰ [vpn]
+http://120972280412307600.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307600.ts
+#EXTINF:-1 tvg-id="SPORT.TV1.pt" tvg-name="🇵🇹 SPORT TV 1 ᴴᴰ [vpn]" group-title="ZAPiptv" dvb-reference="4097:0:1:709F:5BE2:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 SPORT TV 1 ᴴᴰ [vpn]
 https://bit.ly/3MdTFO6
-#EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.pt" tvg-name="🇵🇹 ELEVEN SPORTS 1 ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:918:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 ELEVEN SPORTS 1 ᴴᴰ
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 tvg-name="🇵🇹 ELEVEN SPORTS 2 ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:917:EC:0:0:0:0", 🇵🇹 ELEVEN SPORTS 2 ᴴᴰ
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 tvg-id="ELEVEN.SPORTS.3.pt" tvg-name="🇵🇹 ELEVEN SPORTS 3 ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:916:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 ELEVEN SPORTS 3 ᴴᴰ
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 tvg-name="🇵🇹 EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CD72:2C2F:EC:0:0:0:0", 🇵🇹 EURONEWS
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.pt" tvg-name="🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]" group-title="ZAPiptv" dvb-reference="4097:0:1:6E9A:918:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 ELEVEN SPORTS 1 ᴴᴰ [vpn]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224093
+#EXTINF:-1 tvg-name="🇵🇹 EURONEWS" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CD72:2C2F:EC:0:0:0:0", 🇵🇹 EURONEWS
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="🇵🇹 GLOBO ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:8C50:185:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 GLOBO ᴴᴰ
-https://bit.ly/3CgYQs3
-#EXTINF:-1 tvg-name="🇧🇷 CNN BRASIL HD" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8743:90ED:EC:0:0:0:0", 🇧🇷 CNN BRASIL HD
+#EXTINF:-1 tvg-name="🇧🇷 CNN BRASIL ᴴᴰ" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8743:90ED:EC:0:0:0:0", 🇧🇷 CNN BRASIL ᴴᴰ
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.News.pt" tvg-name="🇧🇷 RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png" group-title="ZAPiptv" dvb-reference="4097:0:1:A45C:FE7E:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇧🇷 RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-name="🇧🇷 SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C68E:D7BF:EC:0:0:0:0", 🇧🇷 SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="🇧🇷 SANTA CECILIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7EDE:6D28:EC:0:0:0:0", 🇧🇷 SANTA CECILIA TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-name="🇧🇷 SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C68E:D7BF:EC:0:0:0:0", 🇧🇷 SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇧🇷 TV BRASIL HITS" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png" group-title="ZAPiptv" dvb-reference="4097:0:1:141D:D405:EC:0:0:0:0", 🇧🇷 TV BRASIL HITS
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:-1 tvg-name="🇧🇷 TV NOVA PLAY" tvg-logo="https://playerv.zcast.com.br/app-multi-plataforma/logo-tvnovaplay.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CB87:21CC:EC:0:0:0:0", 🇧🇷 TV NOVA PLAY
@@ -90,18 +82,18 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-name="🇧🇷 ALL SPORTS" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F1F0:911E:EC:0:0:0:0", 🇧🇷 ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-name="🇪🇸 24H ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7906:ED5F:EC:0:0:0:0", 🇪🇸 24H ᴴᴰ
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TVE LA1 ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4FC:DE4:EC:0:0:0:0", 🇪🇸 TVE LA1 ᴴᴰ *vpn*
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-name="🇪🇸 TVE LA1 ᴴᴰ [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4FC:DE4:EC:0:0:0:0", 🇪🇸 TVE LA1 ᴴᴰ [VPN]
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TVE LA2 ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B1E1:B5DA:EC:0:0:0:0", 🇪🇸 TVE LA2 ᴴᴰ *vpn*
+#EXTINF:-1 tvg-name="🇪🇸 TVE LA2 ᴴᴰ [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B1E1:B5DA:EC:0:0:0:0", 🇪🇸 TVE LA2 ᴴᴰ [VPN]
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 CLAN ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E7A2:EBB3:EC:0:0:0:0", 🇪🇸 CLAN ᴴᴰ *vpn*
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TELEDEPORTE ᴴᴰ *vpn*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="ZAPiptv" dvb-reference="4097:0:1:29E:E538:EC:0:0:0:0", 🇪🇸 TELEDEPORTE ᴴᴰ *vpn*
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_720.m3u8
+#EXTINF:-1 tvg-name="🇪🇸 TV GALICIA CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg" group-title="ZAPiptv" dvb-reference="4097:0:1:E7A2:EBB3:EC:0:0:0:0", 🇪🇸 TV GALICIA CULTURAL
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-name="🇪🇸 TV GALICIA INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg" group-title="ZAPiptv" dvb-reference="4097:0:1:29E:E538:EC:0:0:0:0", 🇪🇸 TV GALICIA INFANTIL
+https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="🇪🇸 TV GALICIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6662:54A6:EC:0:0:0:0", 🇪🇸 TV GALICIA ᴴᴰ
 https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇸  CANAL SUR ANDALUCÍA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DBA2:9BB7:EC:0:0:0:0", 🇪🇸  CANAL SUR ANDALUCÍA ᴴᴰ
+#EXTINF:-1 tvg-name="🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DBA2:9BB7:EC:0:0:0:0", 🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 TV5 MONDE INFO ᴴᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DB87:7F14:EC:0:0:0:0", 🇫🇷 TV5 MONDE INFO ᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -229,8 +221,8 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
 #EXTINF:-1 tvg-name="😊 Zoo Moo" group-title="ZAPiptv" dvb-reference="4097:0:1:D5CA:4C02:EC:0:0:0:0", 😊 Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🎵 BOX HITS" group-title="ZAPiptv" dvb-reference="4097:0:1:F32:4932:EC:0:0:0:0", 🎵 BOX HITS
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-name="🎵 Deejay TV" tvg-logo="https://logos-download.com/wp-content/uploads/2020/07/DeeJay_TV_Logo-700x701.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F32:4932:EC:0:0:0:0", 🎵 Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-name="🎵 Clubbing TV" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="ZAPiptv" dvb-reference="4097:0:1:60A7:804F:EC:0:0:0:0", 🎵 Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🎵 M2O ᴴᴰ" tvg-logo="https://i.imgur.com/47soiAM.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E3DB:A663:EC:0:0:0:0", 🎵 M2O ᴴᴰ
