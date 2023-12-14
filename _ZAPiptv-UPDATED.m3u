@@ -156,7 +156,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🇺🇸 NBC NEWS NOW ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:8805:DA49:EC:0:0:0:0", 🇺🇸 NBC NEWS NOW ᴴᴰ
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 #EXTINF:-1 tvg-name="🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ" tvg-logo="https://i.imgur.com/5qfFUov.png" group-title="ZAPiptv" dvb-reference="4097:0:1:487D:6D48:EC:0:0:0:0", 🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ
-https://www.youtube.com/watch?v=T0Pcb2MSPIA
+https://kister.net/mpl/yt2m3u8?v=@pbsguam
 #EXTINF:-1 tvg-id="AUSTRALIA CHANNEL" tvg-name="Australia Channel (720p)" group-title="ZAPiptv" dvb-reference="4097:0:1:966E:9F69:EC:0:0:0:0", Australia Channel (720p)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="🇦🇺 ABC TV" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4A6C:1825:EC:0:0:0:0", 🇦🇺 ABC TV
