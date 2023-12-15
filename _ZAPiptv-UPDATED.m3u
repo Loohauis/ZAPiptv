@@ -91,10 +91,12 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="TVG Cultural (720p)" tvg-name="TVG CULTURAL (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:F7A9:5F6:EC:0:0:0:0", TVG CULTURAL (720P)
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG Infantil (720p) [Not 24/7]" tvg-name="🇪🇸 🧒➾ TVG INFANTIL" group-title="ZAPiptv" dvb-reference="4097:0:1:D54:28AF:EC:0:0:0:0", 🇪🇸 🧒➾ TVG INFANTIL
+#EXTINF:-1 tvg-id="TVG Infantil (720p) [Not 24/7]" tvg-name="🇪🇸 TVG INFANTIL" group-title="ZAPiptv" dvb-reference="4097:0:1:D54:28AF:EC:0:0:0:0", 🇪🇸 TVG INFANTIL
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="🇪🇸 TV GALICIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6662:54A6:EC:0:0:0:0", 🇪🇸 TV GALICIA ᴴᴰ
 https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-name="🇪🇸 SOL MÙSICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png" group-title="ZAPiptv" dvb-reference="4097:0:1:20CD:D4EE:EC:0:0:0:0", 🇪🇸 SOL MÙSICA ᴴᴰ
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-name="🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DBA2:9BB7:EC:0:0:0:0", 🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 TV5 MONDE INFO ᴴᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DB87:7F14:EC:0:0:0:0", 🇫🇷 TV5 MONDE INFO ᴴᴰ
