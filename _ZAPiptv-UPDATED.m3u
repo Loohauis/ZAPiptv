@@ -11,6 +11,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="🇵🇹 TVI ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F217:83AF:EC:0:0:0:0", 🇵🇹 TVI ᴴᴰ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-name="🇵🇹 TVI ᴴᴰ s2" group-title="ZAPiptv" dvb-reference="4097:0:1:D1D9:A62D:EC:0:0:0:0", 🇵🇹 TVI ᴴᴰ s2
+https://video-auth2.iol.pt/live_hd1/live_hd1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="🇵🇹 TVI REALITY" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:2512:5001:EC:0:0:0:0", 🇵🇹 TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/TVI_fic%C3%A7%C3%A3o.png/200px-TVI_fic%C3%A7%C3%A3o.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B929:14A5:EC:0:0:0:0", 🇵🇹 TVI FICÇÃO ᴴᴰ
@@ -21,9 +23,7 @@ https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-name="🇵🇹 TVI INTERNACIONAL ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:40A4:A676:EC:0:0:0:0", 🇵🇹 TVI INTERNACIONAL ᴴᴰ
 https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 tvg-name="🇵🇹 CNN PORTUGAL s1" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6192:554A:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL s1
-https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL s2" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL s2
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-name="🇵🇹 SIC Novelas ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6F95:DD62:EC:0:0:0:0", 🇵🇹 SIC Novelas ᴴᴰ
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
