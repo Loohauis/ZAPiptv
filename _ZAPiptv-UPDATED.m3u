@@ -147,18 +147,18 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 http://flash.shortgod.com/viscao/tv5.php?id=15060
 #EXTINF:-1 tvg-name="🇺🇸 ABC NEWS" group-title="ZAPiptv" dvb-reference="4097:0:1:92B1:7025:EC:0:0:0:0", 🇺🇸 ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="🇺🇸 @60minutes ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/60_Minutes_Logo.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C6CE:26FA:EC:0:0:0:0", 🇺🇸 @60minutes ᴴᴰ
-https://kister.net/mpl/yt2m3u8?v=@60minutes
+#EXTINF:-1 tvg-name="🇺🇸 @60minutes ᴴᴰ (vpn)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/60_Minutes_Logo.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C6CE:26FA:EC:0:0:0:0", 🇺🇸 @60minutes ᴴᴰ (vpn)
+https://kister.net/mpl/yt2m3u8?w=@60minutes
 #EXTINF:-1 tvg-name="🇺🇸 CBS NEWS ᴴᴰ" tvg-logo="https://e7.pngegg.com/pngimages/401/965/png-clipart-cbs-news-logo-television-news-miscellaneous-television-thumbnail.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DF47:FBD2:EC:0:0:0:0", 🇺🇸 CBS NEWS ᴴᴰ
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
-#EXTINF:-1 tvg-id="🇺🇸 FOX NEWS ᴴᴰ" tvg-name="FOX News Now (720p)" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6EA8:4D23:EC:0:0:0:0", FOX News Now (720p)
+#EXTINF:-1 tvg-id="🇺🇸 FOX NEWS ᴴᴰ" tvg-name="🇺🇸 FOX News Now (720p)" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6EA8:4D23:EC:0:0:0:0", 🇺🇸 FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="🇺🇸 NBC NEWS NOW ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:8805:DA49:EC:0:0:0:0", 🇺🇸 NBC NEWS NOW ᴴᴰ
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 #EXTINF:-1 tvg-name="🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ" tvg-logo="https://i.imgur.com/5qfFUov.png" group-title="ZAPiptv" dvb-reference="4097:0:1:487D:6D48:EC:0:0:0:0", 🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ
 https://kister.net/mpl/yt2m3u8?w=@pbsguam
-#EXTINF:-1 tvg-id="AUSTRALIA CHANNEL" tvg-name="Australia Channel (720p)" group-title="ZAPiptv" dvb-reference="4097:0:1:966E:9F69:EC:0:0:0:0", Australia Channel (720p)
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="AUSTRALIA CHANNEL" tvg-name="🇦🇺 ABC News Australia live" group-title="ZAPiptv" dvb-reference="4097:0:1:966E:9F69:EC:0:0:0:0", 🇦🇺 ABC News Australia live
+https://kister.net/mpl/yt2m3u8?w=@abcnewsaustralia
 #EXTINF:-1 tvg-name="🇦🇺 ABC TV" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4A6C:1825:EC:0:0:0:0", 🇦🇺 ABC TV
 https://c.mjh.nz/3201026102E1
 #EXTINF:-1 tvg-id="🇦🇺 ABC ME" tvg-name="ABC ME (720p)" group-title="ZAPiptv" dvb-reference="4097:0:1:2B11:E6BB:EC:0:0:0:0", ABC ME (720p)
