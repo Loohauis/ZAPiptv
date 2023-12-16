@@ -96,7 +96,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-name="🇫🇷 GULLI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:50C0:A49B:EC:0:0:0:0", 🇫🇷 GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 MTV ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif" group-title="ZAPiptv" dvb-reference="4097:0:1:62E1:CEA2:EC:0:0:0:0", 🇫🇷 MTV ᴴᴰ
-http://190.2.155.162:8080/mtvfrance/mpegts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="🇫🇷 BFM PARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E0CA:1672:EC:0:0:0:0", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="🇮🇹 RAI NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E4E7:FFB8:EC:0:0:0:0", 🇮🇹 RAI NEWS 24
@@ -181,15 +181,15 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="🌎 NHK WORLD" tvg-name="🌎 NHK WORLD JAPAN" tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png" group-title="ZAPiptv" dvb-reference="4097:0:1:1D4F:619:EC:0:0:0:0", 🌎 NHK WORLD JAPAN
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="📺 AFV FAMILY ᴴᴰ" tvg-name="AFV FAMILY (720P)" tvg-logo="https://i.imgur.com/ZqkrWcN.png" group-title="ZAPiptv" dvb-reference="4097:0:1:915:8D6D:EC:0:0:0:0", AFV FAMILY (720P)
+#EXTINF:-1 tvg-id="📺 AFV FAMILY ᴴᴰ" tvg-name="📺 AFV FAMILY" tvg-logo="https://i.imgur.com/ZqkrWcN.png" group-title="ZAPiptv" dvb-reference="4097:0:1:915:8D6D:EC:0:0:0:0", 📺 AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="📺 ET LIVE ENTERTAINMENT TONIGHT ᴴᴰ" tvg-logo="https://i.imgur.com/gi1ms1Y.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3D46:419D:EC:0:0:0:0", 📺 ET LIVE ENTERTAINMENT TONIGHT ᴴᴰ
+#EXTINF:-1 tvg-name="📺 ET LIVE ENTERTAINMENT TONIGHT" tvg-logo="https://i.imgur.com/gi1ms1Y.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3D46:419D:EC:0:0:0:0", 📺 ET LIVE ENTERTAINMENT TONIGHT
 http://191.209.60.250:8000/play/a00f
-#EXTINF:-1 tvg-id="📺 FAILARMY ᴴᴰ" tvg-name="FAILARMY (720P)" tvg-logo="https://i.imgur.com/QVkqWhP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:41E6:915D:EC:0:0:0:0", FAILARMY (720P)
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 tvg-name="📺 PEOPLE ARE AWESOME ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:2412:E75E:EC:0:0:0:0", 📺 PEOPLE ARE AWESOME ᴴᴰ
+#EXTINF:-1 tvg-id="📺 FAILARMY ᴴᴰ" tvg-name="📺 FAILARMY" tvg-logo="https://i.imgur.com/QVkqWhP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:41E6:915D:EC:0:0:0:0", 📺 FAILARMY
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="📺 PEOPLE ARE AWESOME" group-title="ZAPiptv" dvb-reference="4097:0:1:2412:E75E:EC:0:0:0:0", 📺 PEOPLE ARE AWESOME
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="📺 THE PET COLLECTIVE ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:4B11:E128:EC:0:0:0:0", 📺 THE PET COLLECTIVE ᴴᴰ
+#EXTINF:-1 tvg-name="📺 THE PET COLLECTIVE" group-title="ZAPiptv" dvb-reference="4097:0:1:4B11:E128:EC:0:0:0:0", 📺 THE PET COLLECTIVE
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:-1 tvg-id="TV LAND SITCOMS | EUA" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA 1" tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BA59:6F7F:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -197,11 +197,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052360b30007fa5e32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="MORE TV SITCOMS | PLUTO TV EUA" tvg-name="📺 MORE TV SITCOMS | PLUTO TV EUA" tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AEE2:7925:EC:0:0:0:0", 📺 MORE TV SITCOMS | PLUTO TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="🇺🇸 🎬➾ &Flixᴴᴰ" tvg-name="🇺🇸 🎬➾ &FLIXᴴᴰ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F751:A45E:EC:0:0:0:0", 🇺🇸 🎬➾ &FLIXᴴᴰ
+#EXTINF:-1 tvg-name="📺 TV LAND SITCOMS" group-title="ZAPiptv" dvb-reference="4097:0:1:D68D:477D:EC:0:0:0:0", 📺 TV LAND SITCOMS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="🇺🇸 🎬➾ &Flixᴴᴰ" tvg-name="📽 &FLIX" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F751:A45E:EC:0:0:0:0", 📽 &FLIX
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="📽 CINE LIFE ᴴᴰ" tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BAE4:479A:EC:0:0:0:0", 📽 CINE LIFE ᴴᴰ
 https://magselect-stirr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="📽 FILMERISE FREE MOVIES ᴴᴰ" tvg-name="FILMRISE FREE MOVIES ON REDBOX (720P)" tvg-logo="https://i.imgur.com/GgncfvK.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3771:5F34:EC:0:0:0:0", FILMRISE FREE MOVIES ON REDBOX (720P)
+#EXTINF:-1 tvg-id="📽 FILMERISE FREE MOVIES ᴴᴰ" tvg-name="📽 FILMRISE FREE MOVIES" tvg-logo="https://i.imgur.com/GgncfvK.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3771:5F34:EC:0:0:0:0", 📽 FILMRISE FREE MOVIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="📽 HALLMARK MOVIES & MORE ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:BFD1:C6E3:EC:0:0:0:0", 📽 HALLMARK MOVIES & MORE ᴴᴰ
 https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
@@ -215,7 +217,7 @@ http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://docurama-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="📓 RAKUTEN DOCU" group-title="ZAPiptv" dvb-reference="4097:0:1:3C39:CFEA:EC:0:0:0:0", 📓 RAKUTEN DOCU
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="📓 SMITHSONIAN" tvg-name="SMITHSONIAN CHANNEL ASIA (1080P)" group-title="ZAPiptv" dvb-reference="4097:0:1:80C3:41A5:EC:0:0:0:0", SMITHSONIAN CHANNEL ASIA (1080P)
+#EXTINF:-1 tvg-id="📓 SMITHSONIAN" tvg-name="📓 SMITHSONIAN CHANNEL" group-title="ZAPiptv" dvb-reference="4097:0:1:80C3:41A5:EC:0:0:0:0", 📓 SMITHSONIAN CHANNEL
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="📓 VOYAGER DOCUMENTARIES" tvg-name="VOYAGER DOCUMENTARIES (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:7814:61EF:EC:0:0:0:0", VOYAGER DOCUMENTARIES (720P)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
@@ -262,7 +264,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1 tvg-name="💋 FASHION TV ᵁᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:4DD:A4B5:EC:0:0:0:0", 💋 FASHION TV ᵁᴴᴰ
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="💋 MIAMI TV" group-title="ZAPiptv" dvb-reference="4097:0:1:1109:4EAA:EC:0:0:0:0", 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/master.m3u8
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 #EXTINF:-1 tvg-name="💋 WORLD FASHION CHANNEL" group-title="ZAPiptv" dvb-reference="4097:0:1:2E5F:CBFC:EC:0:0:0:0", 💋 WORLD FASHION CHANNEL
 https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 #EXTINF:-1 tvg-name="🎧 ANTENA 1 | 156KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:19EB:1EFD:EC:0:0:0:0", 🎧 ANTENA 1 | 156KBPS
