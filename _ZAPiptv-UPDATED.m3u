@@ -26,7 +26,7 @@ https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-name="🇵🇹 SIC NOVELAS ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6F95:DD62:EC:0:0:0:0", 🇵🇹 SIC NOVELAS ᴴᴰ
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9CB3:B4C:EC:0:0:0:0", 🇵🇹 SIC NOTICIAS ᴴᴰ
-https://sicnot.live.impresa.pt/sicnot.m3u8
+https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-name="🇵🇹 RTP INTERNACIONAL" tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:664C:C28D:EC:0:0:0:0", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="🇵🇹 RTP AÇORES ᴴᴰ" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BA4:A428:EC:0:0:0:0", 🇵🇹 RTP AÇORES ᴴᴰ
@@ -89,6 +89,8 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 TV5 MONDE INFO ᴴᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DB87:7F14:EC:0:0:0:0", 🇫🇷 TV5 MONDE INFO ᴴᴰ
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-name="🇫🇷 PARIS PREMIERE" group-title="ZAPiptv" dvb-reference="4097:0:1:F7C:23C2:EC:0:0:0:0", 🇫🇷 PARIS PREMIERE
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 M6 ᶠᴴᴰ" tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3E9B:9392:EC:0:0:0:0", 🇫🇷 M6 ᶠᴴᴰ
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-name="🇫🇷 GULLI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:50C0:A49B:EC:0:0:0:0", 🇫🇷 GULLI
@@ -165,10 +167,12 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-name="🇪🇺 CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AE58:D5D5:EC:0:0:0:0", 🇪🇺 CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇺 REUTERS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9451:ED5A:EC:0:0:0:0", 🇪🇺 REUTERS ᴴᴰ
+#EXTINF:-1 tvg-name="🇪🇺 BLOOMBERG QUICKTAKE" group-title="ZAPiptv" dvb-reference="4097:0:1:9C12:54A8:EC:0:0:0:0", 🇪🇺 BLOOMBERG QUICKTAKE
+https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="🇪🇺 REUTERS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9451:ED5A:EC:0:0:0:0", 🇪🇺 REUTERS
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="🌎 AFRICA NEWS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B3C6:A4D:EC:0:0:0:0", 🌎 AFRICA NEWS ᴴᴰ
-https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="🌎 AFRICA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B3C6:A4D:EC:0:0:0:0", 🌎 AFRICA NEWS
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="🌎 AL JAZEERA ᴴᴰ" tvg-name="🌎 AL JAZEERA ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7663:D3BB:EC:0:0:0:0", 🌎 AL JAZEERA ENGLISH
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="🌎 ARIRANG" tvg-name="🌎 ARIRANG TV KOREA EN" group-title="ZAPiptv" dvb-reference="4097:0:1:669C:9E16:EC:0:0:0:0", 🌎 ARIRANG TV KOREA EN
@@ -187,14 +191,12 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="📺 THE PET COLLECTIVE ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:4B11:E128:EC:0:0:0:0", 📺 THE PET COLLECTIVE ᴴᴰ
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 tvg-id="MORE TV SITCOMS | PLUTO TV EUA" tvg-name="📺 MORE TV SITCOMS | PLUTO TV EUA" tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AEE2:7925:EC:0:0:0:0", 📺 MORE TV SITCOMS | PLUTO TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="TV LAND SITCOMS | EUA" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA 1" tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BA59:6F7F:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="TV LAND SITCOMS 2 | EUA" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA 2" tvg-logo="http://images.pluto.tv/channels/5f778a052360b30007fa5e32/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:123F:DD2C:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052360b30007fa5e32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="Pluto TV Sitcoms+ (720p)" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA PLUS" group-title="ZAPiptv" dvb-reference="4097:0:1:6603:A7AD:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA PLUS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cd149f021cb6c55e258bbe8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=375760ce-ac7c-4306-818c-98562edc8da5&terminate=false&userId=
+#EXTINF:-1 tvg-id="MORE TV SITCOMS | PLUTO TV EUA" tvg-name="📺 MORE TV SITCOMS | PLUTO TV EUA" tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AEE2:7925:EC:0:0:0:0", 📺 MORE TV SITCOMS | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="🇺🇸 🎬➾ &Flixᴴᴰ" tvg-name="🇺🇸 🎬➾ &FLIXᴴᴰ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F751:A45E:EC:0:0:0:0", 🇺🇸 🎬➾ &FLIXᴴᴰ
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="📽 CINE LIFE ᴴᴰ" tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BAE4:479A:EC:0:0:0:0", 📽 CINE LIFE ᴴᴰ
