@@ -57,8 +57,7 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="🇵🇹 ON FM TV ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkRN87FGMBLA9hmXtR6NOhsxNGNVkvpR70A&usqp=CAU" group-title="ZAPiptv" dvb-reference="4097:0:1:452E:88DE:EC:0:0:0:0", 🇵🇹 ON FM TV ᴴᴰ
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.11..HD.pt" tvg-name="🇵🇹 CANAL 11 ᶠᴴᴰ [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BAC1:6ABA:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇵🇹 CANAL 11 ᶠᴴᴰ [VPN]
-http://120972280412307600.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307600.ts
+
 #EXTINF:-1 tvg-id="🇵🇹 EURONEWS ᴴᴰ" tvg-name="🇵🇹 EURONEWS PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CD72:2C2F:EC:0:0:0:0", 🇵🇹 EURONEWS PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
 #EXTINF:-1 tvg-name="🇧🇷 CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8743:90ED:EC:0:0:0:0", 🇧🇷 CNN BRASIL
