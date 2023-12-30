@@ -44,8 +44,10 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS s1
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS s2
-#EXTVLCOPT:http-referrer=https://sic.pt
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png", 🇵🇹 SIC NOTICIAS s2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
@@ -142,7 +144,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
@@ -154,30 +156,42 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-name="🇮🇹 RAI NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E4E7:FFB8:EC:0:0:0:0", 🇮🇹 RAI NEWS 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png", 🇮🇹 RAI NEWS 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:-1 tvg-name="🇮🇹 RAI 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:865D:15AA:EC:0:0:0:0", 🇮🇹 RAI 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png", 🇮🇹 RAI 1
 http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="🇮🇹 RAI 3" tvg-name="🇮🇹 RAI 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:61F9:1AF4:EC:0:0:0:0", 🇮🇹 RAI 3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png", 🇮🇹 RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="🇮🇹 VH1 ᴴᴰ" tvg-name="🇮🇹 VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:801B:BB6A:EC:0:0:0:0", 🇮🇹 VH1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png", 🇮🇹 VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-name="🇮🇹 RTV SPORT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png" group-title="ZAPiptv" dvb-reference="4097:0:1:427F:664B:EC:0:0:0:0", 🇮🇹 RTV SPORT
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png", 🇮🇹 RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 ARTE ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png" group-title="ZAPiptv" dvb-reference="4097:0:1:880:C195:EC:0:0:0:0", 🇩🇪 ARTE ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
 http://187.95.95.247/ArteHD/index.m3u8
-#EXTINF:-1 tvg-id="🇩🇪 DEUTSCHE WELLE" tvg-name="🇩🇪 DW DEUTSCH" tvg-logo="https://img1.gratispng.com/20180721/qie/kisspng-logo-deutsche-welle-dw-tv-dw-espaol-lacrosse-talk-radio-5b53251483b141.8143668515321756365394.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:7DEF:E804:EC:0:0:0:0", 🇩🇪 DW DEUTSCH
+
+#EXTINF:-1 tvg-logo="https://img1.gratispng.com/20180721/qie/kisspng-logo-deutsche-welle-dw-tv-dw-espaol-lacrosse-talk-radio-5b53251483b141.8143668515321756365394.jpg", 🇩🇪 DW DEUTSCH
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 HR FERNSEHEN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png" group-title="ZAPiptv" dvb-reference="4097:0:1:A73:5505:EC:0:0:0:0", 🇩🇪 HR FERNSEHEN
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png", 🇩🇪 HR FERNSEHEN
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 DAS ERSTE" group-title="ZAPiptv" dvb-reference="4097:0:1:E2F:3E6F:EC:0:0:0:0", 🇩🇪 DAS ERSTE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Das_Erste-Logo_klein.svg.png", 🇩🇪 DAS ERSTE
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 TAGESSCHAU24" group-title="ZAPiptv" dvb-reference="4097:0:1:C5EC:523:EC:0:0:0:0", 🇩🇪 TAGESSCHAU24
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png", 🇩🇪 TAGESSCHAU24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 WDR ᴴᴰ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8F63:609:EC:0:0:0:0", 🇩🇪 WDR ᴴᴰ
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png", 🇩🇪 WDR 
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1 tvg-name="🇩🇪 ZDF ᴴᴰ" tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png" group-title="ZAPiptv" dvb-reference="4097:0:1:80D:2777:EC:0:0:0:0", 🇩🇪 ZDF ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png", 🇩🇪 ZDF
 https://s6.hopslan.com/zdfg1/index.m3u8
+
 #EXTINF:-1 tvg-id="🇳🇴 CANAL MOTOR" tvg-name="CANAL MOTOR" group-title="ZAPiptv" dvb-reference="4097:0:1:7DFC:553:EC:0:0:0:0", CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #EXTINF:-1 tvg-id="🇳🇴 TV2 - NYHETSSTRØMMEN ᴴᴰ" tvg-name="TV2 - NYHETSSTRّMMEN (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:80B:1428:EC:0:0:0:0", TV2 - NYHETSSTRّMMEN (720P)
