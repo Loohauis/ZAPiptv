@@ -41,8 +41,12 @@ https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS
-https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS s1
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS s2
+#EXTVLCOPT:http-referrer=https://sic.pt
+https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -87,48 +91,69 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
 
-#EXTINF:-1 tvg-name="🇧🇷 CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8743:90ED:EC:0:0:0:0", 🇧🇷 CNN BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL
 https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
-#EXTINF:-1 tvg-id="Record.News.pt" tvg-name="🇧🇷 RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png" group-title="ZAPiptv" dvb-reference="4097:0:1:A45C:FE7E:EC:0:0:0:0" epg-source="hn4mzmv42fn", 🇧🇷 RECORD NEWS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png", 🇧🇷 RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-name="🇧🇷 SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:C68E:D7BF:EC:0:0:0:0", 🇧🇷 SBT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png", 🇧🇷 SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="🇧🇷 REDE BRASIL" tvg-name="SANTA CECILIA TV (288P)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7EDE:6D28:EC:0:0:0:0", SANTA CECILIA TV (288P)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", 🇧🇷 SANTA CECILIA TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-name="🇧🇷 TV BRASIL HITS" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png" group-title="ZAPiptv" dvb-reference="4097:0:1:141D:D405:EC:0:0:0:0", 🇧🇷 TV BRASIL HITS
+
+#EXTINF:-1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png", 🇧🇷 TV BRASIL HITS
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
-#EXTINF:-1 tvg-id="🇧🇷 TV NOVA PLAY" tvg-name="TV NOVA PLAY" tvg-logo="https://playerv.zcast.com.br/app-multi-plataforma/logo-tvnovaplay.png" group-title="ZAPiptv" dvb-reference="4097:0:1:CB87:21CC:EC:0:0:0:0", TV NOVA PLAY
+
+#EXTINF:-1 tvg-logo="https://playerv.zcast.com.br/app-multi-plataforma/logo-tvnovaplay.png", 🇧🇷 TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:-1 tvg-name="🇧🇷 ALL SPORTS" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F1F0:911E:EC:0:0:0:0", 🇧🇷 ALL SPORTS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 24H ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7906:ED5F:EC:0:0:0:0", 🇪🇸 24H ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png", 🇪🇸 24H
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TVE LA1 ᴴᴰ [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4FC:DE4:EC:0:0:0:0", 🇪🇸 TVE LA1 ᴴᴰ [VPN]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg.png", 🇪🇸 TVE
+http://200.113.4.75:7210/play/a01r
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png", 🇪🇸 TVE LA1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TVE LA2 ᴴᴰ [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B1E1:B5DA:EC:0:0:0:0", 🇪🇸 TVE LA2 ᴴᴰ [VPN]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png", 🇪🇸 TVE LA2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="TVG Cultural (720p)" tvg-name="TVG CULTURAL (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:F7A9:5F6:EC:0:0:0:0", TVG CULTURAL (720P)
+
+#EXTINF:-1 tvg-logo="", 🇪🇸 TVG CULTURAL
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG Infantil (720p) [Not 24/7]" tvg-name="🇪🇸 TVG INFANTIL" group-title="ZAPiptv" dvb-reference="4097:0:1:D54:28AF:EC:0:0:0:0", 🇪🇸 TVG INFANTIL
+
+#EXTINF:-1 tvg-logo="", 🇪🇸 TVG INFANTIL
 https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 TV GALICIA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6662:54A6:EC:0:0:0:0", 🇪🇸 TV GALICIA ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", 🇪🇸 TV GALICIA
 https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 SOL MÙSICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png" group-title="ZAPiptv" dvb-reference="4097:0:1:20CD:D4EE:EC:0:0:0:0", 🇪🇸 SOL MÙSICA ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png", 🇪🇸 SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-name="🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DBA2:9BB7:EC:0:0:0:0", 🇪🇸 CANAL SUR ANDALUCÍA ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png", 🇪🇸 CANAL SUR ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 TV5 MONDE INFO ᴴᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DB87:7F14:EC:0:0:0:0", 🇫🇷 TV5 MONDE INFO ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 PARIS PREMIERE" group-title="ZAPiptv" dvb-reference="4097:0:1:F7C:23C2:EC:0:0:0:0", 🇫🇷 PARIS PREMIERE
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 M6 ᶠᴴᴰ" tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3E9B:9392:EC:0:0:0:0", 🇫🇷 M6 ᶠᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6 ᶠᴴᴰ
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 GULLI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:50C0:A49B:EC:0:0:0:0", 🇫🇷 GULLI
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:-1 tvg-name="🇫🇷 MTV ᴴᴰ" tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif" group-title="ZAPiptv" dvb-reference="4097:0:1:62E1:CEA2:EC:0:0:0:0", 🇫🇷 MTV ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇫🇷 MTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="🇫🇷 BFM PARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E0CA:1672:EC:0:0:0:0", 🇫🇷 BFM PARIS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
 #EXTINF:-1 tvg-name="🇮🇹 RAI NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E4E7:FFB8:EC:0:0:0:0", 🇮🇹 RAI NEWS 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-name="🇮🇹 RAI 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:865D:15AA:EC:0:0:0:0", 🇮🇹 RAI 1
