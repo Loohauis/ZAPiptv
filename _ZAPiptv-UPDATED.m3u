@@ -27,28 +27,40 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-logo="", 🇵🇹 TVI MORANGOS COM AÇÚCAR
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png", 🇵🇹 TVI AFRICA
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-name="🇵🇹 TVI INTERNACIONAL ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:40A4:A676:EC:0:0:0:0", 🇵🇹 TVI INTERNACIONAL ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png", 🇵🇹 TVI INTERNACIONAL
 https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="🇵🇹 CNN PORTUGAL" tvg-logo="https://i.imgur.com/CsRcqTx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AB70:3D23:EC:0:0:0:0", 🇵🇹 CNN PORTUGAL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsRcqTx.png", 🇵🇹 CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 tvg-name="🇵🇹 SIC NOVELAS ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:6F95:DD62:EC:0:0:0:0", 🇵🇹 SIC NOVELAS ᴴᴰ
+
+#EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="🇵🇹 SIC NOTICIAS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9CB3:B4C:EC:0:0:0:0", 🇵🇹 SIC NOTICIAS ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ab/SN_300x130-escuro.png/200px-SN_300x130-escuro.png", 🇵🇹 SIC NOTICIAS
 https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-name="🇵🇹 RTP INTERNACIONAL" tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:664C:C28D:EC:0:0:0:0", 🇵🇹 RTP INTERNACIONAL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="🇵🇹 RTP AÇORES ᴴᴰ" tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BA4:A428:EC:0:0:0:0", 🇵🇹 RTP AÇORES ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg", 🇵🇹 RTP AÇORES
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="🇵🇹 RTP ÁFRICA" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp" group-title="ZAPiptv" dvb-reference="4097:0:1:E7B7:7B89:EC:0:0:0:0", 🇵🇹 RTP ÁFRICA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp", 🇵🇹 RTP ÁFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="🇵🇹 RTP MADEIRA" tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:7D3B:950C:EC:0:0:0:0", 🇵🇹 RTP MADEIRA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg", 🇵🇹 RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="🇵🇹 RTP MEMÓRIA" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:A76D:256C:EC:0:0:0:0", 🇵🇹 RTP MEMÓRIA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg", 🇵🇹 RTP MEMÓRIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="🇵🇹 PORTO CANAL [VPN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:794:D649:EC:0:0:0:0", 🇵🇹 PORTO CANAL [VPN]
-http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1419
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL
+https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="🇵🇹 FAMA TV" tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png" group-title="ZAPiptv" dvb-reference="4097:0:1:571A:95CC:EC:0:0:0:0", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 #EXTINF:-1 tvg-name="🇵🇹 ARTV" group-title="ZAPiptv" dvb-reference="4097:0:1:563E:4B73:EC:0:0:0:0", 🇵🇹 ARTV
