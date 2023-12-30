@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="✠ ✠ ✠  ZAPIPTV  ✠ ✠ ✠" tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E1E:67B6:EC:0:0:0:0", ✠ ✠ ✠  ZAPIPTV  ✠ ✠ ✠
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png", ✠ ✠ ✠  ZAPIPTV  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
-#EXTINF:-1 tvg-name="🇵🇹 RTP 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Uex76Nx.png" group-title="ZAPiptv" dvb-reference="4097:0:1:97:65:53:CE40000:0:0:0", 🇵🇹 RTP 1 ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uex76Nx.png", 🇵🇹 RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="🇵🇹 RTP 2 ᴴᴰ" tvg-logo="https://i.imgur.com/EWbaWA6.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9CFA:FE18:EC:0:0:0:0", 🇵🇹 RTP 2 ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWbaWA6.png", 🇵🇹 RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="🇵🇹 RTP 3 ᴴᴰ" tvg-logo="https://i.imgur.com/AE5d2lq.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B593:123F:EC:0:0:0:0", 🇵🇹 RTP 3 ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE5d2lq.png", 🇵🇹 RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="🇵🇹 SIC ᴴᴰ" tvg-logo="https://i.ibb.co/6r1xHn6/sic.png" group-title="ZAPiptv" dvb-reference="4097:0:1:FE07:3CD7:EC:0:0:0:0", 🇵🇹 SIC ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="🇵🇹 TVI ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F217:83AF:EC:0:0:0:0", 🇵🇹 TVI ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png", 🇵🇹 TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="🇵🇹 TVI REALITY" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:2512:5001:EC:0:0:0:0", 🇵🇹 TVI REALITY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg", 🇵🇹 TVI REALITY
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="🇵🇹 TVI FICÇÃO ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/TVI_fic%C3%A7%C3%A3o.png/200px-TVI_fic%C3%A7%C3%A3o.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B929:14A5:EC:0:0:0:0", 🇵🇹 TVI FICÇÃO ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/TVI_fic%C3%A7%C3%A3o.png/200px-TVI_fic%C3%A7%C3%A3o.png", 🇵🇹 TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=user-agent=Opera
-#EXTINF:-1 tvg-name="🇵🇹 TVI MORANGOS COM AÇÚCAR ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:D1D9:A62D:EC:0:0:0:0", 🇵🇹 TVI MORANGOS COM AÇÚCAR ᴴᴰ
+
+#EXTINF:-1 tvg-logo="", 🇵🇹 TVI MORANGOS COM AÇÚCAR
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
-#EXTINF:-1 tvg-name="🇵🇹 TVI AFRICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:14CA:372C:EC:0:0:0:0", 🇵🇹 TVI AFRICA ᴴᴰ
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
 #EXTINF:-1 tvg-name="🇵🇹 TVI INTERNACIONAL ᴴᴰ" tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png" group-title="ZAPiptv" dvb-reference="4097:0:1:40A4:A676:EC:0:0:0:0", 🇵🇹 TVI INTERNACIONAL ᴴᴰ
 https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
@@ -133,187 +143,3 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://sc.id-tv.kz/TV1000.m3u8
 #EXTINF:-1 tvg-name="🇬🇧 SKY NEWS" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2016/09/Sky-News-Logo.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B0EE:9728:EC:0:0:0:0", 🇬🇧 SKY NEWS
 https://d301yv2uyy17su.cloudfront.net/sky-news-international-live.m3u8
-#EXTINF:-1 tvg-name="🇬🇧 BBC DOCTOR WHO" tvg-logo="https://i.imgur.com/J2B9FjO.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:B70E:278C:EC:0:0:0:0", 🇬🇧 BBC DOCTOR WHO
-https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇬🇧 BBC DRAMA" tvg-logo="https://i.imgur.com/hY1M4hL.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:F7AE:B863:EC:0:0:0:0", 🇬🇧 BBC DRAMA
-https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇬🇧 BBC EARTH" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B63:26D7:EC:0:0:0:0", 🇬🇧 BBC EARTH
-http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941667
-#EXTINF:-1 tvg-name="🇬🇧 BBCLIFESTYLE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="ZAPiptv" dvb-reference="4097:0:1:1587:D17E:EC:0:0:0:0", 🇬🇧 BBCLIFESTYLE
-http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941668
-#EXTINF:-1 tvg-name="🇬🇧 BBC AMERICA" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9FA:75DC:EC:0:0:0:0", 🇬🇧 BBC AMERICA
-http://flash.shortgod.com/viscao/tv5.php?id=15060
-#EXTINF:-1 tvg-name="🇺🇸 ABC NEWS" group-title="ZAPiptv" dvb-reference="4097:0:1:92B1:7025:EC:0:0:0:0", 🇺🇸 ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="🇺🇸 CBS NEWS ᴴᴰ" tvg-logo="https://e7.pngegg.com/pngimages/401/965/png-clipart-cbs-news-logo-television-news-miscellaneous-television-thumbnail.png" group-title="ZAPiptv" dvb-reference="4097:0:1:DF47:FBD2:EC:0:0:0:0", 🇺🇸 CBS NEWS ᴴᴰ
-https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
-#EXTINF:-1 tvg-id="🇺🇸 FOX NEWS ᴴᴰ" tvg-name="🇺🇸 FOX NEWS NOW (720P)" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6EA8:4D23:EC:0:0:0:0", 🇺🇸 FOX NEWS NOW (720P)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇺🇸 NBC NEWS NOW ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:8805:DA49:EC:0:0:0:0", 🇺🇸 NBC NEWS NOW ᴴᴰ
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
-#EXTINF:-1 tvg-name="🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ" tvg-logo="https://i.imgur.com/5qfFUov.png" group-title="ZAPiptv" dvb-reference="4097:0:1:487D:6D48:EC:0:0:0:0", 🇺🇸 PBS GUAM KGTF CHANNEL 12 ᴴᴰ
-https://kister.net/mpl/yt2m3u8?w=@pbsguam
-#EXTINF:-1 tvg-id="AUSTRALIA CHANNEL" tvg-name="🇦🇺 ABC NEWS AUSTRALIA LIVE" group-title="ZAPiptv" dvb-reference="4097:0:1:966E:9F69:EC:0:0:0:0", 🇦🇺 ABC NEWS AUSTRALIA LIVE
-https://kister.net/mpl/yt2m3u8?w=@abcnewsaustralia
-#EXTINF:-1 tvg-name="🇦🇺 ABC TV" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="ZAPiptv" dvb-reference="4097:0:1:4A6C:1825:EC:0:0:0:0", 🇦🇺 ABC TV
-https://c.mjh.nz/3201026102E1
-#EXTINF:-1 tvg-id="🇦🇺 ABC ME" tvg-name="ABC ME (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:2B11:E6BB:EC:0:0:0:0", ABC ME (720P)
-https://c.mjh.nz/101002210224
-#EXTINF:-1 tvg-id="🇦🇺 ABC KIDS" tvg-name="ABC KIDS (720P) [NOT 24/7]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="ZAPiptv" dvb-reference="4097:0:1:2B11:E6B5:EC:0:0:0:0", ABC KIDS (720P) [NOT 24/7]
-https://c.mjh.nz/101002210222
-#EXTINF:-1 tvg-id="🇦🇺 FOX SPORTS NEWS" tvg-name="FOX SPORTS AUSTRALIA (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:138:56EA:EC:0:0:0:0", FOX SPORTS AUSTRALIA (720P)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-name="🇪🇺 CNBC EUROPE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:5B85:69BA:EC:0:0:0:0", 🇪🇺 CNBC EUROPE ᴴᴰ
-http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-name="🇪🇺 CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AE58:D5D5:EC:0:0:0:0", 🇪🇺 CNN INTERNATIONAL
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇺 BLOOMBERG QUICKTAKE" group-title="ZAPiptv" dvb-reference="4097:0:1:9C12:54A8:EC:0:0:0:0", 🇪🇺 BLOOMBERG QUICKTAKE
-https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="🇪🇺 REUTERS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9451:ED5A:EC:0:0:0:0", 🇪🇺 REUTERS
-https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="🌎 AFRICA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png" group-title="ZAPiptv" dvb-reference="4097:0:1:B3C6:A4D:EC:0:0:0:0", 🌎 AFRICA NEWS
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="🌎 AL JAZEERA ᴴᴰ" tvg-name="🌎 AL JAZEERA ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:7663:D3BB:EC:0:0:0:0", 🌎 AL JAZEERA ENGLISH
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="🌎 ARIRANG" tvg-name="🌎 ARIRANG TV KOREA EN" group-title="ZAPiptv" dvb-reference="4097:0:1:669C:9E16:EC:0:0:0:0", 🌎 ARIRANG TV KOREA EN
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="🌎 CGTN" tvg-name="🌎 CGTN" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AA64:4F1:EC:0:0:0:0", 🌎 CGTN
-http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="🌎 NHK WORLD" tvg-name="🌎 NHK WORLD JAPAN" tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png" group-title="ZAPiptv" dvb-reference="4097:0:1:1D4F:619:EC:0:0:0:0", 🌎 NHK WORLD JAPAN
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="📺 AFV FAMILY ᴴᴰ" tvg-name="📺 AFV FAMILY" tvg-logo="https://i.imgur.com/ZqkrWcN.png" group-title="ZAPiptv" dvb-reference="4097:0:1:915:8D6D:EC:0:0:0:0", 📺 AFV FAMILY
-https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="📺 ET LIVE ENTERTAINMENT TONIGHT" tvg-logo="https://i.imgur.com/gi1ms1Y.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3D46:419D:EC:0:0:0:0", 📺 ET LIVE ENTERTAINMENT TONIGHT
-http://191.209.60.250:8000/play/a00f
-#EXTINF:-1 tvg-id="📺 FAILARMY ᴴᴰ" tvg-name="📺 FAILARMY" tvg-logo="https://i.imgur.com/QVkqWhP.png" group-title="ZAPiptv" dvb-reference="4097:0:1:41E6:915D:EC:0:0:0:0", 📺 FAILARMY
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="📺 PEOPLE ARE AWESOME" group-title="ZAPiptv" dvb-reference="4097:0:1:2412:E75E:EC:0:0:0:0", 📺 PEOPLE ARE AWESOME
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="📺 THE PET COLLECTIVE" group-title="ZAPiptv" dvb-reference="4097:0:1:4B11:E128:EC:0:0:0:0", 📺 THE PET COLLECTIVE
-https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 tvg-id="TV LAND SITCOMS | EUA" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA 1" tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:BA59:6F7F:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA 1
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TV LAND SITCOMS 2 | EUA" tvg-name="📺 TV LAND SITCOMS | PLUTO TV EUA 2" tvg-logo="http://images.pluto.tv/channels/5f778a052360b30007fa5e32/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:123F:DD2C:EC:0:0:0:0", 📺 TV LAND SITCOMS | PLUTO TV EUA 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052360b30007fa5e32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="MORE TV SITCOMS | PLUTO TV EUA" tvg-name="📺 MORE TV SITCOMS | PLUTO TV EUA" tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="ZAPiptv" dvb-reference="4097:0:1:AEE2:7925:EC:0:0:0:0", 📺 MORE TV SITCOMS | PLUTO TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-name="📺 TV LAND SITCOMS" group-title="ZAPiptv" dvb-reference="4097:0:1:D68D:477D:EC:0:0:0:0", 📺 TV LAND SITCOMS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="🇺🇸 🎬➾ &Flixᴴᴰ" tvg-name="📽 &FLIX" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F751:A45E:EC:0:0:0:0", 📽 &FLIX
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-name="📽 CINE LIFE ᴴᴰ" tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg" group-title="ZAPiptv" dvb-reference="4097:0:1:BAE4:479A:EC:0:0:0:0", 📽 CINE LIFE ᴴᴰ
-https://magselect-stirr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="📽 FILMERISE FREE MOVIES ᴴᴰ" tvg-name="📽 FILMRISE FREE MOVIES" tvg-logo="https://i.imgur.com/GgncfvK.png" group-title="ZAPiptv" dvb-reference="4097:0:1:3771:5F34:EC:0:0:0:0", 📽 FILMRISE FREE MOVIES
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="📽 HALLMARK MOVIES & MORE ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:BFD1:C6E3:EC:0:0:0:0", 📽 HALLMARK MOVIES & MORE ᴴᴰ
-https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="📽 MOVIESPHERE ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:68A3:7E76:EC:0:0:0:0", 📽 MOVIESPHERE ᴴᴰ
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="📽 THE MOVIE HUB ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:4AAE:61F3:EC:0:0:0:0", 📽 THE MOVIE HUB ᴴᴰ
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="📓 CGTN DOCUMENTARY" group-title="ZAPiptv" dvb-reference="4097:0:1:DEF3:D9E3:EC:0:0:0:0", 📓 CGTN DOCUMENTARY
-http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-name="📓 DOCURAMA" group-title="ZAPiptv" dvb-reference="4097:0:1:2B43:B368:EC:0:0:0:0", 📓 DOCURAMA
-https://docurama-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="📓 RAKUTEN DOCU" group-title="ZAPiptv" dvb-reference="4097:0:1:3C39:CFEA:EC:0:0:0:0", 📓 RAKUTEN DOCU
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="📓 SMITHSONIAN" tvg-name="📓 SMITHSONIAN CHANNEL" group-title="ZAPiptv" dvb-reference="4097:0:1:80C3:41A5:EC:0:0:0:0", 📓 SMITHSONIAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="📓 VOYAGER DOCUMENTARIES" tvg-name="VOYAGER DOCUMENTARIES (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:7814:61EF:EC:0:0:0:0", VOYAGER DOCUMENTARIES (720P)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="😊 ANIME TV" tvg-name="ANIME TV - WEBTV" group-title="ZAPiptv" dvb-reference="4097:0:1:7E56:7D5D:EC:0:0:0:0", ANIME TV - WEBTV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-name="😊 BABYFIRST" tvg-logo="https://i.imgur.com/GnHvrdA.png" group-title="ZAPiptv" dvb-reference="4097:0:1:6C14:FA2E:EC:0:0:0:0", 😊 BABYFIRST
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
-#EXTINF:-1 tvg-name="😊 HAPPY KIDS" group-title="ZAPiptv" dvb-reference="4097:0:1:4A0A:632B:EC:0:0:0:0", 😊 HAPPY KIDS
-https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="😊 PBS KIDS" group-title="ZAPiptv" dvb-reference="4097:0:1:2CA3:2249:EC:0:0:0:0", 😊 PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
-#EXTINF:-1 tvg-id="😊 ZOOMOO ᴴᴰ" tvg-name="ZOO MOO (AUSTRALIA) (1080P)" group-title="ZAPiptv" dvb-reference="4097:0:1:D5CA:4C02:EC:0:0:0:0", ZOO MOO (AUSTRALIA) (1080P)
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🎵 DEEJAY TV" tvg-logo="https://logos-download.com/wp-content/uploads/2020/07/DeeJay_TV_Logo-700x701.png" group-title="ZAPiptv" dvb-reference="4097:0:1:F32:4932:EC:0:0:0:0", 🎵 DEEJAY TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="🎵 CLUBBING TV" tvg-name="CLUBBING TV (720P)" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="ZAPiptv" dvb-reference="4097:0:1:60A7:804F:EC:0:0:0:0", CLUBBING TV (720P)
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="🎵 M2O ᴴᴰ" tvg-logo="https://i.imgur.com/47soiAM.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E3DB:A663:EC:0:0:0:0", 🎵 M2O ᴴᴰ
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV BIGGEST POP" tvg-name="MTV BIGGEST POP (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:2866:7482:EC:0:0:0:0", MTV BIGGEST POP (720P)
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-name="🎵 RETRO MUSIC" group-title="ZAPiptv" dvb-reference="4097:0:1:354D:C0C:EC:0:0:0:0", 🎵 RETRO MUSIC
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="📡 ACCUWEATHER ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:1F41:3DEC:EC:0:0:0:0", 📡 ACCUWEATHER ᴴᴰ
-https://accuweatherx-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="📡 BBC WORLD NEWS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png" group-title="ZAPiptv" dvb-reference="4097:0:1:78DA:318E:EC:0:0:0:0", 📡 BBC WORLD NEWS ᴴᴰ
-http://92.43.140.249/s24/04.m3u8
-#EXTINF:-1 tvg-id="📡 BLOOMBERG TV ᴴᴰ" tvg-name="BLOOMBERG TV (PORTUGAL) (1080P)" group-title="ZAPiptv" dvb-reference="4097:0:1:B19A:C93E:EC:0:0:0:0", BLOOMBERG TV (PORTUGAL) (1080P)
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽ BEIN SPORTS XTRA" group-title="ZAPiptv" dvb-reference="4097:0:1:7210:102D:EC:0:0:0:0", ⚽ BEIN SPORTS XTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-id="⚽ EDGESPORT" tvg-name="EDGESPORT (1080P)" group-title="ZAPiptv" dvb-reference="4097:0:1:D02:F743:EC:0:0:0:0", EDGESPORT (1080P)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="⚽ ONE GOLF" tvg-name="ONE GOLF (720P)" group-title="ZAPiptv" dvb-reference="4097:0:1:83C2:4B6B:EC:0:0:0:0", ONE GOLF (720P)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-name="⚽ REDBULL TV" group-title="ZAPiptv" dvb-reference="4097:0:1:AA2A:D58A:EC:0:0:0:0", ⚽ REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-name="⚽ TRACE SPORT STARS" group-title="ZAPiptv" dvb-reference="4097:0:1:229E:949E:EC:0:0:0:0", ⚽ TRACE SPORT STARS
-https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="💋 A3BIKINI TV" group-title="ZAPiptv" dvb-reference="4097:0:1:70CD:8D7A:EC:0:0:0:0", 💋 A3BIKINI TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-name="💋 FASHION TV MIDNIGHT SECRETS ᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:19D7:2FD8:EC:0:0:0:0", 💋 FASHION TV MIDNIGHT SECRETS ᴴᴰ
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="💋 FASHION TV ᵁᴴᴰ" group-title="ZAPiptv" dvb-reference="4097:0:1:4DD:A4B5:EC:0:0:0:0", 💋 FASHION TV ᵁᴴᴰ
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="💋 MIAMI TV" group-title="ZAPiptv" dvb-reference="4097:0:1:1109:4EAA:EC:0:0:0:0", 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 tvg-name="💋 WORLD FASHION CHANNEL" group-title="ZAPiptv" dvb-reference="4097:0:1:2E5F:CBFC:EC:0:0:0:0", 💋 WORLD FASHION CHANNEL
-https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
-#EXTINF:-1 tvg-name="🎧 ANTENA 1 | 156KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:19EB:1EFD:EC:0:0:0:0", 🎧 ANTENA 1 | 156KBPS
-http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 ANTENA 1 AÇORES | 187KPBS" group-title="ZAPiptv" dvb-reference="4097:0:1:623:5DD9:EC:0:0:0:0", 🎧 ANTENA 1 AÇORES | 187KPBS
-http://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 ANTENA 1 LUSITÂNIA | 164KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:DB52:BFE9:EC:0:0:0:0", 🎧 ANTENA 1 LUSITÂNIA | 164KBPS
-http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 ANTENA 2 | 176KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:D7A7:5DAC:EC:0:0:0:0", 🎧 ANTENA 2 | 176KBPS
-http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 ANTENA 3 | 179KPBS" group-title="ZAPiptv" dvb-reference="4097:0:1:AFC9:D247:EC:0:0:0:0", 🎧 ANTENA 3 | 179KPBS
-http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 CIDADE FM | 147KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:245B:17E3:EC:0:0:0:0", 🎧 CIDADE FM | 147KBPS
-https://media1.mcr.iol.pt/livefm/cidade/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 M80 RÁDIO | 126KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:7B6:40A2:EC:0:0:0:0", 🎧 M80 RÁDIO | 126KBPS
-https://media2.mcr.iol.pt/wrm80/m8080.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 MARGINAL 98.1 FM | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1979:116A:EC:0:0:0:0", 🎧 MARGINAL 98.1 FM | 128KBPS
-http://centova.radios.pt/proxy/499?mp=/stream
-#EXTINF:-1 tvg-name="🎧 MEGA HITS | 60KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1662:E44:EC:0:0:0:0", 🎧 MEGA HITS | 60KBPS
-http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
-#EXTINF:-1 tvg-name="🎧 RÁDIO COMERCIAL | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:B650:E9A:EC:0:0:0:0", 🎧 RÁDIO COMERCIAL | @KBPS
-https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 RÁDIO MEO SUDOESTE | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:C56D:967E:EC:0:0:0:0", 🎧 RÁDIO MEO SUDOESTE | 128KBPS
-http://centova.radios.pt/proxy/495?mp=/stream
-#EXTINF:-1 tvg-name="🎧 RÁDIO OXIGÉNIO | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:605F:9601:EC:0:0:0:0", 🎧 RÁDIO OXIGÉNIO | @KBPS
-https://proic1.evspt.com/oxigenio_aac
-#EXTINF:-1 tvg-name="🎧 RÁDIO RADAR | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:8F65:2EC5:EC:0:0:0:0", 🎧 RÁDIO RADAR | @KBPS
-https://proic1.evspt.com/radar_aac
-#EXTINF:-1 tvg-name="🎧 RÁDIO RENASCENÇA ONLINE" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a52CYvfFmS.png" group-title="ZAPiptv" dvb-reference="4097:0:1:A9BA:A19B:EC:0:0:0:0", 🎧 RÁDIO RENASCENÇA ONLINE
-https://23603.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=triton-widget&pname=tdwidgets
-#EXTINF:-1 tvg-name="🎧 RÁDIO ZIGZAG | 162KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:6E7B:87E5:EC:0:0:0:0", 🎧 RÁDIO ZIGZAG | 162KBPS
-http://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 RFM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8mByXHnRWv.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E006:6AF:EC:0:0:0:0", 🎧 RFM
-https://20853.live.streamtheworld.com/RFMAAC.aac
-#EXTINF:-1 tvg-name="🎧 RFM DANCEFLOOR" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ggsggrtqba2b.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9BC0:DF66:EC:0:0:0:0", 🎧 RFM DANCEFLOOR
-https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
-#EXTINF:-1 tvg-name="🎧 RFM NATAL" group-title="ZAPiptv" dvb-reference="4097:0:1:12BD:F3B:EC:0:0:0:0", 🎧 RFM NATAL
-https://25703.live.streamtheworld.com/LIVESTREAMAAC.aac
-#EXTINF:-1 tvg-name="🎧 RFM OCEANO PACÍFICO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c4XS6cBFdq.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8429:66D3:EC:0:0:0:0", 🎧 RFM OCEANO PACÍFICO
-https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
-#EXTINF:-1 tvg-name="🎧 RFM OITENTAS" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kWvGUT2n43.png" group-title="ZAPiptv" dvb-reference="4097:0:1:1005:4362:EC:0:0:0:0", 🎧 RFM OITENTAS
-https://25703.live.streamtheworld.com/GR80SRFMAAC.aac
-#EXTINF:-1 tvg-name="🎧 RFM ON THE ROCK" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lqr9yqj23lqm.png" group-title="ZAPiptv" dvb-reference="4097:0:1:21E3:5045:EC:0:0:0:0", 🎧 RFM ON THE ROCK
-https://25703.live.streamtheworld.com/RFMONTHEROCKAAC.aac
-#EXTINF:-1 tvg-name="🎧 SBSR FM | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1387:6C88:EC:0:0:0:0", 🎧 SBSR FM | 128KBPS
-http://centova.radios.pt/proxy/435?mp=/stream
-#EXTINF:-1 tvg-name="🎧 SMOOTH FM | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:5614:9006:EC:0:0:0:0", 🎧 SMOOTH FM | @KBPS
-https://media2.mcr.iol.pt/livefm/smooth/playlist.m3u8
-#EXTINF:-1 tvg-name="🎧 SUPER FM 104.8 | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:7AF5:72CA:EC:0:0:0:0", 🎧 SUPER FM 104.8 | 128KBPS
-https://sp0.redeaudio.com/9962/;;/stream.mp3
-#EXTINF:-1 tvg-name="🎧 TSF RÁDIO NOTÍCIAS | 62 KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:267F:3DA1:EC:0:0:0:0", 🎧 TSF RÁDIO NOTÍCIAS | 62 KBPS
-http://tsfdirecto.tsf.pt/tsfdirecto.aac
