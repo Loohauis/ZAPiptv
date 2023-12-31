@@ -239,3 +239,30 @@ https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/EPDbrMyx4eXYSHtJ6", 🇦🇺 ABC TV PLUS
 https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png", 🇪🇺 CNBC EUROPE
+http://ott-cdn.ucom.am/s65/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png", 🇪🇺 CNN INTERNATIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 , 🇪🇺 BLOOMBERG QUICKTAKE
+https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png", 🌎 AFRICA NEWS
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png", 🌎 AL JAZEERA ENGLISH
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 , 🌎 ARIRANG TV KOREA EN
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 , 🌎 CGTN
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
