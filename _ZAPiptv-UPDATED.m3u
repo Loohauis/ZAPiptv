@@ -266,3 +266,157 @@ http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqkrWcN.png", 📺 AFV FAMILY
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gi1ms1Y.png", 📺 ET LIVE ENTERTAINMENT TONIGHT
+http://191.209.60.250:8000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVkqWhP.png", 📺 FAILARMY
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 , 📺 PEOPLE ARE AWESOME
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+
+#EXTINF:-1 , 📺 THE PET COLLECTIVE
+https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png", 📺 TV LAND SITCOMS | PLUTO TV EUA 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f778a052360b30007fa5e32/colorLogoPNG.png", 📺 TV LAND SITCOMS | PLUTO TV EUA 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052360b30007fa5e32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png", 📺 MORE TV SITCOMS | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
+https://magselect-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgncfvK.png", 📽 FILMRISE FREE MOVIES
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 , 📽 HALLMARK MOVIES & MORE
+https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 , 📽 MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , 📽 THE MOVIE HUB
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 , 📓 CGTN DOCUMENTARY
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 , 📓 DOCURAMA
+https://docurama-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , 📓 RAKUTEN DOCU
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 , 📓 SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , 📓 VOYAGER DOCUMENTARIES
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+
+#EXTINF:-1 , 😊 ANIME TV - WEBTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GnHvrdA.png", 😊 BABYFIRST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
+
+#EXTINF:-1 , 😊 HAPPY KIDS
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , 😊 PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
+
+#EXTINF:-1 , 😊 ZOO MOO AUSTRALIA
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/07/DeeJay_TV_Logo-700x701.png", 🎵 DEEJAY TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", 🎵 CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47soiAM.png", 🎵 M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 , 🎵 MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 , 🎵 RETRO MUSIC
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 , 📡 ACCUWEATHER ᴴᴰ
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png", 📡 BBC WORLD NEWS
+http://92.43.140.249/s24/04.m3u8
+
+#EXTINF:-1 , 📡 BLOOMBERG TV
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 , ⚽ BEIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 , ⚽ EDGESPORT
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , ⚽ ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 , ⚽ REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 , ⚽ TRACE SPORT STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 , 💋 A3BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 , 💋 FASHION TV MIDNIGHT SECRETS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 , 💋 FASHION TV ᵁᴴᴰ
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 , 💋 MIAMI TV
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+
+#EXTINF:-1 , 💋 WORLD FASHION CHANNEL
+https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
+
+#EXTINF:-1 tvg-name="🎧 ANTENA 1 | 156KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:19EB:1EFD:EC:0:0:0:0", 🎧 ANTENA 1 | 156KBPS
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 ANTENA 1 AÇORES | 187KPBS" group-title="ZAPiptv" dvb-reference="4097:0:1:623:5DD9:EC:0:0:0:0", 🎧 ANTENA 1 AÇORES | 187KPBS
+http://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 ANTENA 1 LUSITÂNIA | 164KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:DB52:BFE9:EC:0:0:0:0", 🎧 ANTENA 1 LUSITÂNIA | 164KBPS
+http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 ANTENA 2 | 176KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:D7A7:5DAC:EC:0:0:0:0", 🎧 ANTENA 2 | 176KBPS
+http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 ANTENA 3 | 179KPBS" group-title="ZAPiptv" dvb-reference="4097:0:1:AFC9:D247:EC:0:0:0:0", 🎧 ANTENA 3 | 179KPBS
+http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 CIDADE FM | 147KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:245B:17E3:EC:0:0:0:0", 🎧 CIDADE FM | 147KBPS
+https://media1.mcr.iol.pt/livefm/cidade/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 M80 RÁDIO | 126KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:7B6:40A2:EC:0:0:0:0", 🎧 M80 RÁDIO | 126KBPS
+https://media2.mcr.iol.pt/wrm80/m8080.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 MARGINAL 98.1 FM | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1979:116A:EC:0:0:0:0", 🎧 MARGINAL 98.1 FM | 128KBPS
+http://centova.radios.pt/proxy/499?mp=/stream
+#EXTINF:-1 tvg-name="🎧 MEGA HITS | 60KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1662:E44:EC:0:0:0:0", 🎧 MEGA HITS | 60KBPS
+http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
+#EXTINF:-1 tvg-name="🎧 RÁDIO COMERCIAL | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:B650:E9A:EC:0:0:0:0", 🎧 RÁDIO COMERCIAL | @KBPS
+https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 RÁDIO MEO SUDOESTE | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:C56D:967E:EC:0:0:0:0", 🎧 RÁDIO MEO SUDOESTE | 128KBPS
+http://centova.radios.pt/proxy/495?mp=/stream
+#EXTINF:-1 tvg-name="🎧 RÁDIO OXIGÉNIO | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:605F:9601:EC:0:0:0:0", 🎧 RÁDIO OXIGÉNIO | @KBPS
+https://proic1.evspt.com/oxigenio_aac
+#EXTINF:-1 tvg-name="🎧 RÁDIO RADAR | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:8F65:2EC5:EC:0:0:0:0", 🎧 RÁDIO RADAR | @KBPS
+https://proic1.evspt.com/radar_aac
+#EXTINF:-1 tvg-name="🎧 RÁDIO RENASCENÇA ONLINE" tvg-logo="https://static.mytuner.mobi/
