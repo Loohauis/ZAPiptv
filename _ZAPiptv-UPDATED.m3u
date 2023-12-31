@@ -192,7 +192,7 @@ https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png", 🇩🇪 ZDF
 https://s6.hopslan.com/zdfg1/index.m3u8
 
-#EXTINF:-1 , CANAL MOTOR
+#EXTINF:-1 , 🇳🇱 Nederland CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2016/09/Sky-News-Logo.png", 🇬🇧 SKY NEWS
@@ -227,3 +227,15 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qfFUov.png", 🇺🇸 PBS GUAM KGTF CHANNEL 12
 https://kister.net/mpl/yt2m3u8?w=@pbsguam
+
+#EXTINF:-1 , tvg-logo="https://www.gifservice.fr/en/gif/multi-media-channels-tv-world-australia-abc-news-g16638-p367641-fsmall.gif", 🇦🇺 ABC NEWS AUSTRALIA LIVE
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLCHYCs.png", 🇦🇺 ABC TV
+https://c.mjh.nz/abc-sa.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/1200/ls/LS1603H001S00_5cca44364a0b8_1020.jpg", 🇦🇺 ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/EPDbrMyx4eXYSHtJ6", 🇦🇺 ABC TV PLUS
+https://c.mjh.nz/abc-tv-plus.m3u8
