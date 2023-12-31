@@ -419,4 +419,27 @@ http://centova.radios.pt/proxy/495?mp=/stream
 https://proic1.evspt.com/oxigenio_aac
 #EXTINF:-1 tvg-name="🎧 RÁDIO RADAR | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:8F65:2EC5:EC:0:0:0:0", 🎧 RÁDIO RADAR | @KBPS
 https://proic1.evspt.com/radar_aac
-#EXTINF:-1 tvg-name="🎧 RÁDIO RENASCENÇA ONLINE" tvg-logo="https://static.mytuner.mobi/
+#EXTINF:-1 tvg-name="🎧 RÁDIO RENASCENÇA ONLINE" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a52CYvfFmS.png" group-title="ZAPiptv" dvb-reference="4097:0:1:A9BA:A19B:EC:0:0:0:0", 🎧 RÁDIO RENASCENÇA ONLINE
+https://23603.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1 tvg-name="🎧 RÁDIO ZIGZAG | 162KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:6E7B:87E5:EC:0:0:0:0", 🎧 RÁDIO ZIGZAG | 162KBPS
+http://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 RFM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8mByXHnRWv.png" group-title="ZAPiptv" dvb-reference="4097:0:1:E006:6AF:EC:0:0:0:0", 🎧 RFM
+https://20853.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 tvg-name="🎧 RFM DANCEFLOOR" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ggsggrtqba2b.png" group-title="ZAPiptv" dvb-reference="4097:0:1:9BC0:DF66:EC:0:0:0:0", 🎧 RFM DANCEFLOOR
+https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 tvg-name="🎧 RFM NATAL" group-title="ZAPiptv" dvb-reference="4097:0:1:12BD:F3B:EC:0:0:0:0", 🎧 RFM NATAL
+https://25703.live.streamtheworld.com/LIVESTREAMAAC.aac
+#EXTINF:-1 tvg-name="🎧 RFM OCEANO PACÍFICO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/c4XS6cBFdq.png" group-title="ZAPiptv" dvb-reference="4097:0:1:8429:66D3:EC:0:0:0:0", 🎧 RFM OCEANO PACÍFICO
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 tvg-name="🎧 RFM OITENTAS" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kWvGUT2n43.png" group-title="ZAPiptv" dvb-reference="4097:0:1:1005:4362:EC:0:0:0:0", 🎧 RFM OITENTAS
+https://25703.live.streamtheworld.com/GR80SRFMAAC.aac
+#EXTINF:-1 tvg-name="🎧 RFM ON THE ROCK" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lqr9yqj23lqm.png" group-title="ZAPiptv" dvb-reference="4097:0:1:21E3:5045:EC:0:0:0:0", 🎧 RFM ON THE ROCK
+https://25703.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 tvg-name="🎧 SBSR FM | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:1387:6C88:EC:0:0:0:0", 🎧 SBSR FM | 128KBPS
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 tvg-name="🎧 SMOOTH FM | @KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:5614:9006:EC:0:0:0:0", 🎧 SMOOTH FM | @KBPS
+https://media2.mcr.iol.pt/livefm/smooth/playlist.m3u8
+#EXTINF:-1 tvg-name="🎧 SUPER FM 104.8 | 128KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:7AF5:72CA:EC:0:0:0:0", 🎧 SUPER FM 104.8 | 128KBPS
+https://sp0.redeaudio.com/9962/;;/stream.mp3
+#EXTINF:-1 tvg-name="🎧 TSF RÁDIO NOTÍCIAS | 62 KBPS" group-title="ZAPiptv" dvb-reference="4097:0:1:267F:3DA1:EC:0:0:0:0", 🎧 TSF RÁDIO NOTÍCIAS | 62 KBPS
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
