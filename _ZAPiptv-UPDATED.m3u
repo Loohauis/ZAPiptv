@@ -190,7 +190,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png", 🇩🇪 ZDF
-https://s6.hopslan.com/zdfg1/index.m3u8
+http://135.181.1.235:80/ZDF/index.m3u8
+
 
 #EXTINF:-1 , 🇳🇱 Nederland CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
@@ -241,7 +242,7 @@ https://c.mjh.nz/abc-me.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png", 🇪🇺 CNBC EUROPE
-http://ott-cdn.ucom.am/s65/index.m3u8
+https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png", 🇪🇺 CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -249,8 +250,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 , 🇪🇺 BLOOMBERG QUICKTAKE
 https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS
-https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS NOW
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png", 🌎 AFRICA NEWS
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
