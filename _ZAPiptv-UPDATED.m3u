@@ -1,5 +1,7 @@
 #EXTM3U
 
+# 🌎 COUNTRIES - https://github.com/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
 
@@ -192,7 +194,6 @@ https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png", 🇩🇪 ZDF
 http://135.181.1.235:80/ZDF/index.m3u8
 
-
 #EXTINF:-1 , 🇳🇱 Nederland CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 
@@ -267,6 +268,8 @@ http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+# 🌎 CATEGORIES - https://github.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqkrWcN.png", 📺 AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
