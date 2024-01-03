@@ -362,6 +362,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png", 📡 BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 http://92.43.140.249/s24/04.m3u8
 
 #EXTINF:-1 , 📡 BLOOMBERG TV
@@ -387,20 +388,25 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 
 #EXTINF:-1 , 💋 FASHION TV MIDNIGHT SECRETS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 , 💋 FASHION TV ᵁᴴᴰ
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 , 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-
 #EXTINF:-1 , 💋 WORLD FASHION CHANNEL
 https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 
-# 🎧 RADIOS - https://www.radios-online.pt/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1910764712_b1896000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hbkk2ei.png",🎧 AMÁLIA
-http://link.radios.pt/amalia?1487014253471.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#https://www.kaloopy.com/
+
+# 🎧 RADIOS - https://www.radios-online.pt/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntdNo4F.png",🎧 ANTENA 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
@@ -441,60 +447,21 @@ https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png",🎧 RDP INTERNACIONAL
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbkk2ei.png",🎧 AMÁLIA
+http://link.radios.pt/amalia?1487014253471.mp3
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7wm7hWrx29.jpg",🎧 CIDADE FM
 https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
 #https://stream-icy.bauermedia.pt/cidade.mp3?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
 
-#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",🎧 CASCAIS
-http://5.9.14.150:9300/
-
 #EXTINF:-1 tvg-logo="http://www.radiocastelobranco.pt/css/site/img/logo.png",🎧 CASTELO BRANCO
 http://centova.radio.com.pt:9462/
-
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",🎧 CIDADE HIP HOP
-https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",🎧 CIDADE LATINA
-https://media1.mcr.iol.pt/wrcidade/cidlatina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radioclube-penafiel.pt/i/logo_radioclubepenafiel.png",🎧 CLUBE PENAFIEL
 http://centova.radios.pt:9476/
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-2000s.jpg",🎧 COMERCIAL 2000S
-https://media1.mcr.iol.pt/wrcomercial/rcbest2000.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-90s.jpg",🎧 COMERCIAL 90S
-https://media1.mcr.iol.pt/wrcomercial/rcbest90.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg",🎧 COMERCIAL BRASIL
-https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",🎧 COMERCIAL BY NIGHT
-https://media2.mcr.iol.pt/wrcomercial/rcsoft.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png",🎧 COMERCIAL DANCE
-https://media2.mcr.iol.pt/wrcomercial/rcdance.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png",🎧 COMERCIAL KIDS
-https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/noCover.png",🎧 COMERCIAL ONE HIT WONDERS
-https://media1.mcr.iol.pt/wrcomercial/rchit.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-portugal.jpg",🎧 COMERCIAL PORTUGAL
-https://media2.mcr.iol.pt/wrcomercial/rctuga.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png",🎧 COMERCIAL ROCK
-https://media1.mcr.iol.pt/wrcomercial/rcrock.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://fastcast4u.com/player/fama/_user/cover/f/fama/fama.radio.jpg",🎧 FAMA
 http://famaradio.mywire.org:8000/digitalfm64
-
-#EXTINF:-1 tvg-logo="http://www.hiper.fm/images/hiper_logo_red.png",🎧 HIPER FM
-http://85.25.73.243:10460/;stream/1
-
-#EXTINF:-1 tvg-logo="http://www.jm-madeira.pt/dist/images/JM_logo-01.png",🎧 JM MADEIRA
-http://194.38.136.130:8000/?type=http
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Tap3KZ3UaG.png",🎧 M80
 http://stream-icy.bauermedia.pt/m80.mp3
@@ -515,29 +482,15 @@ http://centova.radios.pt:9522/
 #EXTINF:-1 tvg-logo="http://radiohertz.pt/wp-content/uploads/2015/03/Logo-R%C3%A1dio-Hertz-2015-03-261-300x117.png",🎧 HERTZ
 http://213.136.92.8:8030/stream
 
-#EXTINF:-1 tvg-logo="http://www.radiolinear.pt/img/logo.png",🎧 LINEAR
-http://213.136.92.8:8022/
-
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",🎧 MEGA HITS
 https://21313.live.streamtheworld.com/MEGA_HITSAAC
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s81786/images/logod.png?t=155740",🎧 MEO MUSIC
-http://centova.radios.pt:8495/;listen.pls
-
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wUtUcpKEtE.jpg",🎧 MEO SUDOESTE
 http://centova.radios.pt/proxy/495?mp=/stream
-
-#EXTINF:-1 tvg-logo="http://www.radiomiudos.pt/img/logo2.png",🎧 MIÚDOS
-http://radiomiudos.out.airtime.pro:8000/radiomiudos_a
+#http://centova.radios.pt:8495/;listen.pls
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tHi5ewx.png",🎧 MONSANTO
 http://centova.radio.com.pt:9424/
-
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/79/00/29566/1/c300.png",🎧 MONTEMURO
-http://46.105.172.166:9304/;audio.mp3
-
-#EXTINF:-1 tvg-logo="http://radionoar.pt/wp-content/uploads/2017/02/Radio-NoAr_156.png",🎧 NOAR
-http://centova.radio.com.pt:9472/
 
 #EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",🎧 NOSTALGIA
 http://centova.radios.pt:8435
@@ -555,9 +508,6 @@ https://proic1.evspt.com/oxigenio_aac
 
 #EXTINF:-1 tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png",🎧 PORTALEGRE
 http://centova.radios.pt:9492/stream
-
-#EXTINF:-1 tvg-logo="http://radioportuense.com/wp-content/uploads/2017/01/oie_dUXe4SR8xHI0.png",🎧 PORTUENSE
-http://88.198.72.46:9848/
 
 #EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",🎧 QUÂNTICA
 https://stream.radioquantica.com:8443/stream
@@ -593,15 +543,6 @@ https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16311/images/logod.png",🎧 SBSR
 https://centova.radios.pt/proxy/435?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo.png",🎧 SINES
-https://ssl.evsportugal.net:7166/stream
-
-#EXTINF:-1 tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-smooth-fm_0.png",🎧 SMOOTH FM
-https://media1.mcr.iol.pt/livefm/smooth/livefm/smooth_128k/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",🎧 SUPER FM
-http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
-
 #EXTINF:-1 tvg-logo="http://www.terranova.pt/sites/default/files/logotipoterranova.png",🎧 TERRA NOVA
 http://centova.radios.pt:9404/stream
 
@@ -613,9 +554,6 @@ https://centova.radio.com.pt/proxy/558?mp=/stream
 
 #EXTINF:-1 tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",🎧 VALE DO MINHO
 http://centova.radio.com.pt:9434/
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s47489/images/logod.png",🎧 ZERO
-https://stream.radiozero.pt/zero128.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8mByXHnRWv.png",🎧 RFM
 https://21313.live.streamtheworld.com/RFMAAC
@@ -639,9 +577,6 @@ https://25703.live.streamtheworld.com/LIVESTREAMAAC.aac
 
 #EXTINF:-1 tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",🎧 TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-
-#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/vodafone_logo-certo1.jpg",🎧 VODAFONE.FM
-https://media1.mcr.iol.pt/livefm/vodafone/livefm/vodafone_128k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",🎧 ZIG ZAG
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
