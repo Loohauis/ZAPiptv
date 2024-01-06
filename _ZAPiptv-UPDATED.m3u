@@ -433,6 +433,10 @@ https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #---https://www.visit-x.net/en/tv/livestream/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkLzQci.png", 💋 BABESTATION 24
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
 #---------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntdNo4F.png",🎧 ANTENA 1
