@@ -53,7 +53,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png", 🇵🇹 SIC NOTICIAS s3
-https://sicnot.live.impresa.pt/sicnot.m3u8m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -331,7 +331,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 , 📓 VOYAGER DOCUMENTARIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 
-#---------------------------------EXTINF group-title= #EXTINF:-1 , 😊 KIDS
+#---------------------------------EXTINF group-title= 😊 KIDS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
@@ -373,7 +373,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 #EXTINF:-1 , 📡 BLOOMBERG TV
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#---------------------------------EXTINF group-title= #EXTINF:-1 , ⚽ SPORTS
+#---------------------------------EXTINF group-title= ⚽ SPORTS
 
 #EXTINF:-1 , ⚽ BEIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -393,7 +393,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxJXDAB.png", ⚽ IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
 
-#---------------------------------EXTINF group-title= #EXTINF:-1 , 💋 LIFESTYLE
+#---------------------------------EXTINF group-title= 💋 LIFESTYLE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/finvX2w.png", 💋 FASHION TV ᵁᴴᴰ
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -411,27 +411,23 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKRs5B2.png", 💋 FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 
-#EXTINF:-1 , 💋 WORLD FASHION CHANNEL
-#https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
+#--EXTINF:-1 , 💋 WORLD FASHION CHANNEL
+https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 
 #EXTINF:-1 , 💋 A3BIKINI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #https://bx-tv.com/a3bikini-channel/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1910764712_b1896000.m3u8
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #---https://www.kaloopy.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bkLzQci.png", 💋 Babestation 24
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
+#https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
