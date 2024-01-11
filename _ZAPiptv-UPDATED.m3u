@@ -52,7 +52,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png", 🇵🇹 SIC NOTICIAS s3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png", 🇵🇹 SIC NOTICIAS s3 Ⓢ
 https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
@@ -98,7 +98,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png", 🇧🇷 RECORD NEWS
@@ -146,21 +146,6 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png", 🇪🇸 CANAL SUR ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇫🇷 MTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
-https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png", 🇮🇹 RAI NEWS 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
@@ -175,6 +160,21 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png", 🇮🇹 RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇫🇷 MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
+https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
 http://187.95.95.247/ArteHD/index.m3u8
@@ -316,7 +316,9 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 , 📽 THE MOVIE HUB
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 , 📓 CGTN DOCUMENTARY
+#---------------------------------EXTINF group-title= 📓 DOCUMENTARY
+
+#EXTINF:-1 , 📓 CGTN DOCUMENTARY 
 http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 , 📓 DOCURAMA
@@ -326,10 +328,15 @@ https://docurama-tcl.amagi.tv/playlist.m3u8
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 , 📓 SMITHSONIAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#https://bit.ly/3B2uidm?/playlist_1280x720_3000k.m3u8
+#https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 , 📓 VOYAGER DOCUMENTARIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05SnQ5g.png", 📓 TRAVELxp
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #---------------------------------EXTINF group-title= 😊 KIDS
 
@@ -340,7 +347,10 @@ https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 , 😊 HAPPY KIDS
-https://happykids-roku.amagi.tv/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
+#https://happykids-roku.amagi.tv/playlist.m3u8
+#https://happykids-vizio.amagi.tv/playlist.m3u8
+#https://futuretoday-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 , 😊 PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
@@ -411,8 +421,8 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKRs5B2.png", 💋 FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 
-#--EXTINF:-1 , 💋 WORLD FASHION CHANNEL
-https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
+#EXTINF:-1 , 💋 WORLD FASHION CHANNEL
+#https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 
 #EXTINF:-1 , 💋 A3BIKINI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
@@ -425,9 +435,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
 https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
-#https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
-#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
@@ -615,7 +625,94 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3gC8Mb.png",🎧 Radio Vidigueira
 https://centova.radio.com.pt/proxy/567?mp=/stream
 
-#---------------------------------EXTINF group-title= STREAM TEST
+#---------------------------------EXTINF group-title= STREAM TESTS
 
 #EXTINF:-1 tvg-logo="",STREAM TEST
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
+
+#EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="Documentary", NATIONAL GEOGRAPHIC
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/D9apec6.png" group-title="Documentary", NATIONAL GEOGRAPHIC WILD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreWild.th" tvg-name="True Explore Wild" tvg-logo="https://i.imgur.com/idy7jAY.png" group-title="Documentary",True Explore Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115408
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreLife.th" tvg-name="True Explore Life" tvg-logo="https://i.imgur.com/vkuLiKZ.png" group-title="Documentary",True Explore Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115660
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreSci.th" tvg-name="True Explore Sci" tvg-logo="https://i.imgur.com/oGImUZ6.png" group-title="Documentary",True Explore Sci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115660
+
+#EXTINF:-1 tvg-chno="" tvg-id="AnimalPlanetHDThailand.th" tvg-name="Animal Planet" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Documentary",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/kDWAhy1.png" group-title="Documentary",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png", GLOBAL TREKKER
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png", Outdoor Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png", History
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg", Crime + Investigation
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
+http://otv.ftpbd.net:8082/Discovery-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="DiscoveryAsia.hk" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/BOViyhR.png" group-title="Documentary",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
+#EXTINF:-1 tvg-chno="" tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/EdKQY9h.png" group-title="Documentary",NASA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="investigationdiscoveryeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png",Discovery Investigation 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium324/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="smithsonianchanneleast.us" tvg-logo="https://i.imgur.com/okSbavu.png",Smithsonian Channel 
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8 
+
+#EXTINF:0 tvg-name="DMAX UK" group-title="Documentary" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
