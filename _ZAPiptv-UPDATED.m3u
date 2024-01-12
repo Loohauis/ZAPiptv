@@ -188,8 +188,9 @@ https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04dj
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
 http://187.95.95.247/ArteHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.gratispng.com/20180721/qie/kisspng-logo-deutsche-welle-dw-tv-dw-espaol-lacrosse-talk-radio-5b53251483b141.8143668515321756365394.jpg", 🇩🇪 DW DEUTSCH
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uabWZfJ.png", 🇩🇪 DW DEUTSCH Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@dwnews
+#https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png", 🇩🇪 HR FERNSEHEN
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
@@ -336,8 +337,13 @@ https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 , 📽 MOVIESPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+<!--
 #EXTINF:-1 , 📽 THE MOVIE HUB
-#https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+-->
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6b2KHC.jpeg", 📽 ADRENALINE RUSH
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 <!-- ---------------------------------EXTINF group-title= 📓 DOCUMENTARY -->
 
@@ -462,21 +468,21 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 #https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 
+<!--
 #EXTINF:-1 , 💋 A3BIKINI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 <!-- https://bx-tv.com/a3bikini-channel/ -->
+-->
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 <!-- https://www.kaloopy.com/ -->
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
@@ -664,10 +670,10 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3gC8Mb.png",🎧 Radio Vidigueira
 https://centova.radio.com.pt/proxy/567?mp=/stream
 
-<!-- ---------------------------------EXTINF group-title= @ STREAM TESTS @ -->
+<!-- ---------------------------------EXTINF group-title= ⚠️ STREAM TESTS ⚠️ -->
 
-#EXTINF:-1 tvg-logo="", OFFLINE
+#EXTINF:-1 tvg-logo="", ⚠️ OFFLINE ⚠️
 https://oklivetv.com/xplay/error/offline.mp4
 
-#EXTINF:-1 tvg-logo="", STREAM TEST
+#EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
