@@ -54,7 +54,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s3 Ⓢ
 https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 🇵🇹 SIC NOTICIAS s4 Ⓢ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160" referer=https://sic.pt/, 🇵🇹 SIC NOTICIAS s4 Ⓢ
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
@@ -697,3 +697,20 @@ https://oklivetv.com/xplay/error/offline.mp4
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
+
+
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvento",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1080x720,VIDEO="src"
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=665596,RESOLUTION=1080x720,CODECS="avc1.640016,mp4a.40.2"
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIVARussia.ru",VIVA Russia (1080p)
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="",temp
+https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
