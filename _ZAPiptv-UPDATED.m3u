@@ -186,7 +186,8 @@ https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04dj
 <!-- ---------------------------------EXTINF group-title= 🇩🇪 GERMANY -->
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
-http://187.95.95.247/ArteHD/index.m3u8
+https://s6.hopslan.com/arte/index.m3u8?token=2488b9024d2d43b28b4376dfa3f6c28e77790fd3-76f3401f9c47fb23072db3861ac2f627-1705045099-1705034299
+#https://i.imgur.com/s9PZHIj.png
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uabWZfJ.png", 🇩🇪 DW DEUTSCH Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@dwnews
@@ -197,6 +198,7 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Das_Erste-Logo_klein.svg.png", 🇩🇪 DAS ERSTE
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#http://135.181.1.235:80/DASERSTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png", 🇩🇪 TAGESSCHAU24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
@@ -204,8 +206,14 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c5e59621054cf39b4bf3abc24a4dcba.png", 🇩🇪 WDR 
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/600/887/png-transparent-zdf-germany-television-broadcasting-ard-channel-one-logo-television-text-trademark-thumbnail.png", 🇩🇪 ZDF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF
 http://135.181.1.235:80/ZDF/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 PRO7 MAX
+http://135.181.1.235:80/PRO7MAXX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYSA8iY.png", 🇩🇪 PRO7 FUN
+http://135.181.1.235:80/PROSIEBENFUN/index.m3u8c
 
 <!-- ---------------------------------EXTINF group-title= 🇳🇱 Netherlands -->
 
@@ -468,13 +476,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 #https://streamstat.net/play.cgi?sid=434941162&ext=.m3u8
 
-<!--
-#EXTINF:-1 , 💋 A3BIKINI TV
+EXTINF:-1 , 💋 A3BIKINI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 <!-- https://bx-tv.com/a3bikini-channel/ -->
--->
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
+<!-- #EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY -->
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 <!-- https://www.kaloopy.com/ -->
 
