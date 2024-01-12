@@ -337,13 +337,13 @@ https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 , 📽 THE MOVIE HUB
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 <!-- ---------------------------------EXTINF group-title= 📓 DOCUMENTARY -->
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDWAhy1.png", 📓 CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2I930b.png", 📓 DOCURAMA
 https://docurama-tcl.amagi.tv/playlist.m3u8
