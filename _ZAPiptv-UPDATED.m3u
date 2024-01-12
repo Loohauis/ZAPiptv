@@ -419,8 +419,11 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQZdj.png", 🎵 KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
-https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8|Referer=https://photocall.tv/ce3j/l1?ch=viva_russia&User-Agent=Android
+
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 NRJ
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 
 #-- ---------------------------------EXTINF group-title= 📡 INFO
 
@@ -479,7 +482,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 💋 WORLD FASHION CHANNEL
 https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 
-EXTINF:-1 , 💋 A3BIKINI TV
+#EXTINF:-1 , 💋 A3BIKINI TV
 #-- https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #-- https://bx-tv.com/a3bikini-channel/
 
@@ -501,9 +504,8 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8|Referer=https://www.v
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #-- http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rc19ZtR.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 💋 BABES TV
-https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff
-#-- http://oxax.tv/babes-tv.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
+https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
 
 #-- ---------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
 
@@ -705,6 +707,3 @@ https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIVARussia.ru",VIVA Russia (1080p)3
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="",temp
-https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
