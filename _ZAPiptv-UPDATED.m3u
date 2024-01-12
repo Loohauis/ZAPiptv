@@ -189,10 +189,6 @@ https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04dj
 https://s6.hopslan.com/arte/index.m3u8?token=2488b9024d2d43b28b4376dfa3f6c28e77790fd3-76f3401f9c47fb23072db3861ac2f627-1705045099-1705034299
 #https://i.imgur.com/s9PZHIj.png
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uabWZfJ.png", 🇩🇪 DW DEUTSCH Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@dwnews
-#https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9aad7dac2855ae7135f7c0826a85926e.png", 🇩🇪 HR FERNSEHEN
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 
@@ -214,6 +210,9 @@ http://135.181.1.235:80/PRO7MAXX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYSA8iY.png", 🇩🇪 PRO7 FUN
 http://135.181.1.235:80/PROSIEBENFUN/index.m3u8c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
+http://135.181.1.235:80/SIXX/index.m3u8
 
 <!-- ---------------------------------EXTINF group-title= 🇳🇱 Netherlands -->
 
@@ -434,6 +433,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 #EXTINF:-1 , 📡 BLOOMBERG TV
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uabWZfJ.png", 📡 DW DEUTSCH Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@dwnews
+#https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
 <!-- ---------------------------------EXTINF group-title= ⚽ SPORTS -->
 
 #EXTINF:-1 , ⚽ BEIN SPORTS XTRA
@@ -460,10 +463,10 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsnykxB.png", 💋 FASHION TV MIDNIGHT SECRETS
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3nGsu5.png", 💋 Fashion TV PG16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3nGsu5.png", 💋 FASHION TV PG16
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIKHRAS.png", 💋 GLOBAL FASHION CHANNEL
@@ -473,8 +476,6 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGFA955.png", 💋 WORLD FASHION CHANNEL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://live-3.otcnet.ru
 https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 #https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
@@ -482,11 +483,11 @@ https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 
 EXTINF:-1 , 💋 A3BIKINI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-<!-- https://bx-tv.com/a3bikini-channel/ -->
+#-- https://bx-tv.com/a3bikini-channel/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-<!-- https://www.kaloopy.com/ -->
+#-- https://www.kaloopy.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
@@ -501,6 +502,11 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkLzQci.png", 💋 BABESTATION 24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rc19ZtR.png", 💋 BABES TV
+https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff
+#-- http://oxax.tv/babes-tv.html
+
 
 <!-- ---------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/ -->
 
@@ -679,6 +685,7 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3gC8Mb.png",🎧 Radio Vidigueira
 https://centova.radio.com.pt/proxy/567?mp=/stream
+#-- https://radiovidigueira.pt/
 
 <!-- ---------------------------------EXTINF group-title= ⚠️ STREAM TESTS ⚠️ -->
 
@@ -689,7 +696,9 @@ https://oklivetv.com/xplay/error/offline.mp4
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel
-https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
+#https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4unUuGy.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel International
-https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
+#https://live-3.otcnet.ru/wfcenmulti/index.m3u8
