@@ -1,6 +1,6 @@
 #EXTM3U
 
-#-- ---------------------------------EXTINF group-title= 🇵🇹 PORTUGAL
+#-- ------------------------------------------------------------------EXTINF group-title= 🇵🇹 PORTUGAL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
@@ -85,11 +85,14 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13833/thumb_KURIAKOS_KIDS_.png", 🇵🇹 KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4znhBc1.png", 🇵🇹 KURIAKOS CINE ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4znhBc1.png", 🇵🇹 KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZu6APK.png", 🇵🇹 MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png" group-title="English", MyTime Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkRN87FGMBLA9hmXtR6NOhsxNGNVkvpR70A&usqp=CAU", 🇵🇹 ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
@@ -97,7 +100,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇧🇷 BRAZIL
+#-- ------------------------------------------------------------------EXTINF group-title= 🇧🇷 BRAZIL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
@@ -120,7 +123,7 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇪🇸 SPAIN
+#-- ------------------------------------------------------------------EXTINF group-title= 🇪🇸 SPAIN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png", 🇪🇸 24H
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
@@ -149,7 +152,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png", 🇪🇸 CANAL SUR ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇮🇹 ITALY
+#-- ------------------------------------------------------------------EXTINF group-title= 🇮🇹 ITALY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png", 🇮🇹 RAI NEWS 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
@@ -166,7 +169,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png", 🇮🇹 RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇫🇷 FRANCE
+#-- ------------------------------------------------------------------EXTINF group-title= 🇫🇷 FRANCE
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -183,7 +186,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
-#-- ---------------------------------EXTINF group-title= 🇩🇪 GERMANY
+#-- ------------------------------------------------------------------EXTINF group-title= 🇩🇪 GERMANY
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
 https://s6.hopslan.com/arte/index.m3u8?token=2488b9024d2d43b28b4376dfa3f6c28e77790fd3-76f3401f9c47fb23072db3861ac2f627-1705045099-1705034299
@@ -214,12 +217,12 @@ http://135.181.1.235:80/PROSIEBENFUN/index.m3u8c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
 http://135.181.1.235:80/SIXX/index.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇳🇱 Netherlands
+#-- ------------------------------------------------------------------EXTINF group-title= 🇳🇱 Netherlands
 
 #EXTINF:-1 , 🇳🇱 Nederland CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇬🇧 UK
+#-- ------------------------------------------------------------------EXTINF group-title= 🇬🇧 UK
 
 #EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2016/09/Sky-News-Logo.png", 🇬🇧 SKY NEWS
 https://d301yv2uyy17su.cloudfront.net/sky-news-international-live.m3u8
@@ -239,7 +242,7 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png", 🇬🇧 BBC AMERICA
 http://flash.shortgod.com/viscao/tv5.php?id=15060
 
-#-- ---------------------------------EXTINF group-title= 🇺🇸 USA
+#-- ------------------------------------------------------------------EXTINF group-title= 🇺🇸 USA
 
 #EXTINF:-1 , 🇺🇸 ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -250,13 +253,13 @@ https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png", 🇺🇸 FOX NEWS NOW
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 , 🇺🇸 NBC NEWS NOW ᴴᴰ
+#EXTINF:-1 , 🇺🇸 NBC NEWS NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qfFUov.png", 🇺🇸 PBS GUAM KGTF CHANNEL 12 Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@pbsguam
 
-#-- ---------------------------------EXTINF group-title= 🇦🇺 AUSTRALIA
+#-- ------------------------------------------------------------------EXTINF group-title= 🇦🇺 AUSTRALIA
 
 #EXTINF:-1 , tvg-logo="https://www.gifservice.fr/en/gif/multi-media-channels-tv-world-australia-abc-news-g16638-p367641-fsmall.gif", 🇦🇺 ABC NEWS AUSTRALIA LIVE
 https://c.mjh.nz/abc-news.m3u8
@@ -270,7 +273,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/EPDbrMyx4eXYSHtJ6", 🇦🇺 ABC TV PLUS
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🇪🇺 EUROPE
+#-- ------------------------------------------------------------------EXTINF group-title= 🇪🇺 EUROPE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png", 🇪🇺 CNBC EUROPE
 https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
@@ -284,7 +287,7 @@ https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS NOW
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🌎 INTERNATIONAL
+#-- ------------------------------------------------------------------EXTINF group-title= 🌎 INTERNATIONAL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png", 🌎 AFRICA NEWS
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
@@ -301,7 +304,7 @@ http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#-- ---------------------------------EXTINF group-title= 📺 ENTERTAINMENT
+#-- ------------------------------------------------------------------EXTINF group-title= 📺 ENTERTAINMENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqkrWcN.png", 📺 AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
@@ -313,7 +316,8 @@ http://191.209.60.250:8000/play/a00f
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 , 📺 PEOPLE ARE AWESOME
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
 
 #EXTINF:-1 , 📺 THE PET COLLECTIVE
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
@@ -327,13 +331,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png", 📺 MORE TV SITCOMS | PLUTO TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#-- ---------------------------------EXTINF group-title= 📓 MOVIES
+#-- ------------------------------------------------------------------EXTINF group-title= 📓 MOVIES
 
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
+#-- tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
+#-- tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
 https://magselect-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png", 📽 MYTIME MOVIE NETWORK UK
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgncfvK.png", 📽 FILMRISE FREE MOVIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
@@ -341,23 +348,33 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 #EXTINF:-1 , 📽 HALLMARK MOVIES & MORE
 https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 , 📽 MOVIESPHERE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png", 📽 MOVIESPHERE UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg", 📽 STAR MOVIES
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 , 📽 THE MOVIE HUB
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpytPtT/hollywood-hd.png", 📽 HOLLYWOOD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6b2KHC.jpeg", 📽 ADRENALINE RUSH
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 📓 DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWtsYYtW/Filmstream.png", 📽 FILMSTREAM
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+
+#-- ------------------------------------------------------------------EXTINF group-title= 📓 DOCUMENTARY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDWAhy1.png", 📓 CGTN DOCUMENTARY
 http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2I930b.png", 📓 DOCURAMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2I930b.png", 📓 DOCURAMA CHANNEL
 https://docurama-tcl.amagi.tv/playlist.m3u8
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MbZi25n.png", 📓 RAKUTEN DOCU
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
@@ -379,7 +396,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdKQY9h.png", 📓 NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#-- ---------------------------------EXTINF group-title= 😊 KIDS
+#-- ------------------------------------------------------------------EXTINF group-title= 😊 KIDS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
@@ -399,7 +416,7 @@ https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
 #EXTINF:-1 , 😊 ZOO MOO AUSTRALIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 🎵 MUSIC
+#-- ------------------------------------------------------------------EXTINF group-title= 🎵 MUSIC
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/07/DeeJay_TV_Logo-700x701.png", 🎵 DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -422,10 +439,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8|Referer=https://photocall.tv/ce3j/l1?ch=viva_russia&User-Agent=Android
 
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 NRJ
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png", 🎵 NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 
-#-- ---------------------------------EXTINF group-title= 📡 INFO
+#-- ------------------------------------------------------------------EXTINF group-title= 📡 INFO
 
 #EXTINF:-1 , 📡 ACCUWEATHER ᴴᴰ
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
@@ -441,7 +458,7 @@ https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://kister.net/mpl/yt2m3u8?w=@dwnews
 #https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
-#-- ---------------------------------EXTINF group-title= ⚽ SPORTS
+#-- ------------------------------------------------------------------EXTINF group-title= ⚽ SPORTS
 
 #EXTINF:-1 , ⚽ BEIN SPORTS XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -461,7 +478,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxJXDAB.png", ⚽ IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
 
-#-- ---------------------------------EXTINF group-title= 💋 LIFESTYLE
+#-- ------------------------------------------------------------------EXTINF group-title= 💋 LIFESTYLE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/finvX2w.png", 💋 FASHION TV ᵁᴴᴰ
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -507,7 +524,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
 https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
 
-#-- ---------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
+#-- ------------------------------------------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntdNo4F.png",🎧 ANTENA 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
@@ -686,24 +703,10 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 https://centova.radio.com.pt/proxy/567?mp=/stream
 #-- https://radiovidigueira.pt/
 
-#-- ---------------------------------EXTINF group-title= ⚠️ STREAM TESTS ⚠️
+#-- ------------------------------------------------------------------EXTINF group-title= ⚠️ STREAM TESTS ⚠️
 
 #EXTINF:-1 tvg-logo="", ⚠️ OFFLINE ⚠️
 https://oklivetv.com/xplay/error/offline.mp4
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
-
-#EXTINF:-1 tvg-id="VIVARussia.ru",VIVA Russia (1080p)1
-#EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="nextEvento",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200,CODECS="avc1.4d000a,mp4a.40.2",RESOLUTION=1080x720,VIDEO="src"
-https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VIVARussia.ru",VIVA Russia (1080p)2
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=665596,RESOLUTION=1080x720,CODECS="avc1.640016,mp4a.40.2"
-https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VIVARussia.ru",VIVA Russia (1080p)3
-https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
