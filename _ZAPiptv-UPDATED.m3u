@@ -91,7 +91,7 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZu6APK.png", 🇵🇹 MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png" group-title="English", MyTime Movie Network BR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png", MyTime Movie Network BR
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkRN87FGMBLA9hmXtR6NOhsxNGNVkvpR70A&usqp=CAU", 🇵🇹 ON FM TV
@@ -185,6 +185,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png", 🇫🇷 NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🇩🇪 GERMANY
 
@@ -416,31 +419,43 @@ https://2-fss-2.streamhoster.com/pl_140/200914-1298290-1/playlist.m3u8
 #EXTINF:-1 , 😊 ZOO MOO AUSTRALIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 , 😊 K
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_1.m3u8
+
 #-- ------------------------------------------------------------------EXTINF group-title= 🎵 MUSIC
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/07/DeeJay_TV_Logo-700x701.png", 🎵 DEEJAY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1J2O4f.png", 🎵 DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", 🎵 CLUBBING TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b7D28VV.png", 🎵 CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47soiAM.png", 🎵 M2O
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 , 🎵 MTV BIGGEST POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 , 🎵 RETRO MUSIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sOllF8.jpeg", 🎵 RETRO MUSIC
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQZdj.png", 🎵 KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8|Referer=https://photocall.tv/ce3j/l1?ch=viva_russia&User-Agent=Android
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png", 🎵 NRJ12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2BoU7Q.png", 🎵 MTV Global
+http://37.18.239.36:8888/MTV_Adria/index.m3u8|Referer=http://37.18.239.36:8888/&User-Agent=Android
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png", 🎵 Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L38mC6H.png", 🎵 California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyrgDuI.png", 🎵 MCM Top
+http://live-3.otcnet.ru/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JoPywOp.png", 🎵 ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 📡 INFO
 
@@ -458,10 +473,13 @@ https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://kister.net/mpl/yt2m3u8?w=@dwnews
 #https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 
-#-- ------------------------------------------------------------------EXTINF group-title= ⚽ SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DW3ywG4.png", 📡 TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
-#EXTINF:-1 , ⚽ BEIN SPORTS XTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/flsEsGo.png", 📡 UKRAINE WORLD NEWS
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
+
+#-- ------------------------------------------------------------------EXTINF group-title= ⚽ SPORTS
 
 #EXTINF:-1 , ⚽ EDGESPORT
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -477,6 +495,12 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxJXDAB.png", ⚽ IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8mviBy.png", ⚽ FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png", ⚽ PAC 12 INSIDER
+https://pac12-roku-us.amagi.tv/playlist.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 💋 LIFESTYLE
 
@@ -499,7 +523,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 💋 WORLD FASHION CHANNEL
 https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 
-#EXTINF:-1 , 💋 A3BIKINI TV
+#tvg-logo="", 💋 A3BIKINI TV
 #-- https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #-- https://bx-tv.com/a3bikini-channel/
 
@@ -513,6 +537,9 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o4fZU2M.png", 💋 SUNBEACH TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8|Referer=https://www.visit-x.net/en/tv/livestream/&User-Agent=Android
 #-- https://www.visit-x.net/en/tv/livestream/
@@ -521,7 +548,7 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8|Referer=https://www.v
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #-- http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
+#tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
 https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
