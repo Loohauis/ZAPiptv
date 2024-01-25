@@ -123,6 +123,20 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV
+https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#https://bit.ly/3QUKxBT?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
+http://209.222.97.92:16436/
+#https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 BAND NEWS TV
+https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 BAND SPORTS
+http://187.95.95.243/Band-Sports/index.m3u8
+
 #-- ------------------------------------------------------------------EXTINF group-title= 🇪🇸 SPAIN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png", 🇪🇸 24H
@@ -189,6 +203,9 @@ https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04dj
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png", 🇫🇷 NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 
+#EXTINF:-1 tvg-id="", 🇫🇷 TF1
+http://212.102.60.80/TF1/mono.m3u8
+
 #-- ------------------------------------------------------------------EXTINF group-title= 🇩🇪 GERMANY
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arte_fr.png", 🇩🇪 ARTE
@@ -213,9 +230,6 @@ http://135.181.1.235:80/ZDF/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 PRO7 MAX
 http://135.181.1.235:80/PRO7MAXX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYSA8iY.png", 🇩🇪 PRO7 FUN
-http://135.181.1.235:80/PROSIEBENFUN/index.m3u8c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
 http://135.181.1.235:80/SIXX/index.m3u8
@@ -244,6 +258,9 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png", 🇬🇧 BBC AMERICA
 http://flash.shortgod.com/viscao/tv5.php?id=15060
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKMUfg0.png", 🇬🇧 TKS TV
+https://livestream.tkstv.co.uk/live/tmp_hls/tkstv/index.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🇺🇸 USA
 
@@ -523,7 +540,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 💋 WORLD FASHION CHANNEL
 https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 
-#tvg-logo="", 💋 A3BIKINI TV
+#-- tvg-logo="", 💋 A3BIKINI TV
 #-- https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #-- https://bx-tv.com/a3bikini-channel/
 
@@ -542,14 +559,19 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8|Referer=https://www.visit-x.net/en/tv/livestream/&User-Agent=Android
+#http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
 #-- https://www.visit-x.net/en/tv/livestream/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkLzQci.png", 💋 BABESTATION 24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #-- http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
-#tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
-https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
+#-- tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
+#-- https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
+
+#--,[COLOR=white][B]EUROPULSE HD[/B][/COLOR][COLOR=white][/COLOR]
+#-- http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🎧 RADIOS - https://www.radios-online.pt/
 
@@ -737,3 +759,6 @@ https://oklivetv.com/xplay/error/offline.mp4
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
+
+#EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️ CHC
+http://119.131.240.239:8089/hls/110/index.m3u8
