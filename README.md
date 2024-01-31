@@ -1,1 +1,1 @@
-# ZAPiptv 2022
+# ZAPiptv
