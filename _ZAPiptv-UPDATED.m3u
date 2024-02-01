@@ -26,8 +26,8 @@ https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-logo="http://mcshare.iol.pt/wp-content/uploads/2021/06/LOGO-TVI-FICCAO-COR-ESCURO.png", 🇵🇹 TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=user-agent=Opera
 
-#EXTINF:-1 tvg-logo="", 🇵🇹 TVI MORANGOS COM AÇÚCAR
-https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
+#-- tvg-logo="", 🇵🇹 TVI MORANGOS COM AÇÚCAR
+#https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Tvi_africa.png", 🇵🇹 TVI AFRICA
 https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8|user-agent=user-agent=Opera
@@ -37,7 +37,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsRcqTx.png", 🇵🇹 CNN PORTUGAL
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
@@ -76,6 +77,11 @@ https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",CAMÔES TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
+
 #EXTINF:-1 tvg-logo="", 🇵🇹 ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
@@ -91,14 +97,48 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZu6APK.png", 🇵🇹 MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png", MyTime Movie Network BR
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkRN87FGMBLA9hmXtR6NOhsxNGNVkvpR70A&usqp=CAU", 🇵🇹 ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT
-https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/e8e94498-f4fc-42d5-9863-28410bcfa353/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@euronewspt
+
+#-- ------------------------------------------------------------------EXTINF group-title= 🌎 INTERNATIONAL
+
+#EXTINF:-1 tvg-logo="", 🌎 TDM - Teledifusão de Macau PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 🌎 TDM - Teledifusão de Macau CN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 🌎 TVM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 🌎 TVM Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png", 🌎 AFRICA NEWS
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png", 🌎 AL JAZEERA ENGLISH
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="", 🌎 ARIRANG TV KOREA EN
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 🌎 CGTN
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🇧🇷 BRAZIL
 
@@ -136,6 +176,10 @@ https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 BAND SPORTS
 http://187.95.95.243/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇧🇷 MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🇪🇸 SPAIN
 
@@ -188,23 +232,29 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇫🇷 MTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="", 🇫🇷 TF1
+http://212.102.60.80/TF1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/m68813m3c2-m6-logo-m6-logos.png", 🇫🇷 M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png", 🇫🇷 NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 
-#EXTINF:-1 tvg-id="", 🇫🇷 TF1
-http://212.102.60.80/TF1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gulli_2017_nouveau_logo.jpg/150px-Gulli_2017_nouveau_logo.jpg", 🇫🇷 GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="", 🇫🇷 CStar
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/CStar.m3u8
+
+#EXTINF:-1 tvg-id="", 🇫🇷 MleMedia
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/Canal/MleMedia.m3u8
+
+#EXTINF:-1 tvg-id="", 🇫🇷 LEquipe
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dmotion/py/LEquipe/LEquipe.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🇩🇪 GERMANY
 
@@ -306,23 +356,6 @@ https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS NOW
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#-- ------------------------------------------------------------------EXTINF group-title= 🌎 INTERNATIONAL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Africanews._alternative_logo_2016.png/220px-Africanews._alternative_logo_2016.png", 🌎 AFRICA NEWS
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png", 🌎 AL JAZEERA ENGLISH
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 , 🌎 ARIRANG TV KOREA EN
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 , 🌎 CGTN
-http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png", 🌎 NHK WORLD JAPAN
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #-- ------------------------------------------------------------------EXTINF group-title= 📺 ENTERTAINMENT
 
