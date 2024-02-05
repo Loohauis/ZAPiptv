@@ -5,6 +5,12 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/baBhFb6.png", 🇵🇹 VITEC Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
+#AzoresTV by VITEC
+#UC55hQqNNtteQERpKUiiOI1w
+#https://www.youtube.com/@vitecazorestv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uex76Nx.png", 🇵🇹 RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
@@ -71,15 +77,14 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/z.m3u8
-https://ddh1.hlsjs.ru:443/ddh1/premium718/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0k4fST336VlFReHBR_UI6q2Q3Y-OaaLDzCUiGzEWgeK8)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",CAMÔES TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 ARTV
