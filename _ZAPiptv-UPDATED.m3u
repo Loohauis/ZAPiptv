@@ -36,7 +36,7 @@ https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC INTERNACIONAL Ⓢ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC INTERNACIONAL Ⓖ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sic.pt/
@@ -54,7 +54,7 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s1
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s2 Ⓢ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s2 Ⓖ
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
@@ -806,6 +806,9 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 https://centova.radio.com.pt/proxy/567?mp=/stream
 #-- https://radiovidigueira.pt/
 
+#EXTINF:-1 tvg-logo="",🎧 ***RADIO-Z-ROCK
+https://centova.radio.com.pt/proxy/567?mp=/stream
+
 #-- ------------------------------------------------------------------EXTINF group-title= ⚠️ STREAM TESTS ⚠️
 
 #EXTINF:-1 tvg-logo="", ⚠️ OFFLINE ⚠️
@@ -813,6 +816,3 @@ https://oklivetv.com/xplay/error/offline.mp4
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
-
-#EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️ CHC
-http://119.131.240.239:8089/hls/110/index.m3u8
