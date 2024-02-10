@@ -5,12 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png", ✠ ✠ ✠  ZAPiptv  ✠ ✠ ✠
 https://ZAPIPTV.m3u8?channel=00
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/baBhFb6.png", 🇵🇹 VITEC Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
-#AzoresTV by VITEC
-#UC55hQqNNtteQERpKUiiOI1w
-#https://www.youtube.com/@vitecazorestv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uex76Nx.png", 🇵🇹 RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
@@ -42,6 +36,18 @@ https://video-auth6.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #https://github.com/kubbar/freeiptv/blob/master/ressources/tvipt/sh/tviint.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC INTERNACIONAL s1 Ⓢ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sic.live.impresa.pt/live/sicint/sicint.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC INTERNACIONAL s2 Ⓢ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicint.live.impresa.pt/sicint.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsRcqTx.png", 🇵🇹 CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
@@ -53,13 +59,9 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s2 Ⓢ
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s3 Ⓢ
-https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -76,6 +78,12 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg", 🇵🇹 RTP MEMÓRIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/baBhFb6.png", 🇵🇹 VITEC Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
+#AzoresTV by VITEC
+#UC55hQqNNtteQERpKUiiOI1w
+#https://www.youtube.com/@vitecazorestv
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -84,7 +92,7 @@ https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0k4fST336VlFReHBR_
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
 https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",CAMÔES TV
+#EXTINF:-1 tvg-logo="", 🇵🇹 CAMÔES TV
 https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 ARTV
@@ -106,7 +114,11 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@euronewspt
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
+#https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-pt_EuroNewsLive/playlist.m3u8
+#https://kister.net/mpl/yt2m3u8?w=@euronewspt
+#https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 
 #-- ------------------------------------------------------------------EXTINF group-title= 🌎 INTERNATIONAL
 
@@ -189,16 +201,25 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 #-- ------------------------------------------------------------------EXTINF group-title= 🇪🇸 SPAIN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png", 🇪🇸 24H
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
+https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
+#https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg.png", 🇪🇸 TVE
 http://200.113.4.75:7210/play/a01r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png", 🇪🇸 TVE LA1 Ⓖ
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
+#https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png", 🇪🇸 TVE LA2 Ⓖ
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
+#https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg", 🇪🇸 TVE TDP
+https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg", 🇪🇸 TVE CLAN
+https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇪🇸 TVG CULTURAL
 https://cultural-crtvg.flumotion.com/playlist.m3u8
@@ -797,6 +818,3 @@ https://oklivetv.com/xplay/error/offline.mp4
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://s6.hopslan.com/zdfx1/index.m3u8?token=a079866dd0a1cad72f7e1965373d4a430d85d44f-6f5b9aa5531019d20b3996dd154d400e-1704528809-1704518009
-
-#EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️ CHC
-http://119.131.240.239:8089/hls/110/index.m3u8
