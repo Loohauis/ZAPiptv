@@ -271,6 +271,26 @@ http://135.181.1.235:80/SIXX/index.m3u8
 
 #--------------------------------------------------------------------- group-title= 🇳🇱 Netherlands
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47", 🇳🇱 BVN
+https://gineu9.bozztv.com/gin-36bay2/gin-bvntv/tracks-v1a1/mono.m3u8
+#https://bozztv.com/inim03/live1/giniko_bvntv/playlist.m3u8
+#https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#https://raw.githubusercontent.com/ekowahyoedie/keliki2022/main/bvn
+
+#EXTINF:-1 tvg-logo="", 🇳🇱 BTL TV
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nhnieuws.nl/nh/logo-nh-192.png", 🇳🇱 RTV Noord-Holland
+https://n1.cdn.jetstre.am/session/aa5e09abfa1c7efa099d65b6b0a669fe/sz/nhnieuws/wowza4/live/live/chunklist.m3u8
+#https://www.nhnieuws.nl/
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-tpAPGCp2uwP1WSas-xt4yXA-t500x500.jpg", 🇳🇱 DANCETV.NET NL
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#https://www.dancetv.net/
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sHzsZJKINXXWCLS-KOTI8BAyde-uwv0tfoY5zFg1IywT8tzebqTPl9rGg_2qPsoyfA=w240-h480-rw", 🇳🇱 MA Live
+https://live.salto.nl/hls/malive_high.m3u8?hls_ctx=r59oqm43
+
 #EXTINF:-1 , 🇳🇱 Nederland CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 
