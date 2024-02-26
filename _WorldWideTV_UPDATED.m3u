@@ -66728,319 +66728,59 @@ https://azure55.com/Azure/Movies/April%2023/0204/05.mp4
 #KODIPROP:inputstream.adaptive.license_key={"b495e858f006b2b19bcd3afc41f1a610": "37bd595f477a87700e576ec0d219668c"}
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd
 
-#EXTM3U
-#EXTINF:-1 ,⚠️ STREAM Indonesian_1
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_2
-http://210.210.155.35/dr9445/h/h03/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_3
-http://210.210.155.35/dr9445/h/h04/index.m3u8
+
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_4
 http://210.210.155.35/dr9445/h/h05/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_5
 http://210.210.155.35/dr9445/h/h07/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_6
-http://210.210.155.35/dr9445/h/h08/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_7
-http://210.210.155.35/dr9445/h/h09/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_8
-http://210.210.155.35/dr9445/h/h10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_9
-http://210.210.155.35/dr9445/h/h12/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_10
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM BLUE ANT ENTERTAINMENT
 http://210.210.155.35/dr9445/h/h16/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_13
-http://210.210.155.35/dr9445/h/h18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_14
-http://210.210.155.35/dr9445/h/h20/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_15
 http://210.210.155.35/dr9445/h/h21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_16
-http://210.210.155.35/dr9445/h/h24/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_17
-http://210.210.155.35/dr9445/h/h29/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_18
-http://210.210.155.35/dr9445/h/h37/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_19
-http://210.210.155.35/dr9445/h/h38/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_20
-http://210.210.155.35/dr9445/h/h39/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_21
-http://210.210.155.35/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_22
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_23
-http://210.210.155.35/qwr9ew/s/s05/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_24
-http://210.210.155.35/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_25
-http://210.210.155.35/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_26
-http://210.210.155.35/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_27
-http://210.210.155.35/qwr9ew/s/s104/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_28
-http://210.210.155.35/qwr9ew/s/s105/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_29
-http://210.210.155.35/qwr9ew/s/s106/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_30
-http://210.210.155.35/qwr9ew/s/s107/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_31
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_32
 http://210.210.155.35/qwr9ew/s/s12/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_33
-http://210.210.155.35/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_34
-http://210.210.155.35/qwr9ew/s/s14/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_35
-http://210.210.155.35/qwr9ew/s/s15/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_36
-http://210.210.155.35/qwr9ew/s/s16/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_37
-http://210.210.155.35/qwr9ew/s/s17/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_38
-http://210.210.155.35/qwr9ew/s/s18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_39
-http://210.210.155.35/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_40
-http://210.210.155.35/qwr9ew/s/s20/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_41
-http://210.210.155.35/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_42
-http://210.210.155.35/qwr9ew/s/s22/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_43
-http://210.210.155.35/qwr9ew/s/s25/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_44
-http://210.210.155.35/qwr9ew/s/s27/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_45
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_46
-http://210.210.155.35/qwr9ew/s/s30/S4/mnf.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_47
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_48
-http://210.210.155.35/qwr9ew/s/s31/S4/mnf.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_49
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_50
-http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_51
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_52
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_53
-http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_54
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_55
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_56
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_57
-http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_58
-http://210.210.155.35/qwr9ew/s/s44/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_59
-http://210.210.155.35/qwr9ew/s/s45/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_60
-http://210.210.155.35/qwr9ew/s/s50/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_61
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_62
 http://210.210.155.35/qwr9ew/s/s63/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_63
 http://210.210.155.35/qwr9ew/s/s64/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_64
-http://210.210.155.35/uq2663/h/h01/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_65
-http://210.210.155.35/uq2663/h/h03/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_66
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_67
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_68
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_69
-http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_70
-http://210.210.155.35/uq2663/h/h07/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_71
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_72
 http://210.210.155.35/uq2663/h/h09/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_73
 http://210.210.155.35/uq2663/h/h10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_74
-http://210.210.155.35/uq2663/h/h100/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_75
-http://210.210.155.35/uq2663/h/h101/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_76
-http://210.210.155.35/uq2663/h/h102/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_77
-http://210.210.155.35/uq2663/h/h103/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_78
-http://210.210.155.35/uq2663/h/h104/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_79
-http://210.210.155.35/uq2663/h/h105/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_80
-http://210.210.155.35/uq2663/h/h106/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_81
-http://210.210.155.35/uq2663/h/h107/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_82
-http://210.210.155.35/uq2663/h/h108/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_83
-http://210.210.155.35/uq2663/h/h109/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_84
 http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_85
-http://210.210.155.35/uq2663/h/h110/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_86
-http://210.210.155.35/uq2663/h/h111/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_87
-http://210.210.155.35/uq2663/h/h112/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_88
-http://210.210.155.35/uq2663/h/h113/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_89
-http://210.210.155.35/uq2663/h/h114/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_90
-http://210.210.155.35/uq2663/h/h115/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_91
-http://210.210.155.35/uq2663/h/h116/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_92
-http://210.210.155.35/uq2663/h/h117/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_93
-http://210.210.155.35/uq2663/h/h118/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_94
-http://210.210.155.35/uq2663/h/h119/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_95
 http://210.210.155.35/uq2663/h/h12/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_96
-http://210.210.155.35/uq2663/h/h120/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_97
 http://210.210.155.35/uq2663/h/h121/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_98
-http://210.210.155.35/uq2663/h/h122/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_99
-http://210.210.155.35/uq2663/h/h128/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_100
-http://210.210.155.35/uq2663/h/h129/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_101
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_102
-http://210.210.155.35/uq2663/h/h130/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_103
-http://210.210.155.35/uq2663/h/h131/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_104
-http://210.210.155.35/uq2663/h/h138/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_105
-http://210.210.155.35/uq2663/h/h139/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_106
-http://210.210.155.35/uq2663/h/h14/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_107
-http://210.210.155.35/uq2663/h/h141/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_108
-http://210.210.155.35/uq2663/h/h143/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_109
-http://210.210.155.35/uq2663/h/h145/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_110
-http://210.210.155.35/uq2663/h/h146/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_111
-http://210.210.155.35/uq2663/h/h147/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_112
-http://210.210.155.35/uq2663/h/h148/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_113
-http://210.210.155.35/uq2663/h/h149/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_114
-http://210.210.155.35/uq2663/h/h15/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_115
-http://210.210.155.35/uq2663/h/h150/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_116
-http://210.210.155.35/uq2663/h/h151/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_117
-http://210.210.155.35/uq2663/h/h152/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_118
-http://210.210.155.35/uq2663/h/h153/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_119
-http://210.210.155.35/uq2663/h/h154/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_120
-http://210.210.155.35/uq2663/h/h155/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_121
-http://210.210.155.35/uq2663/h/h156/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_122
-http://210.210.155.35/uq2663/h/h157/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_123
-http://210.210.155.35/uq2663/h/h158/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_124
-http://210.210.155.35/uq2663/h/h159/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_125
-http://210.210.155.35/uq2663/h/h16/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_126
-http://210.210.155.35/uq2663/h/h160/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_127
-http://210.210.155.35/uq2663/h/h161/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_128
-http://210.210.155.35/uq2663/h/h162/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_129
-http://210.210.155.35/uq2663/h/h163/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_130
-http://210.210.155.35/uq2663/h/h164/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_131
-http://210.210.155.35/uq2663/h/h165/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_132
-http://210.210.155.35/uq2663/h/h166/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_133
-http://210.210.155.35/uq2663/h/h167/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_134
-http://210.210.155.35/uq2663/h/h168/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_135
-http://210.210.155.35/uq2663/h/h169/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_136
 http://210.210.155.35/uq2663/h/h172/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_137
-http://210.210.155.35/uq2663/h/h173/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_138
-http://210.210.155.35/uq2663/h/h174/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_139
-http://210.210.155.35/uq2663/h/h175/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_140
-http://210.210.155.35/uq2663/h/h176/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_141
-http://210.210.155.35/uq2663/h/h177/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_142
-http://210.210.155.35/uq2663/h/h178/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_143
-http://210.210.155.35/uq2663/h/h179/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_144
 http://210.210.155.35/uq2663/h/h18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_145
-http://210.210.155.35/uq2663/h/h180/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_146
-http://210.210.155.35/uq2663/h/h181/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_147
-http://210.210.155.35/uq2663/h/h182/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_148
-http://210.210.155.35/uq2663/h/h183/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_149
-http://210.210.155.35/uq2663/h/h184/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_150
-http://210.210.155.35/uq2663/h/h185/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_151
-http://210.210.155.35/uq2663/h/h186/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_152
-http://210.210.155.35/uq2663/h/h187/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_153
-http://210.210.155.35/uq2663/h/h188/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_154
-http://210.210.155.35/uq2663/h/h189/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_155
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_156
-http://210.210.155.35/uq2663/h/h190/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_157
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_158
@@ -67049,14 +66789,7 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_160
 http://210.210.155.35/uq2663/h/h194/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_161
-http://210.210.155.35/uq2663/h/h195/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_162
-http://210.210.155.35/uq2663/h/h196/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_163
-http://210.210.155.35/uq2663/h/h198/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_164
-http://210.210.155.35/uq2663/h/h199/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_165
 http://210.210.155.35/uq2663/h/h200/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_166
@@ -67075,12 +66808,7 @@ http://210.210.155.35/uq2663/h/h206/index.m3u8
 http://210.210.155.35/uq2663/h/h207/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_173
 http://210.210.155.35/uq2663/h/h208/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_174
-http://210.210.155.35/uq2663/h/h209/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_175
-http://210.210.155.35/uq2663/h/h21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_176
-http://210.210.155.35/uq2663/h/h210/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_177
 http://210.210.155.35/uq2663/h/h211/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_178
@@ -67091,16 +66819,14 @@ http://210.210.155.35/uq2663/h/h213/index.m3u8
 http://210.210.155.35/uq2663/h/h214/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_181
 http://210.210.155.35/uq2663/h/h215/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_182
-http://210.210.155.35/uq2663/h/h216/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_183
 http://210.210.155.35/uq2663/h/h217/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_184
 http://210.210.155.35/uq2663/h/h218/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_185
 http://210.210.155.35/uq2663/h/h219/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_186
-http://210.210.155.35/uq2663/h/h22/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_187
 http://210.210.155.35/uq2663/h/h220/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_188
@@ -67117,18 +66843,12 @@ http://210.210.155.35/uq2663/h/h225/index.m3u8
 http://210.210.155.35/uq2663/h/h226/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_194
 http://210.210.155.35/uq2663/h/h227/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_195
-http://210.210.155.35/uq2663/h/h228/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_196
-http://210.210.155.35/uq2663/h/h229/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_197
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_198
 http://210.210.155.35/uq2663/h/h230/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_199
-http://210.210.155.35/uq2663/h/h231/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_200
-http://210.210.155.35/uq2663/h/h232/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_201
 http://210.210.155.35/uq2663/h/h233/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_202
@@ -67147,136 +66867,28 @@ http://210.210.155.35/uq2663/h/h239/index.m3u8
 http://210.210.155.35/uq2663/h/h24/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_209
 http://210.210.155.35/uq2663/h/h240/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_210
-http://210.210.155.35/uq2663/h/h241/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_211
 http://210.210.155.35/uq2663/h/h242/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_212
-http://210.210.155.35/uq2663/h/h243/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_213
 http://210.210.155.35/uq2663/h/h244/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_214
-http://210.210.155.35/uq2663/h/h245/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_215
 http://210.210.155.35/uq2663/h/h246/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_216
-http://210.210.155.35/uq2663/h/h247/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_217
 http://210.210.155.35/uq2663/h/h248/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_218
-http://210.210.155.35/uq2663/h/h249/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_219
-http://210.210.155.35/uq2663/h/h25/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_220
 http://210.210.155.35/uq2663/h/h250/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_221
-http://210.210.155.35/uq2663/h/h251/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_222
-http://210.210.155.35/uq2663/h/h252/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_223
-http://210.210.155.35/uq2663/h/h253/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_224
-http://210.210.155.35/uq2663/h/h254/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_225
-http://210.210.155.35/uq2663/h/h255/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_226
-http://210.210.155.35/uq2663/h/h256/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_227
-http://210.210.155.35/uq2663/h/h257/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_228
-http://210.210.155.35/uq2663/h/h258/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_229
-http://210.210.155.35/uq2663/h/h259/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_230
 http://210.210.155.35/uq2663/h/h26/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_231
-http://210.210.155.35/uq2663/h/h260/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_232
-http://210.210.155.35/uq2663/h/h261/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_233
-http://210.210.155.35/uq2663/h/h262/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_234
-http://210.210.155.35/uq2663/h/h263/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_235
-http://210.210.155.35/uq2663/h/h264/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_236
-http://210.210.155.35/uq2663/h/h265/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_237
-http://210.210.155.35/uq2663/h/h266/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_238
-http://210.210.155.35/uq2663/h/h267/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_239
-http://210.210.155.35/uq2663/h/h268/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_240
-http://210.210.155.35/uq2663/h/h269/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_241
-http://210.210.155.35/uq2663/h/h27/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_242
-http://210.210.155.35/uq2663/h/h270/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_243
-http://210.210.155.35/uq2663/h/h271/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_244
-http://210.210.155.35/uq2663/h/h272/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_245
-http://210.210.155.35/uq2663/h/h273/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_246
-http://210.210.155.35/uq2663/h/h274/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_247
-http://210.210.155.35/uq2663/h/h275/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_248
-http://210.210.155.35/uq2663/h/h276/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_249
-http://210.210.155.35/uq2663/h/h277/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_250
-http://210.210.155.35/uq2663/h/h278/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_251
-http://210.210.155.35/uq2663/h/h279/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_252
-http://210.210.155.35/uq2663/h/h28/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_253
-http://210.210.155.35/uq2663/h/h280/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_254
-http://210.210.155.35/uq2663/h/h281/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_255
-http://210.210.155.35/uq2663/h/h282/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_256
-http://210.210.155.35/uq2663/h/h283/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_257
-http://210.210.155.35/uq2663/h/h284/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_258
-http://210.210.155.35/uq2663/h/h285/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_259
-http://210.210.155.35/uq2663/h/h286/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_260
-http://210.210.155.35/uq2663/h/h287/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_261
-http://210.210.155.35/uq2663/h/h288/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_262
-http://210.210.155.35/uq2663/h/h289/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_263
 http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_264
-http://210.210.155.35/uq2663/h/h290/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_265
-http://210.210.155.35/uq2663/h/h291/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_266
-http://210.210.155.35/uq2663/h/h292/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_267
-http://210.210.155.35/uq2663/h/h293/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_268
-http://210.210.155.35/uq2663/h/h294/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_269
-http://210.210.155.35/uq2663/h/h295/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_270
-http://210.210.155.35/uq2663/h/h296/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_271
-http://210.210.155.35/uq2663/h/h297/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_272
-http://210.210.155.35/uq2663/h/h298/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_273
-http://210.210.155.35/uq2663/h/h299/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_274
-http://210.210.155.35/uq2663/h/h300/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_275
 http://210.210.155.35/uq2663/h/h35/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM HITS
@@ -67287,224 +66899,41 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35/uq2663/h/h39/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_279
 http://210.210.155.35/uq2663/h/h40/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_280
-http://210.210.155.35/uq2663/h/h41/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_281
-http://210.210.155.35/uq2663/h/h42/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_282
-http://210.210.155.35/uq2663/h/h46/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_283
-http://210.210.155.35/uq2663/h/h47/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_284
-http://210.210.155.35/uq2663/h/h48/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_285
-http://210.210.155.35/uq2663/h/h51/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_286
-http://210.210.155.35/uq2663/h/h52/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_287
-http://210.210.155.35/uq2663/h/h53/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_288
-http://210.210.155.35/uq2663/h/h54/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_289
-http://210.210.155.35/uq2663/h/h55/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_290
-http://210.210.155.35/uq2663/h/h56/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_291
-http://210.210.155.35/uq2663/h/h57/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_292
-http://210.210.155.35/uq2663/h/h58/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_293
-http://210.210.155.35/uq2663/h/h59/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_294
-http://210.210.155.35/uq2663/h/h60/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_295
-http://210.210.155.35/uq2663/h/h61/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_296
-http://210.210.155.35/uq2663/h/h62/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_297
-http://210.210.155.35/uq2663/h/h63/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_298
-http://210.210.155.35/uq2663/h/h64/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_299
-http://210.210.155.35/uq2663/h/h65/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_300
-http://210.210.155.35/uq2663/h/h66/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_301
-http://210.210.155.35/uq2663/h/h67/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_302
-http://210.210.155.35/uq2663/h/h68/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_303
-http://210.210.155.35/uq2663/h/h69/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_304
-http://210.210.155.35/uq2663/h/h70/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_305
-http://210.210.155.35/uq2663/h/h71/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_306
-http://210.210.155.35/uq2663/h/h72/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_307
-http://210.210.155.35/uq2663/h/h73/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_308
-http://210.210.155.35/uq2663/h/h74/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_309
-http://210.210.155.35/uq2663/h/h75/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_310
-http://210.210.155.35/uq2663/h/h76/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_311
-http://210.210.155.35/uq2663/h/h79/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_312
-http://210.210.155.35/uq2663/h/h80/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_313
-http://210.210.155.35/uq2663/h/h81/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_314
-http://210.210.155.35/uq2663/h/h82/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_315
-http://210.210.155.35/uq2663/h/h83/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_316
-http://210.210.155.35/uq2663/h/h84/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_317
-http://210.210.155.35/uq2663/h/h85/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_318
-http://210.210.155.35/uq2663/h/h87/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_319
-http://210.210.155.35/uq2663/h/h88/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_320
-http://210.210.155.35/uq2663/h/h89/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_321
-http://210.210.155.35/uq2663/h/h90/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_322
 http://210.210.155.35/uq2663/h/h91/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_323
-http://210.210.155.35/uq2663/h/h92/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_324
-http://210.210.155.35/uq2663/h/h95/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_325
-http://210.210.155.35/uq2663/h/h96/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_326
-http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_327
-http://210.210.155.37/dr9445/h/h03/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_328
-http://210.210.155.37/dr9445/h/h04/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_329
 http://210.210.155.37/dr9445/h/h05/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_330
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_331
-http://210.210.155.37/dr9445/h/h08/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_332
-http://210.210.155.37/dr9445/h/h09/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_333
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_334
-http://210.210.155.37/dr9445/h/h12/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_335
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_336
-http://210.210.155.37/dr9445/h/h18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_337
-http://210.210.155.37/dr9445/h/h20/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_338
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_339
-http://210.210.155.37/dr9445/h/h24/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_340
-http://210.210.155.37/dr9445/h/h29/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_341
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_342
-http://210.210.155.37/dr9445/h/h38/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_343
-http://210.210.155.37/dr9445/h/h39/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_344
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_345
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_346
-http://210.210.155.37/qwr9ew/s/s05/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_347
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_348
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_349
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_350
-http://210.210.155.37/qwr9ew/s/s104/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_351
-http://210.210.155.37/qwr9ew/s/s105/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_352
-http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_353
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_354
 http://210.210.155.37/qwr9ew/s/s12/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_355
-http://210.210.155.37/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_356
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_357
-http://210.210.155.37/qwr9ew/s/s15/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_358
-http://210.210.155.37/qwr9ew/s/s16/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_359
-http://210.210.155.37/qwr9ew/s/s17/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_360
-http://210.210.155.37/qwr9ew/s/s18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_361
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_362
-http://210.210.155.37/qwr9ew/s/s20/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_363
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_364
-http://210.210.155.37/qwr9ew/s/s22/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_365
-http://210.210.155.37/qwr9ew/s/s25/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_366
-http://210.210.155.37/qwr9ew/s/s27/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_367
-http://210.210.155.37/qwr9ew/s/s28/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_368
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_369
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_370
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_371
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_372
-http://210.210.155.37/qwr9ew/s/s39/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_373
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_374
-http://210.210.155.37/qwr9ew/s/s44/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_375
-http://210.210.155.37/qwr9ew/s/s45/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_376
-http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_377
 http://210.210.155.37/qwr9ew/s/s63/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_378
 http://210.210.155.37/qwr9ew/s/s64/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_379
-http://210.210.155.37/uq2663/h/h01/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_380
-http://210.210.155.37/uq2663/h/h03/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_381
 http://210.210.155.37/uq2663/h/h04/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_382
-http://210.210.155.37/uq2663/h/h05/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_383
-http://210.210.155.37/uq2663/h/h06/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_384
-http://210.210.155.37/uq2663/h/h07/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_385
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_386
 http://210.210.155.37/uq2663/h/h09/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_387
 http://210.210.155.37/uq2663/h/h10/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_388
-http://210.210.155.37/uq2663/h/h100/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_389
 http://210.210.155.37/uq2663/h/h101/index2.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_390
@@ -67513,24 +66942,17 @@ http://210.210.155.37/uq2663/h/h11/index.m3u8
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_392
 http://210.210.155.37/uq2663/h/h13/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_393
-http://210.210.155.37/uq2663/h/h14/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_394
-http://210.210.155.37/uq2663/h/h143/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_395
-http://210.210.155.37/uq2663/h/h15/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_396
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_397
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_398
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_399
-http://210.210.155.37/uq2663/h/h16/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_400
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_401
-http://210.210.155.37/uq2663/h/h19/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_402
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_403
@@ -67539,154 +66961,42 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_405
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_406
-http://210.210.155.37/uq2663/h/h21/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_407
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_408
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_409
 http://210.210.155.37/uq2663/h/h24/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_410
-http://210.210.155.37/uq2663/h/h25/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_411
 http://210.210.155.37/uq2663/h/h26/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_412
-http://210.210.155.37/uq2663/h/h27/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_413
-http://210.210.155.37/uq2663/h/h28/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_414
-http://210.210.155.37/uq2663/h/h29/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_415
 http://210.210.155.37/uq2663/h/h35/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_416
 http://210.210.155.37/uq2663/h/h37/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_417
-http://210.210.155.37/uq2663/h/h39/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_418
 http://210.210.155.37/uq2663/h/h40/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_419
-http://210.210.155.37/uq2663/h/h41/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_420
-http://210.210.155.37/uq2663/h/h42/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_421
-http://210.210.155.37/uq2663/h/h46/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_422
-http://210.210.155.37/uq2663/h/h47/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_423
-http://210.210.155.37/uq2663/h/h48/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_424
-http://210.210.155.37/uq2663/h/h51/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_425
-http://210.210.155.37/uq2663/h/h52/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_426
-http://210.210.155.37/uq2663/h/h53/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_427
-http://210.210.155.37/uq2663/h/h54/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_428
-http://210.210.155.37/uq2663/h/h55/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_429
-http://210.210.155.37/uq2663/h/h56/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_430
-http://210.210.155.37/uq2663/h/h57/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_431
-http://210.210.155.37/uq2663/h/h58/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_432
-http://210.210.155.37/uq2663/h/h59/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_433
-http://210.210.155.37/uq2663/h/h60/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_434
-http://210.210.155.37/uq2663/h/h61/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_435
-http://210.210.155.37/uq2663/h/h62/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_436
-http://210.210.155.37/uq2663/h/h63/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_437
-http://210.210.155.37/uq2663/h/h64/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_438
-http://210.210.155.37/uq2663/h/h65/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_439
-http://210.210.155.37/uq2663/h/h66/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_440
-http://210.210.155.37/uq2663/h/h67/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_441
-http://210.210.155.37/uq2663/h/h68/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_442
-http://210.210.155.37/uq2663/h/h69/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_443
-http://210.210.155.37/uq2663/h/h70/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_444
-http://210.210.155.37/uq2663/h/h71/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_445
-http://210.210.155.37/uq2663/h/h72/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_446
-http://210.210.155.37/uq2663/h/h73/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_447
-http://210.210.155.37/uq2663/h/h74/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_448
-http://210.210.155.37/uq2663/h/h75/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_449
-http://210.210.155.37/uq2663/h/h76/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_450
-http://210.210.155.37/uq2663/h/h77/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_451
-http://210.210.155.37/uq2663/h/h78/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_452
-http://210.210.155.37/uq2663/h/h79/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_453
-http://210.210.155.37/uq2663/h/h80/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_454
-http://210.210.155.37/uq2663/h/h81/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_455
-http://210.210.155.37/uq2663/h/h82/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_456
-http://210.210.155.37/uq2663/h/h83/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_457
-http://210.210.155.37/uq2663/h/h84/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_458
-http://210.210.155.37/uq2663/h/h85/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_459
-http://210.210.155.37/uq2663/h/h86/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_460
-http://210.210.155.37/uq2663/h/h87/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_461
-http://210.210.155.37/uq2663/h/h88/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_462
-http://210.210.155.37/uq2663/h/h89/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_463
-http://210.210.155.37/uq2663/h/h90/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_464
 http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_465
 http://210.210.155.37/uq2663/h/h91/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_466
-http://210.210.155.37/uq2663/h/h92/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_467
-http://210.210.155.37/uq2663/h/h95/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_468
-http://210.210.155.37/uq2663/h/h96/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_469
 http://210.210.155.37/x6bnqe/s/s04/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_470
 http://210.210.155.37/x6bnqe/s/s100/live.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_471
 http://210.210.155.37/x6bnqe/s/s11/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_472
-http://210.210.155.37/x6bnqe/s/s12/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_473
-http://210.210.155.37/x6bnqe/s/s13/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_474
-http://210.210.155.37/x6bnqe/s/s14/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_475
 http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_476
 http://210.210.155.37/x6bnqe/s/s20/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_477
 http://210.210.155.37/x6bnqe/s/s22/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_478
-http://210.210.155.37/x6bnqe/s/s25/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_479
-http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_480
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_481
@@ -67695,27 +67005,6 @@ http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 http://210.210.155.37/x6bnqe/s/s31/index.m3u8
 #EXTINF:-1 ,⚠️ STREAM Indonesian_483
 http://210.210.155.37/x6bnqe/s/s34/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_484
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_485
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_486
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
+
 #EXTINF:-1 ,⚠️ STREAM Indonesian_487
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_488
-http://210.210.155.37/x6bnqe/s/s63/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_489
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_490
-http://210.210.155.37/x6bnqe/s/s72/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_491
-http://210.210.155.37/x6bnqe/s/s73/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_492
-http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_493
-http://210.210.155.37/x6bnqe/s/s87/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_494
-http://210.210.155.37/x6bnqe/s/s94/index.m3u8
-#EXTINF:-1 ,⚠️ STREAM Indonesian_495
-http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
