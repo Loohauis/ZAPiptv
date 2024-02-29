@@ -1,204 +1,247 @@
 #EXTM3U
 #EXTINF:-1 ,⚽ FUEL TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+
 #EXTINF:-1 ,⚽ IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/720plo/playlist.m3u8
+
 #EXTINF:-1 ,⚽ ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
 #EXTINF:-1 ,⚽ PAC 12 INSIDER
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 ,⚽ TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-http://51.79.82.208:16006
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2508/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2501/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/507/default_primary.mpd
-#EXTINF:-1 ,"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
-#EXTINF:-1 ,#
-https://www.corgol.com/television/Corgol_IPTV_Playlist.m3u
-#EXTINF:-1 ,# http://axcestv.vip:8080/@harris/utEYY7kAGj/549
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 
-
-INDONESIA & SINGGAPOR & THAILAND
-
-===================SINGGAPOR============
 #EXTINF:-1 ,#1 (480p)
 https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8
+
 #EXTINF:-1 ,#1 (720p)
 https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+
 #EXTINF:-1 ,#1 (720p)
 https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
+
 #EXTINF:-1 ,#1 (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
+
 #EXTINF:-1 ,#2 (480p) [Not 24/7]
 https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+
 #EXTINF:-1 ,#2 (540p)
 https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
+
 #EXTINF:-1 ,#2 (720p)
 https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8
+
 #EXTINF:-1 ,#2 (720p)
 https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
+
 #EXTINF:-1 ,#2 (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
-#EXTINF:-1 group-title="Infantis em inglês" tvg-logo="https://i.imgur.com/NREtmP6.jpg",#EXTINF:-1 tvg-logo="https://i.imgur.com/NREtmP6.jpg" group-title="Infantis em inglês" | ConTV Anime
+
+#EXTINF:-1 ,ConTV Anime
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://37.18.239.36:8888/
+
+#EXTINF:-1 ,MTV Asia
 http://37.18.239.36:8888/MTV_Adria/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://player.cloudskep.com/alphatmp/alphacy
 http://l4.cloudskep.com/alphatmp/acy/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=http://www.televigo.com
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://bradmax.com
 https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056646&autoplay=1&mute=0
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://nick.gr/itv/
 https://raw.githubusercontent.com/iptvnikolas/Nikki-TVM3U8/main/ioanninatv.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/ba3d31fdf59976d63976e5a2173df36b442104ba/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com
 https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-3600.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_79b37a4032dd11ed85c9d9bece7b557e
 https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
 https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_ab3fd7a07fff11eea3d485758bf6a333
 https://stream.castr.com/6540085553d46d4f7a2ec2e5/live_ab3fd7a07fff11eea3d485758bf6a333/index.fmp4.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b
 https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
 https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_cbde16509c3611ed91f289dac03ffaaf
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_e05d20809c3611edadb72177341481c3
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_e2ae1780dc2a11eca660b7b17b7952a5
 https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51
 https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_f3bc1800279a11ec89f80341acd6773a
 https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.rn7.nl/
 https://streaming.rn7.nl/rn7live_abr/visualradio/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/guadatv/guadatv.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/jesstv/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/arbtv/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/cbc/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/euronews/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -251,20 +294,28 @@ https://edge02.odtv.az/o7/shansontv/playlist.m3u8
 https://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=iPhone
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=iPhone
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=iPhone
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=iPhone
 https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=iPhone
 https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -327,71 +378,101 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv17/playlist.m3u8
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=stream
 http://103.81.104.118/hls/stream19.m3u8
-#EXTINF:-1 ,#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,tv
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,tv
 https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,#https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-CHINA
-#EXTINF:-1 ,#https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
-DOCUMENTARY
-#EXTINF:-1 ,#https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Tv
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#EXTINF:-1 ,TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+
+#EXTINF:-1 ,TV
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,#https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,TV
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,#https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,TV
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,#https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,TV
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,TV
 https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,#https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-ISLAM TV
+#EXTINF:-1 ,TV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key= {"0d6d2a1ac8d14e19b17455650770cd99": "ff65174f8ec5d4c88e8d8a21968563cf"}
 https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key= {"7481d3e3738c46768f138e208fee9076": "e1d428c7f1ca82339a6cfa1d0757428e"}
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key= {"8f1da399325247eca6acdd7bafb95fa2": "41f234fb88590af3b0d224111a61bf71"}
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"071448690a0ec9b27eb2c1a7d5e03010": "933ae273b166baa8fb203eef1a7adbdf"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
 https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yttYJPYIE=7oQZ/dash-wv/jitp-linearwm/1000/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"0d4e3e7dac2d58b93bf819a72fe8d510": "667a33f4d5bb3587f2d5209886839eac"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"0e21da304a29298ceca1fdfd1e71e210": "87de38cf3ed2bbcd5d89b63e571bfe21"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"168bd815468639fe4528b4bf0141f310": "775a654c0610811ad022329a68884de1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"17d5d62dc61954b82ee016da264abd10": "5f35f815699140e2649d825f0d24028e"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"1b618a291cece44c9845dddfc4fd9b10": "bf7e1b97555c4acb7455f711b2a9ff16"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"1fe92685a75844dc54c9dac124802510": "36cb2063bf5338d18d31657371b15817"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"22fc5baf47ae3b6322bc244206bbb210": "db1ee2b8994b91aac65049ef3e493787"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"276767a578aae2eacb284247ccd9eb10": "03ef88df1a47669e5459e105e3b535b1"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live08.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/manifest.mpd
 
-
-INDIA
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"2b1a1b7026ce4b378abd4b266aa9780f": "121f270c5ea6b690bedd7e4a57f2f0c6"}
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"2b9ff7cc1a3dc9fef47cc5773472d510": "7e37588e893ab9252e505bd6dda35beb"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"2f3238142348789ed5a99b9a1bd8e010": "438fb62e97278526686d921126343d32"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"33566705d63f56f1d31c45f69568ed10": "d13bcf0ca6e62d71b6c4dd70d5ffeab2"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"346b9f41e2933748c8861f82932e0110": "cf0cffb637b81598a27bd6b0d90d65a8"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"3ac2542a4f7be746633db07647451710": "22f964a6d6927ccdba482e775cdff190"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-SPORTS
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 https://linears-playback.astro.com.my/vsg/415Yi7idyLCx5VbSRm-1_eB4BJuIyaZwXjbNSrnQvTVqI=ny5a/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"3feecc36930732cbb69306dc687c6f10": "3458265f7530bf1fef204ca8cb4689db"}
@@ -423,7 +504,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"691916164be2b1ae6c852f1990d1fe10": "38a68c749898114cf0629d77e246a888"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default.mpd
 
-MOVIES
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"692950d39869c92af9a9ddea453c0d10": "eadc626ab959255f7ab881c03d306fe2"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"72499c6ad44cc37d95a9075420911110": "b5416326114a13e90662a4fbaf3c532b"}
@@ -451,7 +531,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-....................................................
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"9729558a9bff8d94774bfa2f019a1310": "8b9eb7ab7196a425d9ab618a5c9f99d9"}
@@ -459,7 +538,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default.mpd
 
-NEWS
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"9c44af8b594b6157f55d3c31bd679c10": "c128bbe41e94d15a7f8cc2f6253a54b2"}
@@ -497,7 +575,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"d5199f1513a0286e038dae8f7d820010": "4d4d4d9dc41be43f528a4940cf66f14c"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-KIDS
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"d626598c2ab452537509dcb8a86db910": "f5a9cadea2372a52c2b91f9c261fe0a4"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"d8520e96a1283ab6e5be538474bfa810": "bda5f7bbc1e44096f779a0619fe9881f"}
@@ -515,8 +592,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"e3cb7499710786eb105fab7b52459910": "8ab093adabdc343b8734b7ecf0aea11a"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-
-ENTERTAINMENT
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"e46354fb39c28e5956bc946ac2a05010": "511905bf191474b412b4ec117515a79c"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"e76a89a1e23f8f7b828f4dbdc2d09a10": "346f0f60cbd7591e1ae72ca589157bb1"}
@@ -542,7 +617,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.m
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key={"fff5927a2249f094fa3773c390294010": "a5a770d88e4403772f36e2313e8e32d0"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-EDUCATION
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
@@ -552,66 +626,79 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-
-ANIME
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
+
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bit.ly/42ySDn4?profile=inspirationlivetv.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
 #EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+#EXTINF:-1 ,BFM
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+#EXTINF:-1 ,rakuten-documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
+
+#EXTINF:-1 ,RT NEWS HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDY6NzoyNCBBTSZoYXNoX3ZhbHVlPVNmZDFJQnZIc2RVMHRNV1p4VFJLSEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMWY5NWU1Zi03Nzc4LTQ1NzMtYTExYS01MjM5MDMxZGU4YTA=/
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDY6NzoyMiBBTSZoYXNoX3ZhbHVlPUdLbWZhczNiYjl6NXE1ZHhHQVBmRGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMWFlZDg2ZS0yMTc5LTRhNWQtYWJkNS0zMmRlNWEzYTFmMTk=/
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDY6NzoyMyBBTSZoYXNoX3ZhbHVlPXoyZDZLTUlUNEc4dW1EWDVLY21zbUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZjY2NjE2YS1lZTY3LTQ0M2QtYTA4ZC1kYTFlODFlNDQzYzQ=/
-#EXTINF:-1 ,#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDY6NzoyMyBBTSZoYXNoX3ZhbHVlPXZRRVllQjEwS0FKZW5jeVdNVURlQlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iNTQ1YTExZi00NmE3LTQ2NmMtODE0ZS02ZjI5YjZlMDEyMmY=/
+
 #EXTINF:-1 ,#MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 ,#MoozHits
