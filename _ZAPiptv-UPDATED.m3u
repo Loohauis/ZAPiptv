@@ -151,8 +151,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV
-https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV 🅧
+https://n9.cl/globo-br?stream=ZAPiptv.m3u8
+#https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436/
