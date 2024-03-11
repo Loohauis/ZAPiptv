@@ -152,7 +152,8 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV 🅧
-https://n9.cl/globo-br
+https://tinyurl.com/globo-br
+#https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436/
@@ -309,11 +310,13 @@ https://i.mjh.nz/sky-news-now.m3u8
 #http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 #https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
+#https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/1024px-BBC_World_News_2019.svg.png", 🇬🇧 BBC WORLD NEWS
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC One Lon HD
 http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
@@ -405,7 +408,7 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flsEsGo.png", 🌎 UKRAINE WORLD NEWS
 https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flsEsGo.png", 🌎 RT NEWS
+#EXTINF:-1 tvg-logo="", 🌎 RT NEWS English
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 📺 ENTERTAINMENT
