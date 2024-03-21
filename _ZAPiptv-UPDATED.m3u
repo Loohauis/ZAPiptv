@@ -52,12 +52,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
+#https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇵🇹 SIC Replay
+#EXTINF:-1 tvg-logo="", 🇵🇹 SIC REPLAY
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a32a3b6cc344dbd6c/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇵🇹 SIC Alta Definição
+#EXTINF:-1 tvg-logo="", 🇵🇹 SIC ALTA DEFINIÇÂO
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
@@ -75,10 +76,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg", 🇵🇹 RTP MEMÓRIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL 🅧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tinyurl.com/240312-porto-canal-pt
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
+#https://tinyurl.com/240312-porto-canal-pt🅧
 #https://stream-01.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0socIK47te4xdKIhQYZZ-157lw4PMAccQRQBi7EvxXwO)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
@@ -92,6 +94,9 @@ https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 CAMÔES TV
 https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇵🇹 SANTUÀRIO DE FÁTIMA
+https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
@@ -114,6 +119,12 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvkRN87FGMBLA9hmXtR6NOhsxNGNVkvpR70A&usqp=CAU", 🇵🇹 ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7016/cabecalho-fundo-7016-20210812180723.png", 🇵🇹 NPC TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png", 🇵🇹 RÁDIO SINES
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png", 🇵🇹 EURONEWS PT
 https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
@@ -633,6 +644,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png", ⚽ PAC 12 INSIDER
 https://pac12-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20231229T002804SQUARE.png_20231229002805.png", ⚽ FIFA+ PLUS
+https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
+
 
 #--------------------------------------------------------------------- GROUP= 💋 LIFESTYLE
 
