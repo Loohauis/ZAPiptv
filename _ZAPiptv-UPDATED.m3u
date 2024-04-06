@@ -1,14 +1,4 @@
-#EXTM3U 
-x-tvg-url="https://www.bevy.be/bevyfiles/portugalpremium.xml" 
-url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.gz" 
-url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5dd66c9a1ad2ef67514afb4ae778f0d0cbc4b85a/PlutoTV/br.xml" 
-url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
-url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" 
-url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" 
-url-tvg="https://www.bevy.be/bevyfiles/brazil.xml" 
-url-tvg="https://www.bevy.be/bevyfiles/spain.xml" 
-url-tvg="https://github.com/serviciovodflex/nxt-guide/raw/main/epg.xml" 
-refresh="3600" m3uautoload="1" refresh="24"
+#EXTM3U url-tvg-url="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" m3uautoload="1" refresh="24"
 
 #--------------------------------------------------------------------- GROUP= 🇵🇹 PORTUGAL
 
@@ -908,11 +898,15 @@ http://46.10.150.243/z-rock.mp3?stream=m3u8
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://oklivetv.com/xplay/error/streamtest.mp4
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="Espanha" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png",tveᴴᴰ 🇪🇸
+http://200.113.4.75:7210/play/a01r
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
 https://bit.ly/48Xf5t6?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
 https://bit.ly/3u1GriR?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
+http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
