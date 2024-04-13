@@ -48,8 +48,11 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s1
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s2
+https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
@@ -686,31 +689,6 @@ https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #-- https://www.kaloopy.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKcQ2m1.png", 💋 MIAMI TV
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o4fZU2M.png", 💋 SUNBEACH TV
-https://59ec5453559f0.streamlock.net/Sunbeachtv/sunbeachtv3131/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rF3hJlp.png", 💋 VISIT-X TV
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8|Referer=https://www.visit-x.net/en/tv/livestream/&User-Agent=Android
-#http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
-#-- https://www.visit-x.net/en/tv/livestream/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bkLzQci.png", 💋 BABESTATION 24
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#-- http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-#-- tvg-logo="https://i.imgur.com/Rc19ZtR.png" , 💋 BABES TV
-#-- https://a.pokaz.me/14/tracks-v1a1/mono.m3u8?k=1705050310p232i46i05i64S928ea206365d1802a84435c0086b4bff|Referer=http://oxax.tv/babes-tv.html&User-Agent=Android
-
-#--,[COLOR=white][B]EUROPULSE HD[/B][/COLOR][COLOR=white][/COLOR]
-#-- http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-
 #--------------------------------------------------------------------- GROUP= 🎧 RADIOS - https://www.radios-online.pt/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntdNo4F.png",🎧 ANTENA 1
@@ -897,16 +875,3 @@ http://46.10.150.243/z-rock.mp3?stream=m3u8
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://oklivetv.com/xplay/error/streamtest.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="Espanha" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png",tveᴴᴰ 🇪🇸
-http://200.113.4.75:7210/play/a01r
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%201.png",La 1ᴴᴰ 🇪🇸
-https://bit.ly/48Xf5t6?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" group-title="Espanha" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/la%202.png",La 2ᴴᴰ 🇪🇸
-https://bit.ly/3u1GriR?profile=inspirationFreetv.m3u8
-#EXTINF:-1 tvg-name="24 H" tvg-id="24 Horas" group-title="Espanha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",24h 🇪🇸
-http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
