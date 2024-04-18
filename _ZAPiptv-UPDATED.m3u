@@ -1,4 +1,4 @@
-#EXTM3U url-tvg-url="https://www.bevy.be/bevyfiles/portugalpremium.xml,https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" m3uautoload="1" refresh="24"
+#EXTM3U
 
 #--------------------------------------------------------------------- GROUP= 🇵🇹 PORTUGAL
 
@@ -48,11 +48,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX3ln1g.png", 🇵🇹 SIC NOTICIAS s2
-https://sicnot.live.impresa.pt/sicnot.m3u8|user-agent=user-agent=Opera|referer=https://sic.pt/
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 SIC NOVELAS
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
@@ -93,9 +90,6 @@ https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
 
 #tvg-logo="", 🇵🇹 ADBTV
 #https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", 🇵🇹 NPC rádio tv
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇵🇹 IESTV
 https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
@@ -156,16 +150,15 @@ https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436/
 
-#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV 🌀
-https://tinyurl.com/24-03-18-GLOBO-BRASILIA
-#https://tinyurl.com/globo-br
-#https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV
+http://199.127.60.83:16020
+#http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/58🌀
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png", 🇧🇷 RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 RECORD 🌀
-https://tinyurl.com/24-03-18-Record
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png", 🇧🇷 SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
@@ -235,8 +228,8 @@ https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png", 🇮🇹 RAI 1
-http://45.65.112.49:8000/play/a078
-#http://ott-cdn.ucom.am/s29/index.m3u8
+http://154.54.220.67:34780/play/a046
+#http://45.65.112.49:8000/play/a078
 
 #EXTINF:-1 tvg-logo="", 🇮🇹 RAI 2
 http://45.65.112.49:8000/play/a079
@@ -245,7 +238,8 @@ http://45.65.112.49:8000/play/a079
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png", 🇮🇹 VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+https://is.gd/bgAH9K
+#http://170.254.18.106/VH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png", 🇮🇹 RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
@@ -299,13 +293,22 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF
-http://135.181.1.235:80/ZDF/index.m3u8
+http://45.153.35.210:8000/play/DE_zdf_sd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 PRO7 MAX
-http://135.181.1.235:80/PRO7MAXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF NEO
+http://45.153.35.210:8000/play/DE_zdf_neo_sd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
-http://135.181.1.235:80/SIXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF INFO
+http://45.153.35.210:8000/play/DE_zdf_info_sd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇩🇪 Kabel Eins Doku
+http://154.58.202.194:8000/play/a0fq/index.m3u8
+
+#tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 PRO7 MAX
+#http://135.181.1.235:80/PRO7MAXX/index.m3u8
+
+#tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
+#http://135.181.1.235:80/SIXX/index.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🇳🇱 Netherlands
 
@@ -449,8 +452,8 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqkrWcN.png", 📺 AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gi1ms1Y.png", 📺 ENTERTAINMENT TONIGHT 🌀
-https://tinyurl.com/24-03-18-Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gi1ms1Y.png", 📺 ENTERTAINMENT TONIGHT
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVkqWhP.png", 📺 FAILARMY
 https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
@@ -467,7 +470,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="", 📺 ROCK ENTERTAINMENT
-http://210.210.155.35/dr9445/h/h16/index.m3u8
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880819
+#http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="", 📺 HITS MOVIES
 http://210.210.155.35/uq2663/h/h206/index.m3u8
@@ -602,7 +606,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8|Referer=https://photocall.tv/ce3j/l1?ch=viva_russia&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n2BoU7Q.png", 🎵 MTV LIVE 🌀
-https://tinyurl.com/24-03-18-MTV-LIVE
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28270
 #http://37.18.239.36:8888/MTV_Adria/index.m3u8|Referer=http://37.18.239.36:8888/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png", 🎵 Afrobeats
@@ -612,7 +616,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyrgDuI.png", 🎵 MCM Top
-http://live-3.otcnet.ru/mcmtop/index.m3u8
+http://92.242.110.52:9835/udp/238.1.9.9:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JoPywOp.png", 🎵 ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
@@ -636,7 +640,7 @@ https://kister.net/mpl/yt2m3u8?w=@dwnews
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 , ⚽ NBC GOLF 🌀
-https://tinyurl.com/24-03-18-NBC-GOLF
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15898
 
 #EXTINF:-1 , ⚽ ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -870,6 +874,7 @@ https://centova.radio.com.pt/proxy/567?mp=/stream
 
 #EXTINF:-1 tvg-logo="",🎧 ***RADIO-Z-ROCK
 http://46.10.150.243/z-rock.mp3?stream=m3u8
+#https://zrockfm.com/ways-to-listen/
 
 #--------------------------------------------------------------------- GROUP= ⚠️ STREAM TESTS ⚠️
 
