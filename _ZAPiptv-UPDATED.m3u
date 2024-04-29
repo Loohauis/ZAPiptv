@@ -322,7 +322,8 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&p
 #https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47", 🇳🇱 BVN
-https://gineu9.bozztv.com/gin-36bay2/gin-bvntv/tracks-v1a1/mono.m3u8
+https://tinyurl.com/bvn240429
+#https://gineu9.bozztv.com/gin-36bay2/gin-bvntv/tracks-v1a1/mono.m3u8
 #https://bozztv.com/inim03/live1/giniko_bvntv/playlist.m3u8
 #https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #https://raw.githubusercontent.com/ekowahyoedie/keliki2022/main/bvn
@@ -723,6 +724,9 @@ https://kister.net/mpl/yt2m3u8?w=@IloveLx
 #UCjvtkjWwpnhgGv2nutFFr-A
 #https://www.youtube.com/@IloveLx
 
+#EXTINF:-1 tvg-logo="", 👁 earthTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+
 #--------------------------------------------------------------------- GROUP= 🎧 RADIOS - https://www.radios-online.pt/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ntdNo4F.png",🎧 ANTENA 1
@@ -917,6 +921,3 @@ http://46.10.150.243/z-rock.mp3?stream=m3u8
 
 #EXTINF:-1 tvg-logo="", ⚠️ STREAM TEST ⚠️
 https://oklivetv.com/xplay/error/streamtest.mp4
-
-#EXTINF:-1 tvg-logo="", ⚠️ earthTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
