@@ -82,7 +82,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
-#https://tinyurl.com/240312-porto-canal-pt🌀
+#https://tinyurl.com/240312-porto-canal-ptⓍ
 #https://stream-01.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0socIK47te4xdKIhQYZZ-157lw4PMAccQRQBi7EvxXwO)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
@@ -149,10 +149,11 @@ https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436
+#http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV
 http://199.127.60.83:16020
-#http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/58🌀
+#http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/68
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png", 🇧🇷 RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -160,7 +161,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="", 🇧🇷 RECORD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8🌀
+#http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png", 🇧🇷 SBT
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
@@ -179,9 +180,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 BAND NEWS TV
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+#http://onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/28
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 BAND SPORTS
 http://187.95.95.243/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 CANAL BRASIL Ⓧ
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/118
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🇧🇷 MTV
 http://45.5.117.182:8000/play/a0ie/index.m3u8
@@ -322,11 +327,12 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&p
 #https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47", 🇳🇱 BVN
-https://tinyurl.com/bvn240429
-#https://gineu9.bozztv.com/gin-36bay2/gin-bvntv/tracks-v1a1/mono.m3u8
-#https://bozztv.com/inim03/live1/giniko_bvntv/playlist.m3u8
-#https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+https://gineu10.bozztv.com/trn01/gin-bvntv/tracks-v1a1/mono.m3u8
 #https://raw.githubusercontent.com/ekowahyoedie/keliki2022/main/bvn
+#https://tinyurl.com/bvn240429
+
+#EXTINF:-1 tvg-logo="", 🇳🇱 NPO 1 Ⓧ
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73691
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-tpAPGCp2uwP1WSas-xt4yXA-t500x500.jpg", 🇳🇱 DANCETV.NET NL
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -373,14 +379,10 @@ http://178.219.128.68:64889/BBCBRITHD
 http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png", 🇬🇧 BBC EARTH
-https://lnc-bbc-earth.tubi.video/playlist.m3u8
-https://d14kv1o37h8tfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lnty50u34issh/playlist.m3u8
-https://bit.ly/3smxcco?profile=inspirationlivetv.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKMUfg0.png", 🇬🇧 TKS TV
 https://lives.tkstv.co.uk/hls/0/stream.m3u8
-#https://livestream.tkstv.co.uk/stream/temp/tmp_hls/tkstv/index.m3u8
-#https://edge1-eu-west.picarto.tv/stream/hls/golive%2bventis/index.m3u8
 #https://tkstv.co.uk/watch
 
 #--------------------------------------------------------------------- GROUP= 🇺🇸 USA
@@ -391,8 +393,14 @@ http://143.255.35.223:8000/play/a00m
 #EXTINF:-1 , 🇺🇸 ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 , 🇺🇸 CBS BOSTON Ⓧ
+https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/18329
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/401/965/png-clipart-cbs-news-logo-television-news-miscellaneous-television-thumbnail.png", 🇺🇸 CBS NEWS
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+
+#EXTINF:-1 , 🇺🇸 FOX NY Ⓧ
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/164193
 
 #EXTINF:-1 tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png", 🇺🇸 FOX NEWS NOW
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -429,7 +437,7 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 #https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png", 🇪🇺 CNN INTERNATIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png", 🇪🇺 CNN EUROPE
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Reuters_logo.svg/250px-Reuters_logo.svg.png", 🇪🇺 REUTERS NOW
@@ -516,11 +524,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f51
 
 #--------------------------------------------------------------------- GROUP= 📽 MOVIES
 
-#-- tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
+http://124.29.225.205:8000/play/a03y/index.m3u8
 
-#-- tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
-https://magselect-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbGqDdDy/site-logo.png", 📽 MYTIME MOVIE NETWORK UK
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -528,17 +536,20 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgncfvK.png", 📽 FILMRISE FREE MOVIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 , 📽 HALLMARK MOVIES & MORE
+#EXTINF:-1 tvg-logo="", 📽 HALLMARK MOVIES & MORE
 https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png", 📽 MOVIESPHERE UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg", 📽 STAR MOVIES
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+http://124.29.225.205:8000/play/a04n/index.m3u8
 
-#EXTINF:-1 , 📽 THE MOVIE HUB
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#tvg-logo="", 📽 THE MOVIE HUB
+#https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 📽 Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpytPtT/hollywood-hd.png", 📽 HOLLYWOOD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
@@ -628,7 +639,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8|Referer=https://photocall.tv/ce3j/l1?ch=viva_russia&User-Agent=Android
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n2BoU7Q.png", 🎵 MTV LIVE 🌀
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2BoU7Q.png", 🎵 MTV LIVE Ⓧ
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/28270
 #http://37.18.239.36:8888/MTV_Adria/index.m3u8|Referer=http://37.18.239.36:8888/&User-Agent=Android
 
@@ -662,7 +673,7 @@ https://kister.net/mpl/yt2m3u8?w=@dwnews
 #EXTINF:-1 , ⚽ EDGESPORT
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 , ⚽ NBC GOLF 🌀
+#EXTINF:-1 , ⚽ NBC GOLF Ⓧ
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15898
 
 #EXTINF:-1 , ⚽ ONE GOLF
@@ -724,7 +735,7 @@ https://kister.net/mpl/yt2m3u8?w=@IloveLx
 #UCjvtkjWwpnhgGv2nutFFr-A
 #https://www.youtube.com/@IloveLx
 
-#EXTINF:-1 tvg-logo="", 👁 earthTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="", ⚠️ earthTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🎧 RADIOS - https://www.radios-online.pt/
