@@ -144,8 +144,9 @@ https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
 
 #--------------------------------------------------------------------- GROUP= 🇧🇷 BRAZIL
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
+#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436
