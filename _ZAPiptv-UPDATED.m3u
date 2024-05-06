@@ -144,9 +144,9 @@ https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
 
 #--------------------------------------------------------------------- GROUP= 🇧🇷 BRAZIL
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
+#EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
+#https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV
 http://209.222.97.92:16436
@@ -222,7 +222,7 @@ https://cultural-crtvg.flumotion.com/playlist.m3u8
 #https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", 🇪🇸 TV GALICIA
-https://europa-crtvg.flumotion.com/playlist.m3u8
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png", 🇪🇸 SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -260,8 +260,10 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇫🇷 TV5 MONDE STYLE
-http://210.210.155.35/uq2663/h/h121/index.m3u8
+#EXTINF:-1 tvg-logo="", 🇫🇷 TV5 MONDE
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#🇫🇷 TV5 MONDE STYLE
+#http://210.210.155.35/uq2663/h/h121/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
@@ -740,16 +742,16 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKRs5B2.png", 💋 FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160", 💋 WORLD FASHION CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ewH0rNd.png", 💋 WORLD FASHION CHANNEL
 https://live-3.otcnet.ru/wfc-rus-master/index.m3u8
-
-#-- tvg-logo="", 💋 A3BIKINI TV
-#-- https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-#-- https://bx-tv.com/a3bikini-channel/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsXmSfg.png", 💋 KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #-- https://www.kaloopy.com/
+
+#-- tvg-logo="", 💋 A3BIKINI TV
+#-- https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#-- https://bx-tv.com/a3bikini-channel/
 
 #--------------------------------------------------------------------- GROUP= 👁 WEBCAMS
 
@@ -759,7 +761,7 @@ https://kister.net/mpl/yt2m3u8?w=@IloveLx
 #UCjvtkjWwpnhgGv2nutFFr-A
 #https://www.youtube.com/@IloveLx
 
-#EXTINF:-1 tvg-logo="", ⚠️ earthTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="", 👁 earthTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🎧 RADIOS - https://www.radios-online.pt/
@@ -948,7 +950,7 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 https://centova.radio.com.pt/proxy/567?mp=/stream
 #-- https://radiovidigueira.pt/
 
-#EXTINF:-1 tvg-logo="",🎧 ***RADIO-Z-ROCK
+#EXTINF:-1 tvg-logo="",🎧 RADIO Z-ROCK
 http://46.10.150.243/z-rock.mp3?stream=m3u8
 #https://zrockfm.com/ways-to-listen/
 
