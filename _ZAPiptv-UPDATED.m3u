@@ -261,7 +261,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇫🇷 TV5 MONDE
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/04.m3u8
+#https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #🇫🇷 TV5 MONDE STYLE
 #http://210.210.155.35/uq2663/h/h121/index.m3u8
 
@@ -366,7 +367,7 @@ http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #--------------------------------------------------------------------- GROUP= 🇬🇧 UK
 
 #EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2016/09/Sky-News-Logo.png", 🇬🇧 SKY NEWS
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist540p.m3u8
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
 #https://i.mjh.nz/sky-news-now.m3u8
 #https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 #http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
@@ -521,31 +522,38 @@ http://210.210.155.35/dr9445/h/h15/index.m3u8
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880819
 #http://210.210.155.35/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-logo="", 📺 HITS MOVIES
-http://210.210.155.35/uq2663/h/h206/index.m3u8
-
-#EXTINF:-1 tvg-logo="", 📺 HITS
-http://210.210.155.35/uq2663/h/h37/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png", 📺 TV LAND SITCOMS | PLUTO TV EUA 1
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png", 📺 Sitcom Legends | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f778a052360b30007fa5e32/colorLogoPNG.png", 📺 TV LAND SITCOMS | PLUTO TV EUA 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png", 📺 Sitcom Legends | PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633354b63df9700007f6a1b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png", 📺 More TV Sitcoms | PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG.png", 📺 Black Throwbacks | PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61326275b3c86a00078e4833/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f778a052360b30007fa5e32/colorLogoPNG.png", 📺 TV LAND SITCOMS | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a052360b30007fa5e32/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png", 📺 Pluto TV 70s Cinema
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png", 📺 TV 70s Cinema | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png", 📺 Pluto TV 80s Rewind
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png", 📺 TV 80s Rewind | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png", 📺 Pluto TV 90s Throwback
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png", 📺 TV 90s Throwback | PLUTO TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #--------------------------------------------------------------------- GROUP= 📽 MOVIES
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/%26flixHD.png", 📽 &FLIX
 http://124.29.225.205:8000/play/a03y/index.m3u8
+#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
+#EXTINF:-1 tvg-logo="", 📽 &Prive
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 
 #EXTINF:-1 tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg", 📽 CINE LIFE
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
@@ -621,9 +629,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
 
-#EXTINF:-1 , 😊 ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
 #EXTINF:-1 , 😊 HAPPY KIDS
 https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
 #https://happykids-roku.amagi.tv/playlist.m3u8
@@ -638,6 +643,12 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 , 😊 K
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_1.m3u8
+
+#EXTINF:-1 , 😊 ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 , 😊 Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🎵 MUSIC
 
