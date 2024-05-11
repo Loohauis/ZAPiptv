@@ -260,8 +260,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇫🇷 TV5 MONDE Ⓖ
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/07.m3u8
-#https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/04.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/04.m3u8
 #https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #🇫🇷 TV5 MONDE STYLE
 #http://210.210.155.35/uq2663/h/h121/index.m3u8
@@ -465,13 +464,19 @@ https://kister.net/mpl/yt2m3u8?w=@NBC2swfl
 #EXTINF:-1 , 🇺🇸 NBC NEWS NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
+#tvg-logo="https://i.imgur.com/5iT7hEa.png", 🇺🇸 NBC XL
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
 #tvg-logo="https://i.imgur.com/5qfFUov.png", 🇺🇸 PBS GUAM KGTF CHANNEL 12 Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@pbsguam
+#https://kister.net/mpl/yt2m3u8?w=@pbsguam
 
 #--------------------------------------------------------------------- GROUP= 🇦🇺 AUSTRALIA
 
 #EXTINF:-1 , tvg-logo="https://www.gifservice.fr/en/gif/multi-media-channels-tv-world-australia-abc-news-g16638-p367641-fsmall.gif", 🇦🇺 ABC NEWS AUSTRALIA LIVE
 https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7M0QxV.png", 🇦🇺 TICKER NEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLCHYCs.png", 🇦🇺 ABC TV
 https://c.mjh.nz/abc-sa.m3u8
@@ -482,12 +487,26 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/EPDbrMyx4eXYSHtJ6", 🇦🇺 ABC TV PLUS
 https://c.mjh.nz/abc-tv-plus.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P2wUGh9.png", 🇦🇺 CHANNEL 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇦🇺 RealLife
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvrNVFg.png", 🇦🇺 MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q55HX1O.png", 🇦🇺 RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+
 #--------------------------------------------------------------------- GROUP= 🇪🇺 EUROPE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png", 🇪🇺 CNBC EUROPE
-#http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
+#http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 #https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#https://1915617474.rsc.cdn77.org/C758zHFDuUATCHtnWcJ1ZA==,1715439995/1915617474/tracks-v1a1/mono.m3u8
+#https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png", 🇪🇺 CNN EUROPE
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -737,7 +756,8 @@ https://kister.net/mpl/yt2m3u8?w=@dwnews
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="" , 📡 MSNBC
-https://tinyurl.com/240501MSNBC
+https://v2.thetvapp.to/hls/MSNBC.m3u8?token=xjFZP4KO28Sty_KYRG1V7w&expires=1715420109
+#https://tinyurl.com/240501MSNBC
 
 #--------------------------------------------------------------------- GROUP= ⚽ SPORTS
 
@@ -806,8 +826,22 @@ https://kister.net/mpl/yt2m3u8?w=@IloveLx
 #UCjvtkjWwpnhgGv2nutFFr-A
 #https://www.youtube.com/@IloveLx
 
-#EXTINF:-1 tvg-logo="", 👁 earthTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="", 👁 Madeira Island Multi-Beach Cams Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@WebcamTaxi
+#https://www.youtube.com/watch?v=Gw7ILvR-Hes
+
+#EXTINF:-1 tvg-logo="", 👁 Madeira Island Multi-Cams Rolling Ⓨ
+https://kister.net/mpl/yt2m3u8?w=SbCEovxX95U
+#https://www.youtube.com/watch?v=SbCEovxX95U
+
+#EXTINF:-1 tvg-logo="", 👁 earthTV® Ⓨ
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+
+#EXTINF:-1 tvg-logo="", 👁 Rolling Cam around the World Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@ILoveYouVenice
+
+#EXTINF:-1 tvg-logo="", 👁 EarthCam Live | Times Square in 4K Ⓨ
+https://kister.net/mpl/yt2m3u8?w=QTTTY_ra2Tg
 
 #--------------------------------------------------------------------- GROUP= 🎧 RADIOS - https://www.radios-online.pt/
 
