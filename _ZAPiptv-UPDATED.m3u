@@ -227,25 +227,26 @@ https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #https://canalsurmas.es/
 #https://www.youtube.com/@canalsur
 
-
 #--------------------------------------------------------------------- GROUP= 🇮🇹 ITALY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/200px-Rai_News_24_logo_%282022%29.svg.png", 🇮🇹 RAI NEWS 24
 https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png", 🇮🇹 RAI 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/250px-Rai_1_-_Logo_2016.svg.png", 🇮🇹 RAI 1 ⓟ
 http://154.54.220.67:34780/play/a046
 #http://45.65.112.49:8000/play/a078
+#http://190.94.186.158:9981/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇮🇹 RAI 2
+#EXTINF:-1 tvg-logo="", 🇮🇹 RAI 2 ⓟ
 http://154.54.220.67:34780/play/a047
 #http://45.65.112.49:8000/play/a079
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/250px-Rai_3_-_Logo_2016.svg.png", 🇮🇹 RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇮🇹 Rai YoYo
-http://154.54.220.67:34780/play/a04l
+#EXTINF:-1 tvg-logo="", 🇮🇹 Rai YoYo ⓟ
+http://45.65.112.49:8000/play/a0m0
+#http://154.54.220.67:34780/play/a04l
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/220px-VH1_2020.svg.png", 🇮🇹 VH1
 https://is.gd/bgAH9K
@@ -253,6 +254,12 @@ https://is.gd/bgAH9K
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/san_marino_rtv_sport_2021_0.png", 🇮🇹 RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png", 🇮🇹 LA7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54CO2u9.png", 🇫🇷 FMITALIA
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🇫🇷 FRANCE
 
@@ -675,8 +682,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #--------------------------------------------------------------------- GROUP= 😊 KIDS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV Ⓨ
-https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV ⓟ
+http://170.82.37.21:8000/play/a00n/index.m3u8
+#https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
 
 #EXTINF:-1 , 😊 HAPPY KIDS
 https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
@@ -698,6 +706,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 , 😊 Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7GXmFY.png", 😊 MONDO TV KIDS
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🎵 MUSIC
 
