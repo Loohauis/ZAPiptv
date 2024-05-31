@@ -147,11 +147,8 @@ https://kister.net/mpl/yt2m3u8?w=@vitecazorestv
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4dfmnBs.png", 🇧🇷 CNN BRASIL Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@CNNbrasil
+#http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV Ⓧ
-http://conexaoonline.top/307443/key5f0e5x0L/365.ts
-#http://xcui.vitvabc.xyz:8880/live/laok300/8pEZjdeMPad7/31519.ts
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO TV
 http://ns5010206.ip-15-235-15.net:14481
@@ -161,42 +158,65 @@ http://ns5010206.ip-15-235-15.net:14481
 #http://186.226.215.132:80/12345/12345/10.m3u8
 #http://168.205.87.198:8555/live/1216/123456/70.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png", 🇧🇷 RECORD NEWS
-http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
-#https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 tvg-logo="", 🇧🇷 GLOBO NEWS TV Ⓧ
+http://conexaoonline.top/307443/key5f0e5x0L/365.ts
+#http://xcui.vitvabc.xyz:8880/live/laok300/8pEZjdeMPad7/31519.ts
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 RECORD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8
 #https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png", 🇧🇷 SBT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZDRG0K.png", 🇧🇷 RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 BAND TV
+https://streaming.gruporba.com.br/rba.m3u8
+#https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 🇧🇷 BAND NEWS TV
+http://cdn.connectbr.com.br/Band-News/index.m3u8
+#http://cdn2.connectbr.com.br/Band-News/index.m3u8
+#http://onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/28
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png", 🇧🇷 SBT Ⓨ
+https://kister.net/mpl/yt2m3u8?w=@SBTRJ
+#http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 #https://i.imgur.com/IkZfa4j.png
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", 🇧🇷 SANTA CECILIA TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png", 🇧🇷 TV BRASIL HITS
-https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+#tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-rodape-02-tv-brasil-hits.png", 🇧🇷 TV BRASIL HITS
+#https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+#https://tvbrasilhits.com.br
+
+#tvg-logo="", 🇧🇷 Blast Channel TV
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", 🇧🇷 BAND NEWS TV
-https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
-#http://onlinetv365.xyz:8080/57tyjhg65ljouni7yu711/thjhg3468ihj/28
+#EXTINF:-1 tvg-logo="https://www.caravanaplay.com.br/admin/assets/img/logo.png", 🇧🇷 CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#https://www.caravanaplay.com.br/
 
 #EXTINF:-1 tvg-logo="", 🇧🇷 BAND SPORTS
-http://187.95.95.243/Band-Sports/index.m3u8
+http://cdn.connectbr.com.br/Band-Sports/index.m3u8
+#http://187.95.95.243/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png", 🇧🇷 ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🇪🇸 SPAIN
 
@@ -212,14 +232,21 @@ https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 #https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg", 🇪🇸 TVE TDP
-https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://tele-libre.com/img/antena3.png", 🇪🇸 ANTENA 3
+https://tvup-live.akamaized.net/antena3hd/antena3hd.mpd
+#https://tele-libre.com/en-vivo-online/antena-3/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg", 🇪🇸 TVE CLAN
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg", 🇪🇸 TVE TDP
+https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png", 🇪🇸 LA SEXTA
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+https://tvup-live.akamaized.net/lasexta/lasexta.mpd
+#https://tele-libre.com/en-vivo-online/la-sexta/
+#https://tele-libre.com/img/lasexta.png
+#https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #iptv-web.app/ES/LaSexta.es/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", 🇪🇸 TV GALICIA
@@ -264,7 +291,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png", 🇮🇹 LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54CO2u9.png", 🇫🇷 FMITALIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54CO2u9.png", 🇮🇹 FMITALIA
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🇫🇷 FRANCE
@@ -775,6 +802,9 @@ https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 tvg-logo="" , 📡 MSNBC
 https://v2.thetvapp.to/hls/MSNBC.m3u8?token=xjFZP4KO28Sty_KYRG1V7w&expires=1715420109
 #https://tinyurl.com/240501MSNBC
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20240520T222814SQUARE.png" , 📡 Yahoo Finance
+https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
 
 #--------------------------------------------------------------------- GROUP= ⚽ SPORTS
 
