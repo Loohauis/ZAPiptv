@@ -258,6 +258,8 @@ https://tvup-live.akamaized.net/lasexta/lasexta.mpd|Referer=https://tele-libre.c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", 🇪🇸 TV GALICIA
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="",La Liga TV #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"aa3de450728e50edbcd47ab039200f6e":"4b1b1b8eb7585295fc6c9ad054bac647","3884d18d872d50b59ceaf03530cddbcc":"45f5ad675bf4d9056042a90123302c0f","3896c18a4fcd54efabaf9b1bdb1830f5":"e3bf13c8d463af5e5bb567a1c3ea1725"} #https://tvup-live.akamaized.net/laligatv/laligatv.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png", 🇪🇸 SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
@@ -265,6 +267,21 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #https://canalsurmas.es/
 #https://www.youtube.com/@canalsur
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6xNS8T/laligatv.png" group-title="SPORT",LALIGA TV
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/LAc69D6V3qeJxn+F4uazQ","k":"MsSJtnrENMkvqodrb8CP1g"},{"kty":"oct","kid":"FdmsHn5tVKajiGC6ojAEMw","k":"uhJYusaFn3Gm1C/bTwMDCg"},{"kty":"oct","kid":"GU/e/RhvXCS9OZ02Vl2oQw","k":"ucPYgxibV//aPEr0iT/1gw"}]}
+https://tvup-live.akamaized.net/laliga1/laliga1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKf3JSD/babytv.png" group-title="ALVARO DEWA KIDZ",BABY TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"O9i01I5JViOCFXTnl6F9Xg","k":"IX0w8RdgMYOqf3V8NgIvaA"},{"kty":"oct","kid":"7dlhwIg/UP2MDZFan+e1Jw","k":"Dm604osDJkb2xt+2JcwLUg"},{"kty":"oct","kid":"RWIhX2SSUoCKyL+tYRkKRw","k":"h2ABMMywKqypwdBhc4ky9w"}]}
+https://tvup-live.akamaized.net/babytv/babytv.mpd
 
 #--------------------------------------------------------------------- GROUP= 🇮🇹 ITALY
 
