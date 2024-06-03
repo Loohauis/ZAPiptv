@@ -6,10 +6,14 @@
 https://ZAPIPTV.m3u8?channel=00
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uex76Nx.png", 🇵🇹 RTP 1
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWbaWA6.png", 🇵🇹 RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8|Referer=https://rtp.pt/&User-Agent=Android
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE5d2lq.png", 🇵🇹 RTP 3
 #EXTVLCOPT:http-user-agent=Android
@@ -19,14 +23,18 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png", 🇵🇹 TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg", 🇵🇹 TVI REALITY
-https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8|user-agent=user-agent=Opera
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mcshare.iol.pt/wp-content/uploads/2021/06/LOGO-TVI-FICCAO-COR-ESCURO.png", 🇵🇹 TVI FICÇÃO
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8|user-agent=user-agent=Opera
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #-- tvg-logo="", 🇵🇹 TVI MORANGOS COM AÇÚCAR
 #https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
@@ -66,25 +74,35 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SPR2SDK/RTP.png", 🇵🇹 RTP INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GMzcw7/rtpaco.jpg", 🇵🇹 RTP AÇORES
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp", 🇵🇹 RTP ÁFRICA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvwwcB9/rtpmad.jpg", 🇵🇹 RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg", 🇵🇹 RTP MEMÓRIA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg", 🇵🇹 PORTO CANAL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
-#https://tinyurl.com/240312-porto-canal-ptⓍ
+#https://tinyurl.com/240312-porto-canal-pt
 #https://stream-01.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0socIK47te4xdKIhQYZZ-157lw4PMAccQRQBi7EvxXwO)/dm/3/x8egnb8/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://famaradio.pt/wp-content/uploads/2021/01/AF-Logo-FamaTV_cor-whitebg-vertical-e1609525615294-300x286.png", 🇵🇹 FAMA TV
@@ -472,12 +490,14 @@ https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇬🇧 BBC One Lon HD
-https://photocall.cc/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocall.cc/uf8q/bbc?ch=one&User-Agent=Android
+#EXTINF:-1 tvg-logo="", 🇬🇧 BBC One
+https://vavoo.to/play/470818901/index.m3u8
+#https://photocall.cc/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocall.cc/uf8q/bbc?ch=one&User-Agent=Android
 #http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇬🇧 BBC Two Wal HD
-https://photocall.cc/uf8q/fo.m3u8?ch=bbctwo|Referer=https://photocall.cc/uf8q/bbc?ch=two&User-Agent=Android
+#EXTINF:-1 tvg-logo="", 🇬🇧 BBC Two
+https://vavoo.to/play/396403603/index.m3u8
+#https://photocall.cc/uf8q/fo.m3u8?ch=bbctwo|Referer=https://photocall.cc/uf8q/bbc?ch=two&User-Agent=Android
 #http://45.153.35.210:8000/play/UK_bbc_2_HD/index.m3u8
 #http://94.194.203.85:9981/stream/channelid/337248568?ticket=2F8A7278CEA30D81296DEC729A3E0371151794B2&profile=pass
 
@@ -565,7 +585,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 #--------------------------------------------------------------------- GROUP= 🇪🇺 EUROPE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/180px-CNBC_logo.svg.png", 🇪🇺 CNBC EUROPE
-https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
+https://vavoo.to/play/2429493156/index.m3u8
+#https://ythls-v2.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
 #http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 #https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #https://1915617474.rsc.cdn77.org/C758zHFDuUATCHtnWcJ1ZA==,1715439995/1915617474/tracks-v1a1/mono.m3u8
@@ -833,9 +854,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
 #EXTINF:-1 , ⚽ EDGESPORT
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 , ⚽ NBC GOLF Ⓧ
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15898
-
 #EXTINF:-1 , ⚽ ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
@@ -1101,3 +1119,6 @@ https://centova.radio.com.pt/proxy/567?mp=/stream
 #EXTINF:-1 tvg-logo="",🎧 RADIO Z-ROCK
 http://46.10.150.243/z-rock.mp3?stream=m3u8
 #https://zrockfm.com/ways-to-listen/
+
+#EXTINF:-1 tvg-logo="", TEMP
+http://vavoo.to/play/3966581533/index.m3u8
