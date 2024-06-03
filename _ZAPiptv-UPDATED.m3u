@@ -9,9 +9,11 @@ https://ZAPIPTV.m3u8?channel=00
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EWbaWA6.png", 🇵🇹 RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8|Referer=https://rtp.pt/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE5d2lq.png", 🇵🇹 RTP 3
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://rtp.pt/
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png", 🇵🇹 SIC
@@ -227,10 +229,12 @@ https://d3pfmk89wc0vm9.cloudfront.net/24H_ES.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png", 🇪🇸 TVE LA1 Ⓖ
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 #https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/200px-Logo_TVE-2.svg.png", 🇪🇸 TVE LA2 Ⓖ
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 #https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+#https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://tele-libre.com/img/antena3.png", 🇪🇸 ANTENA 3
 https://tvup-live.akamaized.net/antena3hd/antena3hd.mpd
@@ -242,18 +246,13 @@ https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Djbfj/tdp.jpg", 🇪🇸 TVE TDP
 https://d2a02gfcid1k4a.cloudfront.net/Teledeporte_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png", 🇪🇸 LA SEXTA s1
-https://tvup-live.akamaized.net/lasexta/lasexta.mpd|User-Agent="Mozilla/ 5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png", 🇪🇸 LA SEXTA Ⓧ
+http://812439342386321290.of1030ok.xyz:80/play/vi829693/Wan6cEwDvt/321290.ts
+#https://tvup-live.akamaized.net/lasexta/lasexta.mpd|User-Agent="Mozilla/ 5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #https://tele-libre.com/en-vivo-online/la-sexta/
 #https://tele-libre.com/img/lasexta.png
 #https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #iptv-web.app/ES/LaSexta.es/
-
-#EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png", 🇪🇸 LA SEXTA s2
-https://tvup-live.akamaized.net/lasexta/lasexta.mpd|user-agent=user-agent=Opera
-
-#EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png", 🇪🇸 LA SEXTA s3
-https://tvup-live.akamaized.net/lasexta/lasexta.mpd|Referer=https://tele-libre.com/en-vivo-online/la-sexta/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", 🇪🇸 TV GALICIA
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
