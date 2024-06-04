@@ -255,7 +255,10 @@ https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 #https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://tele-libre.com/img/antena3.png", 🇪🇸 ANTENA 3
-https://tvup-live.akamaized.net/antena3hd/antena3hd.mpd
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/254679370/index.m3u8
+#http://vavoo.to/play/2255480833/index.m3u8
 #https://tele-libre.com/en-vivo-online/antena-3/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg", 🇪🇸 TVE CLAN
