@@ -440,8 +440,7 @@ http://vavoo.to/play/2357166742/index.m3u8
 http://154.58.202.194:8000/play/a0fq/index.m3u8
 
 #tvg-logo="", 🇩🇪 RTL Television
-http://154.58.202.35:8003/play/a0ao/index.m3u8
-http://154.58.202.35:8003/play/a0at/index.m3u8
+http://176.10.117.3:5000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sat1_at.png", 🇩🇪 SAT 1
 #EXTVLCOPT:http-user-agent=Android
@@ -451,23 +450,22 @@ http://vavoo.to/play/3017451059/index.m3u8
 #http://vavoo.to/play/2558350352/index.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇩🇪 ProSieben
-http://154.58.202.35:8003/play/a0b2/index.m3u8
+http://176.10.117.3:5000/play/a00l/index.m3u8
 
 #tvg-logo="", 🇩🇪 3sat
-http://154.58.202.35:8003/play/a0cc/index.m3u8
+http://176.10.117.3:5000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 PRO7 MAX
-http://154.58.202.35:8003/play/a0b6/index.m3u8
-#http://135.181.1.235:80/PRO7MAXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 ProSieben MAXX
+http://176.10.117.3:5000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDWuLPv.png", 🇩🇪 KABEL EINS
-http://154.58.202.35:8003/play/a0b3/index.m3u8
+http://176.10.117.3:5000/play/a00n/index.m3u8
 
-#tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
-#http://135.181.1.235:80/SIXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1Dj9iY.png", 🇩🇪 SIXX
+http://176.10.117.3:5000/play/a00r/index.m3u8
 
-#tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF NEO
-#http://45.153.35.210:8000/play/DE_zdf_neo_sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF NEO
+http://176.10.117.3:5000/play/a01e/index.m3u8
 
 #tvg-logo="https://i.imgur.com/nzllgXj.png", 🇩🇪 ZDF INFO
 #http://45.153.35.210:8000/play/DE_zdf_info_sd/index.m3u8
@@ -492,17 +490,17 @@ https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC One
 #EXTVLCOPT:http-user-agent=Android
 #EXTVLCOPT:http-referrer=http://vavoo.to/
-http://vavoo.to/play/4135398046/index.m3u8
+#http://vavoo.to/play/4135398046/index.m3u8
 #http://vavoo.to/play/470818901/index.m3u8
 #http://vavoo.to/play/2946324521/index.m3u8
 #http://vavoo.to/play/283404811/index.m3u8
-#https://photocall.cc/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocall.cc/uf8q/bbc?ch=one&User-Agent=Android
+https://photocalltv.site/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocalltv.site/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC Two
 #EXTVLCOPT:http-user-agent=Android
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #https://vavoo.to/play/396403603/index.m3u8
-https://photocalltv.site/uf8q/fo.m3u8?ch=bbctwo|Referer=https://photocalltv.site/uf8q/fo.m3u8?ch=bbctwo&User-Agent=Android
+https://photocalltv.site/uf8q/fo.m3u8?ch=bbctwo|Referer=https://photocalltv.site/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC AMERICA
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
@@ -1135,7 +1133,7 @@ https://kusnadipepenk.github.io/campeign/skynew.m3u8
 https://epg.pw/stream/711b049b4c0a8425214dcb626ad5ff497b3a58014aa3d8f557f1a83df6c8169f.ctv
 
 #EXTINF:0 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky Sport Football
-https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
+https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.m3u8
 
 #EXTINF:-1 group-title="GRATIS",NET
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
