@@ -328,13 +328,6 @@ https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1468139462496591876/gFsgbdui_400x400.png", 🇫🇷 TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="", 🇫🇷 TV5 MONDE EUROPE Ⓖ
-#EXTVLCOPT:http-user-agent=Android
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-http://vavoo.to/play/3319946628/index.m3u8
-#http://vavoo.to/play/1634775755/index.m3u8
-#https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/150px-Logo_BFM_TV_%282019%29.png", 🇫🇷 BFM PARIS
 https://ren1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=04djlslsvrskffma009g/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
@@ -490,18 +483,14 @@ https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC One
 https://photocalltv.site/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocalltv.site/&User-Agent=Android
-#EXTVLCOPT:http-user-agent=Android
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#http://vavoo.to/play/4135398046/index.m3u8
+#http://vavoo.to/play/4135398046/index.m3u8|Referer=http://vavoo.to/&User-Agent=Android
 #http://vavoo.to/play/470818901/index.m3u8
 #http://vavoo.to/play/2946324521/index.m3u8
 #http://vavoo.to/play/283404811/index.m3u8
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC Two
 https://photocalltv.site/uf8q/fo.m3u8?ch=bbctwo|Referer=https://photocalltv.site/&User-Agent=Android
-#EXTVLCOPT:http-user-agent=Android
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#https://vavoo.to/play/396403603/index.m3u8
+#https://vavoo.to/play/396403603/index.m3u8|Referer=http://vavoo.to/&User-Agent=Android
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC AMERICA
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
@@ -604,6 +593,15 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 #https://watch.plex.tv/pt/live-tv/channel/reuters-tv?autoplay=1
 #https://news.codeautoplay.workers.dev/?codeby=nd&channel=reuters
 
+#EXTINF:-1 tvg-logo="", 🇪🇺 TV5 MONDE EUROPE Ⓖ
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+http://vavoo.to/play/3319946628/index.m3u8
+#http://vavoo.to/play/1634775755/index.m3u8
+#https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" , 📡 BLOOMBERG EUROPE
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
 
 #--------------------------------------------------------------------- GROUP= 🌎 INTERNATIONAL
 
@@ -703,8 +701,8 @@ https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png", 📽 MOVIESPHERE UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg", 📽 STAR MOVIES
-http://124.29.225.205:8000/play/a04n/index.m3u8
+#tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg", 📽 STAR MOVIES
+#http://124.29.225.205:8000/play/a04n/index.m3u8
 
 #tvg-logo="", 📽 THE MOVIE HUB
 #https://dje6yassknq8t.cloudfront.net/playlist.m3u8
@@ -715,8 +713,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpytPtT/hollywood-hd.png", 📽 HOLLYWOOD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6b2KHC.jpeg", 📽 ADRENALINE RUSH
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#tvg-logo="https://i.imgur.com/l6b2KHC.jpeg", 📽 ADRENALINE RUSH
+#https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWtsYYtW/Filmstream.png", 📽 FILMSTREAM
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
@@ -759,7 +757,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #--------------------------------------------------------------------- GROUP= 😊 KIDS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lXqREwB.png", 😊 BABY FIRST TV ⓟ
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png", 😊 BABY TV ⓟ
 http://170.82.37.21:8000/play/a00n/index.m3u8
 #https://kister.net/mpl/yt2m3u8?w=@BabyFirstTV
 
@@ -1121,5 +1119,5 @@ https://centova.radio.com.pt/proxy/567?mp=/stream
 http://46.10.150.243/z-rock.mp3?stream=m3u8
 #https://zrockfm.com/ways-to-listen/
 
-#EXTINF:-1 tvg-logo="", TEST
+#EXTINF:-1 tvg-logo="", TEST-SP1
 http://vavoo.to/play/3966581533/index.m3u8
