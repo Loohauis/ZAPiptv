@@ -840,16 +840,19 @@ https://kister.net/mpl/yt2m3u8?w=@dwnews
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="" , 📡 MSNBC
-https://v2.thetvapp.to/hls/MSNBC.m3u8?token=xjFZP4KO28Sty_KYRG1V7w&expires=1715420109
-#https://tinyurl.com/240501MSNBC
+http://170.254.18.108/MSNBC/mono.m3u8
+#https://v5.thetvapp.to/hls/MSNBC.m3u8?token=kYETgmH4Ovw7jlGh0tasRA&expires=1717807153
+#http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#https://thetvapp.to/tv/
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20240520T222814SQUARE.png" , 📡 Yahoo Finance
 https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
 
 #--------------------------------------------------------------------- GROUP= ⚽ SPORTS
 
-#EXTINF:-1 , ⚽ EDGESPORT
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGZXp4q.png", ⚽ EDGESPORT
+http://vavoo.to/play/3088351394/index.m3u8
+#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 , ⚽ ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -912,16 +915,30 @@ https://kister.net/mpl/yt2m3u8?w=@IloveLx
 #UCjvtkjWwpnhgGv2nutFFr-A
 #https://www.youtube.com/@IloveLx
 
-#EXTINF:-1 tvg-logo="", 👁 PORTO RIBEIRA ROLLING-CAM Ⓨ
+#EXTINF:-1 tvg-logo="", 👁 PORTO RIBEIRA AND GAIA - ROLLING-CAM Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@WebcamTaxi
+#https://www.youtube.com/@WebcamTaxi
 #https://www.youtube.com/watch?v=Gw7ILvR-Hes
+#https://www.youtube.com/watch?v=0MtDBUqr3dI
 
-#EXTINF:-1 tvg-logo="", 👁 Madeira Island Multi-Cams Rolling Ⓨ
-https://kister.net/mpl/yt2m3u8?w=SbCEovxX95U
+#EXTINF:-1 tvg-logo="", 👁 MADEIRA ISLAND - ROLLING-MULTI-CAMS Ⓨ
+https://kister.net/mpl/yt2m3u8?w=_0qsRgLv3AQ
+#https://www.youtube.com/@WebcamTaxi
 #https://www.youtube.com/watch?v=SbCEovxX95U
+#https://www.youtube.com/watch?v=_0qsRgLv3AQ
+#UC1tBnbs03VJ34oLD8cmJSVw
+#webcamtaxi.com/en/
+#portugal-live.net/en/
+#visitar-porto.com/en/
+#madeira-web.com/en/
+#porto-santo.com/
 
-#EXTINF:-1 tvg-logo="", 👁 earthTV® Ⓨ
+#EXTINF:-1 tvg-logo="", 👁 earthTV® | THE WORLD LIVE Ⓨ
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#https://www.youtube.com/@earthTV
+#https://www.youtube.com/watch?v=buAV1t5-23w
+#https://www.youtube.com/watch?v=HfgIFGbdGJ0
+#https://www.youtube.com/watch?v=NgUceJYC_Ik
 
 #EXTINF:-1 tvg-logo="", 👁 Rolling Cam around the World Ⓨ
 https://kister.net/mpl/yt2m3u8?w=@ILoveYouVenice
