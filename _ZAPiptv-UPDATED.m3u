@@ -481,24 +481,17 @@ https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s1
-https://photocall.site/c8eg/fo.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s2
-https://photocall.site/c8eg/fo.m3u8?ch=bbcone|Referer=https://photocalltv.site/&User-Agent=Android
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE
 https://photocall.site/c8eg/fo.m3u8?ch=bbcone#Referer=https://photocalltv.site/#User-Agent=Android
 
-#EXTINF:-1 tvg-logo="", 🇬🇧 BBC TWO
-https://photocalltv.site/h3ct/fo.m3u8?ch=bbctwo|Referer=https://photocalltv.site/&User-Agent=Android
-#https://vavoo.to/play/396403603/index.m3u8|Referer=http://vavoo.to/&User-Agent=Android
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png", 🇬🇧 BBC TWO
+https://photocall.site/c8eg/fo.m3u8?ch=bbctwo#Referer=https://photocalltv.site/#User-Agent=Android
 
-#EXTINF:-1 tvg-logo="", 🇬🇧 BBC THREE
-https://photocalltv.site/h3ct/fo.m3u8?ch=bbcthree|Referer=https://photocalltv.site/&User-Agent=Android
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bbc-three-20089930.logowik.com.webp", 🇬🇧 BBC THREE
+https://photocall.site/c8eg/fo.m3u8?ch=bbcthree#Referer=https://photocalltv.site/#User-Agent=Android
 
-#EXTINF:-1 tvg-logo="", 🇬🇧 BBC FOUR | CBEEBIES
-https://photocalltv.site/h3ct/fo.m3u8?ch=cbeebies|Referer=https://photocalltv.site/&User-Agent=Android
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/907/894/png-transparent-cbeebies-cbbc-television-channel-itv3-apps-miscellaneous-television-text.png", 🇬🇧 BBC FOUR | CBEEBIES
+https://photocall.site/c8eg/fo.m3u8?ch=cbeebies#Referer=https://photocalltv.site/#User-Agent=Android
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC AMERICA
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
