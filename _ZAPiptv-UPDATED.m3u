@@ -481,12 +481,14 @@ https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE
-https://photocalltv.site/uf8q/fo.m3u8?ch=bbcone|Referer=https://photocalltv.site/&User-Agent=Android
-#http://vavoo.to/play/4135398046/index.m3u8|Referer=http://vavoo.to/&User-Agent=Android
-#http://vavoo.to/play/470818901/index.m3u8
-#http://vavoo.to/play/2946324521/index.m3u8
-#http://vavoo.to/play/283404811/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s1
+https://photocall.site/c8eg/fo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s2
+https://photocall.site/c8eg/fo.m3u8?ch=bbcone|Referer=https://photocalltv.site/&User-Agent=Android
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png", 🇬🇧 BBC ONE s3
+https://photocall.site/c8eg/fo.m3u8?ch=bbcone#Referer=https://photocalltv.site/#User-Agent=Android
 
 #EXTINF:-1 tvg-logo="", 🇬🇧 BBC TWO
 https://photocalltv.site/h3ct/fo.m3u8?ch=bbctwo|Referer=https://photocalltv.site/&User-Agent=Android
@@ -818,6 +820,10 @@ https://s.catcast.tv/content/39575/index.m3u8|Referer=https://photocall.cc/uf8q/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV Temp2
 https://s.catcast.tv/content/39575/index.m3u8#Referer=https://photocall.cc/uf8q/l1?ch=viva_russia#User-Agent=Android
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tI7n2ZP.png", 🎵 VIVA TV
+https://viva-russia.ru/iptv.m3u
+#https://viva-russia.ru/
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/78/d8/f1/78d8f180e810ce6e335dd3bc0e052fe8.gif", 🎵 MTV LIVE Ⓧ
 http://45.5.117.182:8000/play/a0ie/index.m3u8
